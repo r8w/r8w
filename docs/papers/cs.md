@@ -5,4 +5,4 @@ parent: Papers
 nav_order: 1
 ---
 
-# Papers Related to Computer Science
+# Papers & Journals
