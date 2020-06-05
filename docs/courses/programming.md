@@ -1,8 +1,22 @@
 ---
 layout: default
 title: Programming
-parent: CSE Courses / Notes
+parent: CSE Courses
 nav_order: 8
 ---
 
-Something
+# Programming
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+# Courses
+
+# Notes
+
+# Links
+
