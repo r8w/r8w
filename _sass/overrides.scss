@@ -1,0 +1,54 @@
+//
+// Custom overrides from a user.
+//
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&display=swap');
+
+.side-bar,
+.page-header,
+.js-page-header {
+    font-family: 'Acme', sans-serif;
+    font-size: 16px;
+}
+
+//.side-bar a, .js-page-header a {
+//	font-family: 'Acme', sans-serif;
+// }
+
+.page-content h1:first-of-type,
+.breadcrumb-nav,
+#markdown-toc,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+.btn,
+footer {
+    font-family: 'Acme', sans-serif;
+}
+
+p, li, ol, dl {
+	font-family: 'Alegreya', serif;
+	font-size: 17px;
+}
+
+table {
+	font-family: 'Alegreya', serif;
+	font-size: 18px;
+}
+
+.fs-6 {
+	font-family: 'Acme', sans-serif;
+	font-size: 20px !important;
+}
+
+code {
+	font-family: 'Fira Code', monospace;
+	font-size: 12px;
+}

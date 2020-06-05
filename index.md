@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Wiki of Rishi ~ Wiki Giri"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/r8w/r8w/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome
+{: .fs-9 }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+__Creating Awesomeness? I don't know. I'm thrilled. I'm little exhausted.__
 
-### Markdown
+{: .fs-6 .fw-300 }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### Why?
 
-# Header 1
-## Header 2
-### Header 3
+Previously, I tried my best to organize everything that’s part of my life which deals with learning, knowledge, and information. I ended setting up GitHub repositories, twice, so that I can put all the content over there, but it didn’t work. I gave up maintaining them. Then, I started Reblog for the same thing, but I couldn’t keep up the pace and enthusiasm to regularly update or maintain it. The domain got expired, and so was my motivation.
 
-- Bulleted
-- List
+A couple of months ago, I decided to give it a shot for one more time. I started the CS Blog but chose to keep it hosted locally. Now, the problem with it is that it's a complete mess. The good thing is - I regularly push updates there, but over time, things are getting messier.
 
-1. Numbered
-2. List
+What I'm trying to do now is just an attempt to organize a part of my life that deals with the things I like, enjoy, and find informative and fascinating.
 
-**Bold** and _Italic_ and `Code` text
+The idea of having a Wiki isn't new to me. Since the last three years, there is a section of my website called __Zen__ which deals with the almost same thing. The only difference would be that this wiki is going to be detaled, organized, diverse, and it will continue to receive updates until I stop learning.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Every day we absorb a crazy amount of information, and we forget them at the same pace. My brain is not highly functional. I'm a slow person when it comes to memorizing, reading, or learning. The best I can do is to write down everything my mind thinks is important. I don't want to forget the important stuff. I can't remember everything, but I do want to remember what I want to.
 
-### Jekyll Themes
+### Structure
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r8w/r8w/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To understand the structure of this Wiki, visit the [Map](map.md). It specifically deals with the sections and their description.
 
-### Support or Contact
+### Inspiration
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Highly inspired by [@geekodour's wiki](https://wiki.geekodour.xyz)
