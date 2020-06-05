@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Wiki of Rishi ~ Wiki Giri"
+description: "Wiki of Rishi"
 permalink: /
 ---
 
@@ -30,7 +30,7 @@ Every day we absorb a crazy amount of information, and we forget them at the sam
 
 ### Structure
 
-To understand the structure of this Wiki, visit the [Map](map.md). It specifically deals with the sections and their description.
+To understand the structure of this Wiki, visit the [Map](/map). It specifically deals with the sections and their description.
 
 ### Inspiration
 
