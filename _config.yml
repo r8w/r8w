@@ -16,7 +16,7 @@
 title: Wiki @ Rishi
 description: Wiki For Lifetime!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://r8w.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -36,7 +36,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Wiki @ GitHub":
-    - "//github.com/CodeDotJS/wiki"
+    - "//github.com/r8w/r8w.github.io"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Rishi Giri"
@@ -46,7 +46,7 @@ color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-2709176-10
+# ga_tracking:
 
 plugins:
   - jekyll-seo-tag
