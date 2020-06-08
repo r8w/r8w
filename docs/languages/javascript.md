@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JavaScript
-parent: Languages / Notes
+parent: Languages
 nav_order: 5
 ---
 

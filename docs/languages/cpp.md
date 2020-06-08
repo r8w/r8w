@@ -1,7 +1,7 @@
 ---
 layout: default
 title: C++
-parent: Languages / Notes
+parent: Languages
 nav_order: 3
 ---
 

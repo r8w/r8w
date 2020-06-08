@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rust
-parent: Languages / Notes
+parent: Languages
 nav_order: 6
 ---
 

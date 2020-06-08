@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CLang
-parent: Languages / Notes
+parent: Languages
 nav_order: 2
 ---
 

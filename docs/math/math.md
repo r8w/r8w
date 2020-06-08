@@ -8,8 +8,5 @@ permalink: /docs/math
 
 # Mathematics
 
-This section will only deal with books, and the scope is limited to the names. The last four sub-sections contain the names of non-technical books.
-
-It's basically a library. Pick one book, check, read, skip, read another, skip...
-
+I love Mathematics, but I'm really bad in it.
 {: .fs-6 .fw-300 }
