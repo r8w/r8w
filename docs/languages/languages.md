@@ -11,4 +11,4 @@ permalink: /docs/languages
 Notes, Resources, Links, Courses.
 {: .fs-6 .fw-300 }
 
-- *Identical to [CSE Courses](../courses/), but limited to Programming/Scripting Language.*
+- *Identical to [CSE Courses](../docs/courses/), but limited to Programming/Scripting Language.*
