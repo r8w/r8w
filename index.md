@@ -28,10 +28,6 @@ The idea of having a Wiki isn't new to me. Since the last three years, there is 
 
 Every day we absorb a crazy amount of information, and we forget them at the same pace. My brain is not highly functional. I'm a slow person when it comes to memorizing, reading, or learning. The best I can do is to write down everything my mind thinks is important. I don't want to forget the important stuff. I can't remember everything, but I do want to remember what I want to.
 
-### Structure
-
-To understand the structure of this Wiki, visit the [Map](/map). It specifically deals with the sections and their description.
-
 ### Inspiration
 
 Highly inspired by [@geekodour's wiki](https://wiki.geekodour.xyz)
