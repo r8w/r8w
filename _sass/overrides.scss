@@ -10,8 +10,8 @@
 .side-bar,
 .page-header,
 .js-page-header {
-    font-family: 'Acme', sans-serif;
-    font-size: 16px;
+	font-family: 'Acme', sans-serif;
+	font-size: 16px;
 }
 
 //.side-bar a, .js-page-header a {
@@ -30,10 +30,13 @@ h6,
 a,
 .btn,
 footer {
-    font-family: 'Acme', sans-serif;
+	font-family: 'Acme', sans-serif;
 }
 
-p, li, ol, dl {
+p,
+li,
+ol,
+dl {
 	font-family: 'Alegreya', serif;
 	font-size: 17px;
 }
@@ -51,4 +54,22 @@ table {
 code {
 	font-family: 'Fira Code', monospace;
 	font-size: 12px;
+}
+
+.fimage {
+	width: 70%
+}
+
+.img-blog {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+
+.img-description {
+	text-align: center;
+	font-weight: bolder;
+	font-style: italic;
+	margin-bottom: 20px;;
 }
