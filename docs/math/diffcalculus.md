@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Differential Calculus
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 8
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calculus 2
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 13
 ---
 

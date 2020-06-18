@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AP Statistics
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 6
 ---
 

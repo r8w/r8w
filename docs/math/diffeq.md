@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Differential Equations
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 15
 ---
 

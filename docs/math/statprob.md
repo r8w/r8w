@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statistics & Probability
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Precalculus
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 7
 ---
 

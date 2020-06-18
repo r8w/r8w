@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linear Algebra
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 16
 ---
 

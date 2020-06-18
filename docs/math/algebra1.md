@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Algebra 1
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 1
 ---
 

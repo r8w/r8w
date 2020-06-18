@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AP Calculus AC
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 11
 ---
 

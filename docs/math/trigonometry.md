@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trigonometry
-parent: Mathematics / Notes
+parent: Mathematics
 nav_order: 3
 ---
 
