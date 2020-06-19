@@ -8,6 +8,10 @@ nav_order: 1
 # Papers & Journals
 {: .no_toc }
 
+Try to write a brief summary when done reading the paper in the separate *Notes* section.
+
+<br>
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -25,4 +29,4 @@ nav_order: 1
 
 # Operating Systems
 
-- [The Linux Operating System](https://sci-hub.tw/10.1109/2.402081) - It's kinda historical piece as it was written a few years later after the initial development of Linux.
+- [The Linux Operating System](https://sci-hub.tw/10.1109/2.402081) - It's a little historical as it was written a few years later after the initial development of Linux. Author described Linux as - *An operating system that runs on IBM PC-compatible machines with Intel-386/486/Pentium or equivalent processors.*
