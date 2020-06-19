@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quotes
-nav_order: 12
+nav_order: 999
 ---
 
 # Quotes
