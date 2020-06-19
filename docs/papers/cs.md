@@ -6,8 +6,17 @@ nav_order: 1
 ---
 
 # Papers & Journals
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ---
+
+# General
 
 - [The Next 700 Programming Languages](http://fsl.cs.illinois.edu/images/e/ef/P157-landin.pdf)
 - [Writing good software engineering research papers](https://dl.acm.org/doi/abs/10.5555/776816.776925)
