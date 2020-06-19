@@ -15,6 +15,12 @@ __Creating Awesomeness? I don't know. I'm thrilled. I'm little exhausted.__
 
 ---
 
+### Introduction
+
+I have a [home page](https://rishi.ml).
+
+---
+
 ### Why?
 
 Previously, I tried my best to organize everything that’s part of my life which deals with learning, knowledge, and information. I ended setting up GitHub repositories, twice, so that I can put all the content over there, but it didn’t work. I gave up maintaining them. Then, I started Reblog for the same thing, but I couldn’t keep up the pace and enthusiasm to regularly update or maintain it. The domain got expired, and so was my motivation.
@@ -27,6 +33,10 @@ The idea of having a Wiki isn't new to me. Since the last three years, there is 
 
 
 Every day we absorb a crazy amount of information, and we forget them at the same pace. My brain is not highly functional. I'm a slow person when it comes to memorizing, reading, or learning. The best I can do is to write down everything my mind thinks is important. I don't want to forget the important stuff. I can't remember everything, but I do want to remember what I want to.
+
+### Status
+
+*Work In Progress* - __*forever*__
 
 ### Inspiration
 
