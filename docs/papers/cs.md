@@ -21,3 +21,8 @@ nav_order: 1
 - [The Next 700 Programming Languages](http://fsl.cs.illinois.edu/images/e/ef/P157-landin.pdf)
 - [Writing good software engineering research papers](https://dl.acm.org/doi/abs/10.5555/776816.776925)
 - [Dehumanizing Computer Science](https://sci-hub.tw/10.1002/9780470125779.ch3)
+
+
+# Operating Systems
+
+- [The Linux Operating System](https://sci-hub.tw/10.1109/2.402081) - It's kinda historical piece as it was written a few years later after the initial development of Linux.
