@@ -38,7 +38,7 @@ Every day we absorb a crazy amount of information, and we forget them at the sam
 
 ### Status
 
-*Work In Progress* - __*forever*__
+Work In Progress.
 
 ---
 
