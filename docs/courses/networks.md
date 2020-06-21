@@ -2,7 +2,7 @@
 layout: default
 title: Networks
 parent: CSE Courses
-nav_order: 6
+nav_order: 5
 ---
 
 # Networks

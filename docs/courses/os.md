@@ -2,7 +2,7 @@
 layout: default
 title: Operating Systems
 parent: CSE Courses
-nav_order: 7
+nav_order: 6
 ---
 
 # Operating System

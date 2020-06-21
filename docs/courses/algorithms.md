@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Algorithms
+title: DS & Algorithms
 parent: CSE Courses
 nav_order: 1
 ---
