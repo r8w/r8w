@@ -16,6 +16,10 @@ nav_order: 2
 
 # Courses
 
+__Level 1__
+
+- [Learn C From Scratch - Educative](https://www.educative.io/courses/learn-c-from-scratch/m280XNlPOkn)
+
 # Notes
 
 # Links
