@@ -63,39 +63,39 @@ List of books that I've read so far. Most of the books were read during the bad 
 This year has been good if I talk about books. I've been extremely curious about various sorts of topics that I've interest in, and this curiosity made me read a lot of good books.
 
 __History__
-- The Last Jew of Treblink - Chil Rajchman
-- Genghis Khan and the Making of the Modern World - Jack Weatherford
-- 1491: New Revelations of the Americas Before Columbus - Charles C. Mann
-- The Wonder The Was India - Arthur Llewellyn Basham
-- Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics - Tim Marshall
+- The Last Jew of Treblinka ― Chil Rajchman
+- Genghis Khan and the Making of the Modern World―Jack Weatherford
+- 1491: New Revelations of the Americas Before Columbus ― Charles C. Mann
+- The Wonder That Was India ― Arthur Llewellyn Basham .
+- Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics ― Tim Marshall
 
 __Classics / Non Fiction__
 - Night - Elie Wiesel
 
 __Philosophy__
-- The Myth of Sisyphus - Albert Camus
-- Nausea - Jean-Paul Sartre
-- Steppenwolf - Hermann Hesse
-- What is Called Thinking? - Martin Heidegger
-- The Stranger - Albert Camus
-- The Wisdom of Insecurity - Alan Watts
-- The Book of Disquiet - Fernando Pessoa
-- Meditations - Marcus Aurelius
-- Critique of Pure Reason - Immanuel Kant
-- Who am I? - Sri Ramana Maharshi
-- Morality - Christopher Hitchens
-- At the Existentialist Café: Freedom, Being, and Apricot Cocktails - Sarah Bakewell
-- On Love - Alain De Botton
-- The Plague - Albert Camus
-- Tao Te Ching - Lao Tzu
-- A History of Western Philosophy - Bertrand Russell
-- Poetry, Language, Thought - Martin Heidegger
-- Being and Time - Martin Heidegger
-- On Violence - Hannah Arendt
-- Cloud-hidden, Whereabouts Unknown - Alan W. Watts
+- The Myth of Sisyphus ― Albert Camus
+- Nausea ― Jean-Paul Sartre
+- Steppenwolf ― Hermann Hesse
+- What is Called Thinking? ― Martin Heidegger
+- The Stranger ― Albert Camus
+- The Wisdom of Insecurity ― Alan Watts
+- The Book of Disquiet ― Fernando Pessoa
+- Meditations ― Marcus Aurelius
+- Critique of Pure Reason ― Immanuel Kant
+- Who am I? ― Sri Ramana Maharshi
+- Mortality ― Christopher Hitchens
+- At the Existentialist Café: Freedom, Being, and Apricot Cocktails ― Sarah Bakewell
+- On Love ― Alain De Botton
+- The Plague ― Albert Camus
+- Tao Te Ching ― Lao Tzu
+- A History of Western Philosophy ― Bertrand Russell
+- Poetry, Language, Thought ― Martin Heidegger
+- Being and Time ― Martin Heidegger
+- On Violence ― Hannah Arendt
+- Cloud-hidden, Whereabouts Unknown ― Alan W. Watts
 
 __Science / Philosophy__
-- The Demon-Haunted World - Carl Sagon 
+- The Demon-Haunted World - Carl Sagan 
 - A Universe From Nothing: Why There Is Something Rather Than Nothing - Lawrence M. Krauss.
 - The Varieties of Scientific Experience: A Personal View of the Search for God- Carl Sagan
 - The Structure of Scientific Revolutions -  Thomas S. Kuhn
@@ -106,7 +106,7 @@ __Religion__
 - Outgrowing God - Richard Dawkins
 - Muhammad: His Life Based on the Earliest Sources - Martin Lings
 - History of God - Karen Armstrong
-- The Great Divorce - C.S. Lewi
+- The Great Divorce - C.S. Lewis
 - God: The Failed Hypothesis: How Science Shows That God Does Not Exist - Victor J. Stenger
 - Atheism: The Case Against God -  George H. Smith
 - Why I am Not a Muslim - Ibn Warraq
