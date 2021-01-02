@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Links
-title: Subjects / Technical
+title: Technical
 nav_order: 1
 ---
 
@@ -24,6 +24,11 @@ nav_order: 1
 - [WikiBooks - Mathematics](https://en.wikibooks.org/wiki/Subject:Mathematics)
 - [Hackernoon - Mathematics Courses](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
 
-# GitHub
+# GitHub Repositories
 
 - [OSSU - Computer Science](https://github.com/ossu/computer-science)
+
+
+# Encoding
+
+- [What's the difference between UTF-8 and UTF-8 without BOM?](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
