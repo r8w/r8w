@@ -32,3 +32,7 @@ nav_order: 1
 # Encoding
 
 - [What's the difference between UTF-8 and UTF-8 without BOM?](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
+
+# Courses
+
+- [OPS School Curriculum](https://www.opsschool.org/index.html) - Operation Engineering
