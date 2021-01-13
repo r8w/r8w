@@ -36,3 +36,4 @@ nav_order: 1
 # Courses
 
 - [OPS School Curriculum](https://www.opsschool.org/index.html) - Operation Engineering
+- [Operating System Overviews](https://applied-programming.github.io/Operating-Systems-Notes/) - Applied Programming / OS Notes

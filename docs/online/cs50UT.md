@@ -1,8 +1,8 @@
 ---
 layout: default
 title: CS50 UT
-parent: Online Courses
 nav_order: 2
+nav_exclude: true
 ---
 
 # Harvard CS50 Understanding Technologies

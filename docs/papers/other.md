@@ -32,3 +32,7 @@ nav_order: 1
 # Bullshit
 
 - [Construction of Gender Identities And The Paradox of Subversion in ‘Rick And Morty’](http://www.journalcra.com/sites/default/files/issue-pdf/31365.pdf)
+
+# Philosophy
+
+- [Misquoting Camus](https://www.academia.edu/19617157/The_noble_art_of_misquoting_Camus_from_its_origins_to_the_Internet_era)
