@@ -24,16 +24,40 @@ nav_order: 1
 - [WikiBooks - Mathematics](https://en.wikibooks.org/wiki/Subject:Mathematics)
 - [Hackernoon - Mathematics Courses](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
 
-# GitHub Repositories
+---
+
+# CS Course
 
 - [OSSU - Computer Science](https://github.com/ossu/computer-science)
 
+---
 
 # Encoding
 
 - [What's the difference between UTF-8 and UTF-8 without BOM?](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
 
-# Courses
+---
 
-- [OPS School Curriculum](https://www.opsschool.org/index.html) - Operation Engineering
+# Operation Engineering
+
+- [OPS School Curriculum](https://www.opsschool.org/index.html)
+
+---
+
+# Operating Systems
+
 - [Operating System Overviews](https://applied-programming.github.io/Operating-Systems-Notes/) - Applied Programming / OS Notes
+
+---
+
+# React
+
+- [React Book - Beginner / GitHub](https://softchris.github.io/books/react/)
+
+---
+
+# Security
+
+- [Authentication and Authorization](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
+
+---
