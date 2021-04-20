@@ -61,3 +61,7 @@ nav_order: 1
 - [Authentication and Authorization](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
 
 ---
+
+# Python
+
+- [Python 3 equivalent of `SimpleHTTPServer`](https://stackoverflow.com/questions/7943751/what-is-the-python-3-equivalent-of-python-m-simplehttpserver)

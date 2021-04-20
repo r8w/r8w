@@ -23,6 +23,8 @@ Garbage and Gold of Wormhole
 
 # Twitter
 
+- [How to read - Blank Sheet Method / Farnam Stree](https://twitter.com/farnamstreet/status/1347173210748551176)
+
 # Facebook
 
 # YouTube
