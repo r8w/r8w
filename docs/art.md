@@ -16,6 +16,12 @@ __*― Vincent Van Gogh*__
 
 I don't paint. I don't want to use mouse. I don't have a sketch-pad which I can use to draw what my mind wants me to, but some days, I feel like I should paint something, although the results are never good, I enjoy doing it.
 
+
+__Update__ 
+
+- I now have an art account - [@iama_rishi.xyz](https://instagram.com/iama_rishi.art)
+- I bought the Wacom One Graphic Tablet, but I don't use it for drawing.
+
 ---
 
 <img src="/media/1.png">
