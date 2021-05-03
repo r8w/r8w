@@ -14,7 +14,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-# Math
+## Mathematics
 
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Math For Programmers](http://wiki.c2.com/?MathForProgrammers..here)
@@ -26,42 +26,49 @@ nav_order: 1
 
 ---
 
-# CS Course
-
-- [OSSU - Computer Science](https://github.com/ossu/computer-science)
-
----
-
-# Encoding
+## Encoding
 
 - [What's the difference between UTF-8 and UTF-8 without BOM?](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
 
 ---
 
-# Operation Engineering
+## Operation Engineering
 
 - [OPS School Curriculum](https://www.opsschool.org/index.html)
 
 ---
 
-# Operating Systems
+## Operating Systems
 
 - [Operating System Overviews](https://applied-programming.github.io/Operating-Systems-Notes/) - Applied Programming / OS Notes
 
 ---
 
-# React
+## React
 
 - [React Book - Beginner / GitHub](https://softchris.github.io/books/react/)
 
 ---
 
-# Security
+## Security
 
 - [Authentication and Authorization](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
 
 ---
 
-# Python
+## Python
 
 - [Python 3 equivalent of `SimpleHTTPServer`](https://stackoverflow.com/questions/7943751/what-is-the-python-3-equivalent-of-python-m-simplehttpserver)
+
+---
+
+## C Language
+
+- [SnapToken](https://viewsourcecode.org/snaptoken/) - Learn and Build Projects
+
+---
+
+## GitHub Repos
+
+- [OSSU - Computer Science](https://github.com/ossu/computer-science)
+- [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
