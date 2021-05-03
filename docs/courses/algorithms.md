@@ -24,7 +24,8 @@ __Level 1__
 
 # Book
 
-- [JavaScript Data Structures and Algorithms]() *by* Sammie Bae
+- [JavaScript Data Structures and Algorithms](https://www.apress.com/gp/book/9781484239872) *by* Sammie Bae
+- [GitHub Repository](https://github.com/Apress/js-data-structures-and-algorithms)
 
 # Notes
 
