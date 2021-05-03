@@ -17,8 +17,17 @@ A small archive for some of my favorite quotes.
 
 - Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become. __*― Paramahansa Yogananda*__
 
-- Study without desire spoils the memory, and it retains nothing that it takes in. __*― Leonardo da Vinci*__ 
+- Study without desire spoils the memory, and it retains nothing that it takes in. __*― Leonardo da Vinci*__
 
 - Spoon feeding in the long run teaches us nothing but the shape of the spoon. __*― E.M. Forster*__
 
 - The whole educational and professional training system is a very elaborate filter, which just weeds out people who are too independent, and who think for themselves, and who don't know how to be submissive, and so on -- because they're dysfunctional to the institutions. __*― Noam Chomsky*__
+
+
+---
+
+---
+
+For more, feel free to visit my photography account [@iama_rishi](https://instagram.com/iama_rishi).
+
+---
