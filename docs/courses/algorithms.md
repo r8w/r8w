@@ -30,12 +30,6 @@ __Level 1__
 
 - Empty
 
-# Links
-
-- [Algorithm Visualizations](https://visualgo.net/en)
-- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-
-
 # Unorganized
 
 TBD
@@ -55,3 +49,5 @@ TBD
 - [Coderscat - Resources](https://coderscat.com/how-to-learn-data-structures-and-algorithms)
 - [Interview Cake](https://www.interviewcake.com/data-structures-and-algorithms-guide)
 - [MIT Intro to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
+- [Algorithm Visualizations](https://visualgo.net/en)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
