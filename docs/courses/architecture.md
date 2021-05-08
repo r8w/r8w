@@ -16,15 +16,23 @@ nav_order: 2
 
 # Courses
 
+__Level 0__
+
+- [CS301 - Computer Architecture](https://learn.saylor.org/course/view.php?id=71#)
+
 __Level 1__
-
-__Level 2__
-
-__Level 3__
 
 - [Princeton University - Computer Architecture Course](https://www.coursera.org/learn/comparch/home/welcome)
 
+__Level 2__
+
+- [Nand2Tetris](https://www.nand2tetris.org/course)
+
 # Books
+
+- [Digital Design and Architecture](https://cseweb.ucsd.edu/classes/wi20/cse140-b/Digital_Design_and_Computer_Architecture_2nd_edition.pdf) - *David Harris and Sarah L. Harris*
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code) - *Charles Petzold*
+	- [`Saved`](chrome-extension://jhhclmfgfllimlhabjkgkeebkbiadflb/reader.html?filename=file%3A%2F%2F%2Fhome%2Frishi%2FDownloads%2FComputer%2520Science%2Fcode%2520the%2520hidden%2520language%2520of%2520computer%2520hardware%2520and%2520.epub)
 
 # Notes
 
@@ -32,11 +40,13 @@ __Level 3__
 
 - [Computer Science from Bottoms Up](https://www.bottomupcs.com/)
 
-# Unorganized
-
 # Resources
 
 - [Princeton University - Computer Architecture - YouTube](https://www.youtube.com/watch?v=ZerbMpQODeI&list=PL2jykFOD1AWa-2gUmJyjQpEUIUEpnz9a9)
 - [IIT Kharagpur - Comp Arch Course](https://www.youtube.com/watch?v=HXYhBCpDoVc&list=PLAPTMtRxw27aMpAaIH1ZZU6U1GwkXAJC-&)
 - [Introduction to Computer Architecture - James C. Hoe](https://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture)
 - [Semantic Web Technologies](https://open.hpi.de/courses/semanticweb/overview)
+
+---
+
+# Unorganized
