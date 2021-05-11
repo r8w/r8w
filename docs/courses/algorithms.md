@@ -2,7 +2,7 @@
 layout: default
 title: DS & Algorithms
 parent: CSE Courses
-nav_order: 1
+nav_order: 2
 ---
 
 # Data Structures & Algorithms
@@ -37,7 +37,7 @@ __Level 3__
 - [Introduction to Algorithms - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 - [Design and Analysis of Algorithms - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 
-# Book
+# Books
 
 - [JavaScript Data Structures and Algorithms](https://www.apress.com/gp/book/9781484239872) - *Sammie Bae*
 	- [`Code`](https://github.com/Apress/js-data-structures-and-algorithms)
@@ -61,8 +61,8 @@ __Level 3__
 
 # Unorganized
 
-TBD
-{: .label .label-green}
+<!-- TBD -->
+<!-- {: .label .label-green} -->
 
 - [A Practical Guide to Algorithms in JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
 - [Data Structures and Algorithms in JavaScript](https://frontendmasters.com/courses/data-structures-algorithms/)
