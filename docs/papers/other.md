@@ -36,3 +36,7 @@ nav_order: 1
 # Philosophy
 
 - [Misquoting Camus](https://www.academia.edu/19617157/The_noble_art_of_misquoting_Camus_from_its_origins_to_the_Internet_era)
+
+# Covid 19
+
+- [How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online](https://arxiv.org/pdf/2101.07993.pdf) - *MIT*
