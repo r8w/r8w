@@ -35,6 +35,8 @@ __Level 2__
 - [Digital Design and Architecture](https://cseweb.ucsd.edu/classes/wi20/cse140-b/Digital_Design_and_Computer_Architecture_2nd_edition.pdf) - *David Harris and Sarah L. Harris*
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code) - *Charles Petzold*
 	- [`Saved`](chrome-extension://jhhclmfgfllimlhabjkgkeebkbiadflb/reader.html?filename=file%3A%2F%2F%2Fhome%2Frishi%2FDownloads%2FComputer%2520Science%2Fcode%2520the%2520hidden%2520language%2520of%2520computer%2520hardware%2520and%2520.epub)
+- Computer Systems: A Programmer's Perspective - *Randy Bryant and Dave O’Hallaron*
+	- [`Saved`](file:///media/rishi/d057170c-fade-44e6-a98a-5028064c1c84/Computer%20Science/Operating%20Systems/Randal%20E.%20Bryant,%20David%20R.%20O'Hallaron%20-%20Computer%20Systems_%20A%20Programmer's%20Perspective-Prentice%20Hall%20(2002).pdf)
 
 # Notes
 
