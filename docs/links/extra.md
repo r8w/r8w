@@ -33,3 +33,13 @@ Rest of the sites are used only for the purpose of summary and DOI.
 
 - [Unpaywall](https://unpaywall.org/)
 - [Radio Garden](http://radio.garden/)
+- [Discudemy](https://www.discudemy.com/)
+
+## Education
+
+- [Saylor](https://learn.saylor.org/index.php?) - Wide variety of subjects with courses!
+- [Today I Learned in Code](https://www.tilcode.com/)
+- [OSU CS Explorer](https://osu-cs-course-explorer.com/)
+- [Moocify Courses](https://www.mooc.fi/#courses)
+- [Stanford Free Courses](https://online.stanford.edu/search-catalog?type=course&free_or_paid[free]=free&page=1)
+- [CBT Nuggets - Free Courses](https://www.cbtnuggets.com/free-it-training)

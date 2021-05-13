@@ -17,3 +17,8 @@ nav_order: 2
 # History
 
 - [WikiBooks - History](https://en.wikibooks.org/wiki/Subject:History)
+
+# Design
+
+- [Start with Design](https://dschool.stanford.edu/resources/get-started-with-design) - *Stanford*
+- [Designing Your Life - A Book](https://designingyour.life/the-book/) - *NY Best Seller*
