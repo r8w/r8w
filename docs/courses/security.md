@@ -47,7 +47,7 @@ This one's a heavy book. I'll need a good amount of time for it. Not in the prio
 
 # Notes
 
-# Resources
+# Links
 
 # Challenges
 
