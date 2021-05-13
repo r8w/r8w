@@ -3,7 +3,6 @@ layout: default
 title: Designing Your Career
 parent: Online Courses
 nav_order: 5
-has_children: true
 ---
 
 # How To Learn
