@@ -59,6 +59,10 @@ The wargames offered by the OverTheWire community can help you to learn and prac
 
 Collection of 48 exercises that demonstrate attacks on real-world crypto.
 
+- [Hack This Site](https://www.hackthissite.org/)
+
+A free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges,
+
 ---
 
 # Unorganized
