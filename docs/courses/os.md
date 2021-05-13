@@ -48,7 +48,7 @@ __Level 3__
 
 # Notes
 
-# Resources
+# Links
 
 - [Xv6 OS](https://pdos.csail.mit.edu/6.828/2017/xv6.html)
 - [CS162](https://www.youtube.com/watch?v=qcyXohw1H00&list=PL--jIyXjDXf6Q4XA6q8RYnyChYzJ0K0F2&index=1)

@@ -46,7 +46,7 @@ __Level 3__
 
 - Empty
 
-# Resources
+# Links
 
 - [Hackr.io - Resources](https://hackr.io/tutorials/learn-data-structures-algorithms)
 - [How To Learn DS & Algo](https://coderscat.com/how-to-learn-data-structures-and-algorithms)

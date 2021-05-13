@@ -48,7 +48,7 @@ This one's a PhD level course, and I'm not sure if I'll ever touch it, but it wo
 
 # Notes
 
-# Resources
+# Links
 
 - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) - *Douglas Thain*
 

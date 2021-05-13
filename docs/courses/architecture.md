@@ -40,7 +40,7 @@ __Level 2__
 
 # Notes
 
-# Resources
+# Links
 
 - [Computer Science from Bottoms Up](https://www.bottomupcs.com/)
 - [Princeton University - Computer Architecture - YouTube](https://www.youtube.com/watch?v=ZerbMpQODeI&list=PL2jykFOD1AWa-2gUmJyjQpEUIUEpnz9a9)
