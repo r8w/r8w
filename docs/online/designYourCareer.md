@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design Your Career
+title: Designing Your Career
 parent: Online Courses
 nav_order: 5
 has_children: true
@@ -9,7 +9,7 @@ has_children: true
 # How To Learn
 {: .no_toc}
 
-*Powerful mental tools to help you master tough subjects*
+The course uses a design thinking approach to help people of any age and academic background develop a constructive and effective approach to designing their vocation.
 
 ---
 
