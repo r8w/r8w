@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Art
-nav_order: 997
+nav_order: 8
 ---
 
 # Art
