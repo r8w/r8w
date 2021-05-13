@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Music
-nav_order: 998
+nav_order: 9
 ---
 
 # Music
