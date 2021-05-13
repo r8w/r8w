@@ -26,9 +26,8 @@ has_children: true
 
 ## Week 1
 
-Course | [Week One](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
-Notes |
-Links |
+- [Section One](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
+
 
 ## Week 2
 
