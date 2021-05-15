@@ -8,6 +8,12 @@ nav_order: 5
 # Resources >> Computer Science
 {: .no_toc }
 
+This section only contains resources related to the different Computer Science Topics.
+
+- There might be some junk, which is okay.
+
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 

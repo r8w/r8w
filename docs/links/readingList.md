@@ -8,8 +8,10 @@ nav_order: 3
 #  Reading >> Watch List
 {: .no_toc }
 
+Things left unread or unwatched due to unavailability of time.
 
-
+- Make sure this section doesn't become an ocean of links.
+- Read everything, shift them to suitable sections in [Blog Posts Archive](../../../docs/links/blog)
 
 ---
 

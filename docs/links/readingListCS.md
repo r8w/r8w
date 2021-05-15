@@ -8,8 +8,7 @@ nav_order: 6
 #  Reading >> Watch List
 {: .no_toc }
 
-
-
+Don't let this section become another archive of links. Read everything.
 
 ---
 

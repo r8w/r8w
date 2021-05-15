@@ -8,7 +8,9 @@ nav_order: 1
 #  Blog Posts
 {: .no_toc }
 
-This page only contains links to blog posts related to different non-cs subjects. For Computer Science related blog posts, check [CSB](../../../docs/links/blogCS).
+Interesting Blog Posts Archive.
+
+- For Computer Science related, check [CSB](../../../docs/links/blogCS).
 
 ---
 

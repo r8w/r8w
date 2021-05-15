@@ -8,8 +8,7 @@ nav_order: 4
 # Blog Posts
 {: .no_toc }
 
-
-
+Computer Science related Blog Posts. For others, check [Blog Post Archive](../../../docs/links/blog).
 
 ---
 
