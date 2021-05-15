@@ -43,6 +43,12 @@ This section only contains resources related to the different Computer Science T
 ## C Language
 
 - [SnapToken](https://viewsourcecode.org/snaptoken/) - Learn and Build Projects
+- [Programming From Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+- [Computer Science from Bottoms Up](https://www.bottomupcs.com/)
+- [C Tutorial - Tutorials Point](https://www.tutorialspoint.com/cprogramming/)
+- [Learn C - Interactive Tutorial](https://www.learn-c.org/)
+- [C Book - All Levels](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list) - *Stack Overflow*
+- [So You Think You Know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 
 ---
 

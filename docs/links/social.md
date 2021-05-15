@@ -25,6 +25,7 @@ Garbage and Gold of Wormhole
 
 - [How to read - Blank Sheet Method / Farnam Stree](https://twitter.com/farnamstreet/status/1347173210748551176)
 - [Overcome procrastination while writing / Julian Shapiro](https://twitter.com/Julian/status/1390744754065977348?s=20)
+- [The Bat Bomb](https://twitter.com/RealTimeWWII/status/1393683489514565638)
 
 # YouTube
 
