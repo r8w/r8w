@@ -52,6 +52,12 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
+## C++
+
+- [Advanced C++/Graphics Tutorials](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - *Playlist*
+
+---
+
 ## Databases
 
 - [UHCL - DMBS Theory](https://www.youtube.com/watch?v=Nv_rPDOwoVQ&list=PLvndR40H6vCUSkb88kFdmlSzAzsnQIJBF) - *Gary Boetticher*

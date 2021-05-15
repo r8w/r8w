@@ -37,7 +37,8 @@ __Part 3__
 # Books
 
 - [Beeg's Guide to C Programming](https://beej.us/guide/bgc/html//index.html)
-- [Modern C](https://modernc.gforge.inria.fr/) - *Jens Gustedt* - [`OPEN`](file:///media/rishi/d057170c-fade-44e6-a98a-5028064c1c84/Computer%20Science/Language/C/ModernC.pdf) >> [`Code`](https://gforge.inria.fr/frs/?group_id=6881)
+- [Modern C](https://modernc.gforge.inria.fr/) - *Jens Gustedt*
+	- [`SAVED`](file:///media/rishi/d057170c-fade-44e6-a98a-5028064c1c84/Computer%20Science/Language/C/ModernC.pdf) >> [`Code`](https://gforge.inria.fr/frs/?group_id=6881)
 
 # Notes
 
