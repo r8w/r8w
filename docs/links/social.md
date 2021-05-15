@@ -2,7 +2,7 @@
 layout: default
 parent: Links
 title: Social Media
-nav_order: 3
+nav_order: 996
 ---
 
 # Social Media
@@ -26,12 +26,9 @@ Garbage and Gold of Wormhole
 - [How to read - Blank Sheet Method / Farnam Stree](https://twitter.com/farnamstreet/status/1347173210748551176)
 - [Overcome procrastination while writing / Julian Shapiro](https://twitter.com/Julian/status/1390744754065977348?s=20)
 
-# Facebook
-
 # YouTube
 
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 
-# Quora
+# Reddit
 
-# Instagram

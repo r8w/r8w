@@ -1,13 +1,13 @@
 ---
 layout: default
 parent: Links
-title: Extra
-nav_order: 4
+title: Cool
+nav_order: 997
 ---
 
-# Extra
+# Cool
 
-If no idea where to put things, I'll put them here.
+Things that I find cool on the Internet
 
 ---
 

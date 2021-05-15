@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Links
-title: Technical
-nav_order: 1
+title: Resources - CS
+nav_order: 5
 ---
 
-# Subjects / Technical Dump
+# Resources >> Computer Science
 {: .no_toc }
 
 ## Table of contents
@@ -13,22 +13,6 @@ nav_order: 1
 
 1. TOC
 {:toc}
-
-## Mathematics
-
-- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-- [Math For Programmers](http://wiki.c2.com/?MathForProgrammers..here)
-- [Nrich - Recommended Books](https://nrich.maths.org/books)
-- [Coding Math - What You Should Know](https://magoosh.com/data-science/coding-math-what-you-should-know/)
-- [Math ∩ Programming](https://jeremykun.com/main-content/)
-- [WikiBooks - Mathematics](https://en.wikibooks.org/wiki/Subject:Mathematics)
-- [Hackernoon - Mathematics Courses](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
-
----
-
-## Encoding
-
-- [What's the difference between UTF-8 and UTF-8 without BOM?](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
 
 ---
 
@@ -50,29 +34,9 @@ nav_order: 1
 
 ---
 
-## Security
-
-- [Authentication and Authorization](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
-
----
-
-## Python
-
-- [Python 3 equivalent of `SimpleHTTPServer`](https://stackoverflow.com/questions/7943751/what-is-the-python-3-equivalent-of-python-m-simplehttpserver)
-
----
-
 ## C Language
 
 - [SnapToken](https://viewsourcecode.org/snaptoken/) - Learn and Build Projects
-
----
-
-## GitHub Repos
-
-- [OSSU - Computer Science](https://github.com/ossu/computer-science)
-- [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
-- [Free Video Courses](https://github.com/Developer-Y/cs-video-courses)
 
 ---
 
@@ -81,7 +45,6 @@ nav_order: 1
 - [UHCL - DMBS Theory](https://www.youtube.com/watch?v=Nv_rPDOwoVQ&list=PLvndR40H6vCUSkb88kFdmlSzAzsnQIJBF) - *Gary Boetticher*
 - [Introduction to DBMS](https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - *Jenny*
 - [Principles of Database Management System](https://www.pdbmbook.com/)
-- [How Does a Relational Database Works](http://coding-geek.com/how-databases-work/)
 - [Database Design](https://www.youtube.com/watch?v=e7Pr1VgPK4w&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID&index=2) - *Caleb Curry*
 - [Database MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html) - *Stanford*
 - [UC Berkeley - CS186 : Introduction to Database Systems](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) - *Joe Hellerstein*
@@ -95,7 +58,6 @@ nav_order: 1
 - [Khan Academy - SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 - [SQL Zoo](https://sqlzoo.net/)
 - [SQL EX RU](https://sql-ex.ru/)
-- [SQL Tutorial For Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
 - [SQL Bot](https://sqlbolt.com/)
 - [Databases - Relational and SQL](https://www.edx.org/course/databases-5-sql) - *Stanford*
 - [Database Fundamentals](https://www.youtube.com/watch?v=xNJZYX6tpWU)
@@ -105,15 +67,14 @@ nav_order: 1
 - [Fundamentals of Database Systems](https://www.amazon.com/dp/0321122267) - *Amazon*
 - [MongoDB Course Catalog](https://university.mongodb.com/courses/catalog?) - *Mongo University*
 
+---
+
 ## Data Structures and Algorithms
 
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - *HumbleFool*
 - [CS 61B Data Structures, Spring 2018](https://sp18.datastructur.es/) - *Josh Hug*
 
-## Browsers
-
-- [What is `about:blank` and how do you remove it?](https://www.howtogeek.com/656466/what-is-aboutblank-and-how-do-you-remove-it/)
-- [Four part drawsplainer on how browsers work](https://developers.google.com/web/updates/2018/09/inside-browser-part1) - *Mariko Kosaka*
+---
 
 ## Compilers
 
@@ -123,15 +84,18 @@ nav_order: 1
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 - [Writing Your Own Compiler in 24 Hours](https://vimeo.com/113588390) - *Phillip Trelford*
 - [Another Tool for Language Recognition](https://www.antlr.org/)
-- [Compiler Design Tutorial](http://dev.tutorialspoint.com/compiler_design/index.htm)
 - [Crafting Interpreters](https://craftinginterpreters.com/)
 - [Compiler Books - GNU](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
 - [Learning To Write A Compiler](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler) - *Stack Overflow*
 - [Compiler Construction](http://www.cs.sjsu.edu/~louden/cmptext/) - *Kenneth C. Louden*
 
+---
+
 ## Computer Architecture
 
 - [CSCI E-93 Computer Architecture](https://online-learning.harvard.edu/course/computer-architecture-0?delta=0) - *Stanford*
+
+---
 
 ## Security
 
@@ -140,6 +104,8 @@ nav_order: 1
 - [Nathan House - Security Catalog](https://www.udemy.com/user/nathan-house/)
 - [Looking to get started in CyberSecurity](https://www.reddit.com/r/learnprogramming/comments/32g958/looking_to_get_started_in_cybersecurity/cqazmcn/) - *Reddit*
 - [Vulnerable by Design](https://www.vulnhub.com/)
+
+---
 
 ## Computer Networks
 
@@ -153,6 +119,10 @@ nav_order: 1
 
 ---
 
-## Junk
+## GitHub Repos
 
-- [Self Upgrade Professor - Curated List](https://raw.githubusercontent.com/sharjeelsayed/learn.sharjeelsayed.com/master/selfupgradeitprof.txt)
+- [OSSU - Computer Science](https://github.com/ossu/computer-science)
+- [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)
+- [Free Video Courses](https://github.com/Developer-Y/cs-video-courses)
+
+---
