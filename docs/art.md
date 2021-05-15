@@ -18,7 +18,7 @@ I don't paint. I don't want to use mouse. I don't have a sketch-pad which I can 
 
 - The paintings can be found here -
 	- [Hallucinating Sky](/media/7.jpg)
-	- [Moon and the River](/media/6.jpg)
+	- [Moon and the River](/media/6.png)
 	- [Night Sky](/media/2.png)
 	- [Forest in a Dream](/media/3.png)
 	- [Shadow of Sun](/media/5.png)
