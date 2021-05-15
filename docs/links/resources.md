@@ -29,4 +29,9 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 
 # Podcasts
 
----
+# Topics
+
+## Geo Politics
+
+### Middle East
+
