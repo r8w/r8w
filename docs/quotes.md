@@ -28,6 +28,8 @@ A small archive for some of my favorite quotes.
 
 ---
 
-For more, feel free to visit my photography account [@iama_rishi](https://instagram.com/iama_rishi).
+- For more, feel free to visit my photography account [@iama_rishi](https://instagram.com/iama_rishi).
+
+- I usually like the quotes that <a href="https://instagram.com/_nitch">@_nitch</a> puts on Instagram.
 
 ---
