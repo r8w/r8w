@@ -6,14 +6,16 @@ has_children: true
 permalink: /docs/education
 ---
 
-# Notes
+# Education
 
 __Introduction__
 
-God gave me two brain cells, and this makes everything hard for me. If I don't write, I won't remember.
+I'm highly unsatisfied by the Indian Education System, and I wish I could do something, but it's a long way to go. I'm not sure if I'll ever be able to see Indian Education System the way I want to see, but it's okay. I'm willing to put my words out, doesn't matter if anyone reads it or not.
 
-__How's this different from other sections which have *notes*__?
+This section contains quite a few things:
 
-This note-taking section is course-independent. Topics are undecided. Everything will be written during the process of learning and understanding.
-
-- All the notes will be dumped at [r8w @ notes](https://r8w.github.io/notes){:target="_blank"}
+- Flaws of Indian Education System
+- Related news
+- Resources
+- What Government is doing?
+- My Opinion
