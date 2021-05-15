@@ -3,7 +3,7 @@ layout: default
 title: Education
 nav_order: 8
 has_children: true
-permalink: /docs/notes
+permalink: /docs/education
 ---
 
 # Notes
