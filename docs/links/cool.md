@@ -34,6 +34,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 - [Unpaywall](https://unpaywall.org/)
 - [Radio Garden](http://radio.garden/)
 - [Discudemy](https://www.discudemy.com/)
+- [ExcaliDraw](https://excalidraw.com/)
 
 ## Education
 
