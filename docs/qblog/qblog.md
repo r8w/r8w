@@ -9,4 +9,3 @@ permalink: /docs/qblog
 # Quote Blog
 
 This section is inspired by __Aaron Swartz's__ *QuoteBlog*
-
