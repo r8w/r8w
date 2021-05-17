@@ -30,6 +30,7 @@ Garbage and Gold of Wormhole
 # YouTube
 
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [Object Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 
 # Reddit
 

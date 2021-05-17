@@ -58,6 +58,31 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
+## Go
+
+- [Web Development with Go](https://www.usegolang.com/)
+- [Learn Go - Github Wiki](https://github.com/golang/go/wiki/Learn)
+- [Learn Go - The Complete Bootcamp](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/) - *Udemy*
+- [Go from Scratch](https://www.reddit.com/r/golang/comments/5djil6/what_are_the_best_resources_to_learn_go_from/da5l5hk?utm_source=share&utm_medium=web2x&context=3) - *Reddit*
+- [Go Books](https://github.com/dariubs/GoBooks)
+- [Go Resources](http://www.golang-book.com/)
+- [Exercism - GO](https://exercism.io/tracks/go)
+- [Go Packages](https://github.com/radovskyb/go-packages)
+- [Web Dev Golang - Anti Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [Resources for New Go Programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+- [Learn To Code - Go](https://www.youtube.com/channel/UCElzlyMtkoXaO3kFa5HL0Xw) - *YouTube Channel*
+- [Coding Exercises for Building Gophers](https://gophercises.com/)
+- [Your GO-To-Guide - YourBasics](https://yourbasic.org/golang/)
+- [Learn Web Programming by Examples](https://gowebexamples.com/)
+- [Go Web Programming](https://www.manning.com/books/go-web-programming) - *Manning*
+- [Learn How To Code - Google's Go Programing Language](https://www.udemy.com/course/learn-how-to-code/) - *Udemy*
+- [Think GO](https://github.com/glycerine/thinkgo)
+- [Let's Go - Learn to Build Professional Web Applications with Go](https://lets-go.alexedwards.net/)
+- [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - *YouTube Playlist*
+- [Go for Everyone](https://www.calhoun.io/)
+
+---
+
 ## Databases
 
 - [UHCL - DMBS Theory](https://www.youtube.com/watch?v=Nv_rPDOwoVQ&list=PLvndR40H6vCUSkb88kFdmlSzAzsnQIJBF) - *Gary Boetticher*
