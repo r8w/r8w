@@ -57,6 +57,15 @@ Garbage and Gold of Wormhole
 
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
 
+## History
+
+### Israel and Palestine
+
+- [The Conflict between Israel and Palestine - Crash Course](https://www.youtube.com/watch?v=1wo2TLlMhiw)
+- [The Israel-Palestine Conflict - A Brief, Simple History - VOX](https://www.youtube.com/watch?v=iRYZjOuUnlU)
+- [Rick Steves' The Holy Land: Israelis and Palestinians Today](https://www.youtube.com/watch?v=wg1unr6eNpQ)
+- [This House Believes Israel is a Rouge State - The Cambridge Union](https://www.youtube.com/watch?v=jjkivkkZYNo)
+
 ## Opinion
 
 - [Object Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)

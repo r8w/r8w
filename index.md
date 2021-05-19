@@ -28,3 +28,7 @@ Notes are dumped at [r8w](https://r8w.github.io/notes/).
 A valid explanation for the existence of this wiki can be found [here](https://rishi.ml/2020/wiki/)!
 
 ---
+
+<p align="center">Even when I'm dead, this page will exist.</p>
+
+---

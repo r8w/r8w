@@ -10,6 +10,7 @@ nav_order: 1
 
 Interesting Blog Posts Archive.
 
+- Not just limited to texts, but videos, as well.
 - For Computer Science related, check [CSB](../../../docs/links/blogCS).
 
 ---
@@ -41,5 +42,12 @@ Interesting Blog Posts Archive.
 # Biology
 
 - [Preventing respiratory syncytial virus (RSV) disease in children](https://science.sciencemag.org/content/372/6543/686)
+
+# History
+
+## Israel-Palestine
+
+- [The Birth of Israel](https://topdocumentaryfilms.com/birth-of-israel/) - *Documentary*
+
 
 ---
