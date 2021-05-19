@@ -22,10 +22,13 @@ Interesting Blog Posts Archive.
 
 ---
 
+# Self Improvement
+
+- [Difference Between Amateurs and Professionals](https://fs.blog/2017/08/amateurs-professionals/)
+
 # Psychology
 
 - [How to Think - The Skill You've Never Been Taught](https://fs.blog/2015/08/how-to-think/)
-
 
 # Leadership
 
@@ -34,5 +37,9 @@ Interesting Blog Posts Archive.
 # Mindset
 
 - [Open Tabs Are Cognitive Spaces](https://rybakov.com/blog/open_tabs_are_cognitive_spaces/)
+
+# Biology
+
+- [Preventing respiratory syncytial virus (RSV) disease in children](https://science.sciencemag.org/content/372/6543/686)
 
 ---

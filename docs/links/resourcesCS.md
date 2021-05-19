@@ -22,25 +22,31 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## Operation Engineering
+# CSS
+
+- [Learn CSS](https://web.dev/learn/css/box-model/) - *Google*
+
+---
+
+# Operation Engineering
 
 - [OPS School Curriculum](https://www.opsschool.org/index.html)
 
 ---
 
-## Operating Systems
+# Operating Systems
 
 - [Operating System Overviews](https://applied-programming.github.io/Operating-Systems-Notes/) - Applied Programming / OS Notes
 
 ---
 
-## React
+# React
 
 - [React Book - Beginner / GitHub](https://softchris.github.io/books/react/)
 
 ---
 
-## C Language
+# C Language
 
 - [SnapToken](https://viewsourcecode.org/snaptoken/) - Learn and Build Projects
 - [Programming From Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
@@ -52,13 +58,13 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## C++
+# C++
 
 - [Advanced C++/Graphics Tutorials](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - *Playlist*
 
 ---
 
-## Go
+# Go
 
 - [Web Development with Go](https://www.usegolang.com/)
 - [Learn Go - Github Wiki](https://github.com/golang/go/wiki/Learn)
@@ -83,43 +89,61 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## Databases
+# Databases
+
+## YouTube Playlist
 
 - [UHCL - DMBS Theory](https://www.youtube.com/watch?v=Nv_rPDOwoVQ&list=PLvndR40H6vCUSkb88kFdmlSzAzsnQIJBF) - *Gary Boetticher*
 - [Introduction to DBMS](https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - *Jenny*
-- [Principles of Database Management System](https://www.pdbmbook.com/)
 - [Database Design](https://www.youtube.com/watch?v=e7Pr1VgPK4w&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID&index=2) - *Caleb Curry*
-- [Database MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html) - *Stanford*
+
+## Tutorials
+
+- [Database Fundamentals](https://www.youtube.com/watch?v=xNJZYX6tpWU)
+- [Basic SQL](https://academy.vertabelo.com/course/sql-queries#)
+
+## Courses
+
 - [UC Berkeley - CS186 : Introduction to Database Systems](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) - *Joe Hellerstein*
-- [Architecture of a Database Systems](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) - *Joseph M. Hellerstein, Michael Stonebraker and James Hamilton*
-- [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493) - *Michael Hernandez*
-- [SQL Fiddle](http://sqlfiddle.com/)
-- [Database System - The Complete Book](https://www.amazon.com/Database-Systems-Complete-Book-Garcia-Molina/dp/933251867X/?pldnSite=1)
+- [Khan Academy - SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Database MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html) - *Stanford*
+- [Databases - Relational and SQL](https://www.edx.org/course/databases-5-sql) - *Stanford*
+- [DB Grussell SQL](https://db.grussell.org/sql/)
+
+## Sites
+
+- [Planet Scale](https://docs.planetscale.com/) - *MySQL compatible, serverless database platform*
 - [Modern SQL](https://modern-sql.com/)
 - [Use The Index, Luke](https://use-the-index-luke.com/)
-- [Basic SQL](https://academy.vertabelo.com/course/sql-queries#)
-- [Khan Academy - SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+- [SQL Fiddle](http://sqlfiddle.com/)
 - [SQL Zoo](https://sqlzoo.net/)
 - [SQL EX RU](https://sql-ex.ru/)
 - [SQL Bot](https://sqlbolt.com/)
-- [Databases - Relational and SQL](https://www.edx.org/course/databases-5-sql) - *Stanford*
-- [Database Fundamentals](https://www.youtube.com/watch?v=xNJZYX6tpWU)
-- [DB Grussell SQL](https://db.grussell.org/sql/)
-- [A Beginners Guide to SQL Database Design](https://stackoverflow.com/questions/377375/a-beginners-guide-to-sql-database-design) - *Stack Overflow*
+
+## Books
+
+- [Principles of Database Management System](https://www.pdbmbook.com/)
+- [Architecture of a Database Systems](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf) - *Joseph M. Hellerstein, Michael Stonebraker and James Hamilton*
+- [Database Design for Mere Mortals](https://www.amazon.com/Database-Design-Mere-Mortals-Hands/dp/0321884493) - *Michael Hernandez*
 - [Seven Database in Seven Weeks](https://www.amazon.in/Seven-Databases-Weeks-Eric-Redmond/dp/1934356921) - *Amazon*
 - [Fundamentals of Database Systems](https://www.amazon.com/dp/0321122267) - *Amazon*
+- [Database System - The Complete Book](https://www.amazon.com/Database-Systems-Complete-Book-Garcia-Molina/dp/933251867X/?pldnSite=1)
+
+## Others
+
+- [A Beginners Guide to SQL Database Design](https://stackoverflow.com/questions/377375/a-beginners-guide-to-sql-database-design) - *Stack Overflow*
 - [MongoDB Course Catalog](https://university.mongodb.com/courses/catalog?) - *Mongo University*
 
 ---
 
-## Data Structures and Algorithms
+# Data Structures and Algorithms
 
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - *HumbleFool*
 - [CS 61B Data Structures, Spring 2018](https://sp18.datastructur.es/) - *Josh Hug*
 
 ---
 
-## Compilers
+# Compilers
 
 - [An Incremental Approach To Compiler Construction](http://schemeworkshop.org/2006/11-ghuloum.pdf)
 - [Project Oberon](http://www.projectoberon.com/)
@@ -134,13 +158,13 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## Computer Architecture
+# Computer Architecture
 
 - [CSCI E-93 Computer Architecture](https://online-learning.harvard.edu/course/computer-architecture-0?delta=0) - *Stanford*
 
 ---
 
-## Security
+# Security
 
 - [The Cuckoo's Egg Decompiled Course](https://chrissanders.org/training/cuckoosegg/) - *Chris Sanders*
 - [Computer Security Basics](https://learning.oreilly.com/library/view/computer-security-basics/0596006691/) - *Oreilly*
@@ -150,7 +174,7 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## Computer Networks
+# Computer Networks
 
 - [Beeg's Guide To Network Programming](https://beej.us/guide/bgnet/)
 - [CompTIA N10-007 Network+ Course](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/) - *Professor Messer*
@@ -162,7 +186,7 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
-## GitHub Repos
+# GitHub Repos
 
 - [OSSU - Computer Science](https://github.com/ossu/computer-science)
 - [The GNU C Programming Tutorial](http://crasseux.com/books/ctutorial/)

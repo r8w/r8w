@@ -19,3 +19,4 @@ nav_order: 8
 # General
 
 - [Homage To Catalonia](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia) - *George Orwerll*
+- [The Second World War](https://www.goodreads.com/book/show/13528287-the-second-world-war) - *Antony Beevor*
