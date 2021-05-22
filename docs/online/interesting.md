@@ -8,7 +8,7 @@ nav_order: 998
 # Interesting Courses
 {: .no_toc}
 
-List of courses that seem interesting.
+List of courses that seem interesting. Not a subject-centric section.
 
 ---
 
