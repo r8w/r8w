@@ -5,8 +5,12 @@ parent: Books
 nav_order: 8
 ---
 
-# Collection
+# Dump
 {: .no_toc }
+
+Dump, but probably not a garbage bin.
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }

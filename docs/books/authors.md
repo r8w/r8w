@@ -8,8 +8,11 @@ nav_order: 7
 # Collection
 {: .no_toc }
 
-NON TECHNICAL
-{: .label }
+Some good writers and their books.
+
+- This section also contains the list of books suggested by friends. Find them [here](#suggestions).
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }

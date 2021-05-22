@@ -8,9 +8,9 @@ nav_order: 4
 # Year of Books
 {: .no_toc }
 
+Inspired from Aaron Swart's [Year of Books](http://www.aaronsw.com/weblog/books2011).
 
-96 Books
-{: .label }
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -66,34 +66,34 @@ Read more ~ [A Year of Books - 2020](https://rishi.ml/2020/year-of-books/)
 __History__
 - The Last Jew of Treblinka ― *Chil Rajchman*
 - Genghis Khan and the Making of the Modern World ― *Jack Weatherford*
-- 1491: New Revelations of the Americas Before Columbus ― *Charles C. Mann*  
+- 1491: New Revelations of the Americas Before Columbus ― *Charles C. Mann*
 - The Wonder That Was India ― *Arthur Llewellyn Basham*
-- Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics ― *Tim Marshall*  
+- Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics ― *Tim Marshall*
 
 __Classics / Non Fiction__
 - Night ― *Elie Wiesel*
 
 __Philosophy__
-- The Myth of Sisyphus__ ― *Albert Camus*  
+- The Myth of Sisyphus__ ― *Albert Camus*
 - Nausea ― *Jean-Paul Sartre*
-- Steppenwolf ― *Hermann Hesse*  
-- What is Called Thinking? ― *Martin Heidegger*  
-- The Stranger ― *Albert Camus*  
-- The Wisdom of Insecurity ― *Alan Watts*  
+- Steppenwolf ― *Hermann Hesse*
+- What is Called Thinking? ― *Martin Heidegger*
+- The Stranger ― *Albert Camus*
+- The Wisdom of Insecurity ― *Alan Watts*
 - The Book of Disquiet ― *Fernando Pessoa*
-- Meditations ― *Marcus Aurelius*  
+- Meditations ― *Marcus Aurelius*
 - Critique of Pure Reason ― *Immanuel Kant*
-- Who am I? ― *Sri Ramana Maharshi*  
-- Mortality ― *Christopher Hitchens*  
+- Who am I? ― *Sri Ramana Maharshi*
+- Mortality ― *Christopher Hitchens*
 - At the Existentialist Café: Freedom, Being, and Apricot Cocktails ― *Sarah Bakewell*
-- On Love ― *Alain De Botton*  
-- The Plague ― *Albert Camus*  
+- On Love ― *Alain De Botton*
+- The Plague ― *Albert Camus*
 - Tao Te Ching ― *Lao Tzu*
-- A History of Western Philosophy ― *Bertrand Russell*  
-- Poetry, Language, Thought ― *Martin Heidegger*  
+- A History of Western Philosophy ― *Bertrand Russell*
+- Poetry, Language, Thought ― *Martin Heidegger*
 - Being and Time ― *Martin Heidegger*
 - On Violence ― *Hannah Arendt*
-- Cloud-hidden, Whereabouts Unknown ― *Alan W. Watts*  
+- Cloud-hidden, Whereabouts Unknown ― *Alan W. Watts*
 
 __Science / Philosophy__
 - The Demon-Haunted World ― *Carl Sagan*
@@ -116,29 +116,29 @@ __Religion__
 - Under the Banner of Heaven: A Story of Violent Faith ―  *Jon Krakauer*
 
 __Spirituality / Philosophy__
-- A Search In Secret India ― *Paul Brunton*  
+- A Search In Secret India ― *Paul Brunton*
 - The Dhammapada ― *Ananda Maitreya*
-- The Way of Zen ―  *Alan W. Watts*  
+- The Way of Zen ―  *Alan W. Watts*
 - The Spiritual Teaching of Ramana Maharshi ― *Ramana Maharshi*
 
 __Politics__
-- Manufacturing Consent ― *Edward S. Herman, Noam Chomsky*  
+- Manufacturing Consent ― *Edward S. Herman, Noam Chomsky*
 - Fascism: A Warning ― *Madeleine K. Albright*
 
 
 __Classics / Literature / Fiction / Contemporary__
-- Persuasion ― *Jane Austen*   
-- Something Wicked This Way Comes ― *Ray Bradbury*  
+- Persuasion ― *Jane Austen*
+- Something Wicked This Way Comes ― *Ray Bradbury*
 - The Sirens of Titan ― *Kurt Vonnegut*
-- Extremely Loud & Incredibly Close ― *Jonathan Safran Foer*  
-- Dandelion Wine ― *Ray Bradbury*  
+- Extremely Loud & Incredibly Close ― *Jonathan Safran Foer*
+- Dandelion Wine ― *Ray Bradbury*
 - A Passage to India ― *E.M. Forster*
 
 __Psychology__
-- The Righteous Mind: Why Good People Are Divided by Politics and Religion ― *Jonathan Haidt*  
-- Personality: What Makes You the Way You Are ― *Daniel Nettle*  
-- Predictably Irrational: The Hidden Forces That Shape Our Decisions ―  *Dan Ariely*  
-- The Science of Evil: On Empathy and the Origins of Cruelty ― *Simon Baron-Cohen*  
+- The Righteous Mind: Why Good People Are Divided by Politics and Religion ― *Jonathan Haidt*
+- Personality: What Makes You the Way You Are ― *Daniel Nettle*
+- Predictably Irrational: The Hidden Forces That Shape Our Decisions ―  *Dan Ariely*
+- The Science of Evil: On Empathy and the Origins of Cruelty ― *Simon Baron-Cohen*
 
 <br>
 

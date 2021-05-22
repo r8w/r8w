@@ -8,8 +8,6 @@ permalink: /docs/books
 
 # Books
 
-This section will only deal with books, and the scope is limited to the names. The last four sub-sections contain the names of non-technical books.
-<!-- {: .fs-6 .fw-300 } -->
+This section deals with books, and the scope is limited to the names. It's more of a library. Nothing is opinionated here. There's no garbage can be found in any of the sub-sections. I've avoided what didn't or doesn't interests me.
 
-It's basically a library. Pick one book, check, read, skip, read another, skip, repeat.
-<!-- {: .fs-6 .fw-300 } -->
+I'm not an avid reader, but I like the idea of having some reading. I dislike the term "bibliophile".

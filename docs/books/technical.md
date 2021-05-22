@@ -10,6 +10,8 @@ nav_order: 3
 
 This section deals with all the books related to the different technical topics across web.
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 

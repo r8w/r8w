@@ -10,6 +10,8 @@ nav_order: 5
 
 This section deals with the books related to the different topics like Religion, History, War, Science etc.
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 

@@ -7,10 +7,11 @@ nav_order: 5
 
 # Books to Read
 
-Non Technical
-{: .label}
+There are lots of books that I'd like to read. This a few list of a few books that I can think of at the moment.
 
-There are lots of books that I'd love to read, here's a few list of a few -
+- Rest are in [Dump](../../../docs/books/dump/#general)
+
+---
 
 ## 2019
 
