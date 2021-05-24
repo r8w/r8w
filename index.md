@@ -9,7 +9,7 @@ permalink: /
 # Welcome
 {: .fs-9 }
 
-__*Creating Awesomeness? I don't know. I'm thrilled. I'm little exhausted.*__
+__*Creating Awesomeness? I don't know. I'm thrilled. I'm a bit exhausted.*__
 
 {: .fs-6 .fw-300 }
 
