@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Education
+parent: Problems
 title: News
 nav_order: 2
 ---

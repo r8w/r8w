@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Education
+parent: Problems
 title: Flaws
 nav_order: 1
 ---

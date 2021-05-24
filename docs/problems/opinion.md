@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Education
+parent: Problems
 title: Opinion
 nav_order: 5
 ---

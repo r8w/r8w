@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Education
+parent: Problems
 title: Resources
 nav_order: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Education
-title: Works
+title: Problems
 nav_order: 4
 ---
 
