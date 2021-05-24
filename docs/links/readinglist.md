@@ -33,6 +33,8 @@ Things left unread or unwatched due to unavailability of time.
 # Papers
 
 - [Is "genocide" such a good idea?](https://sci-hub.do/10.1111/j.1468-4446.2011.01356.x)
-- [Forced Enterpreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+- [Forced Entrepreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+- [A Study of Attention-Seeking Behavior in Children](https://ttu-ir.tdl.org/bitstream/handle/2346/17096/31295001929941.pdf?sequence=1)
+- [Attention Seeking: A Perspective From Chaos Theory](http://www.nmellor.com/articles/AttentionSeeking-APerspectiveFromChaosTheory.pdf)
 
 ---
