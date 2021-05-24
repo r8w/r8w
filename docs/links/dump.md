@@ -15,4 +15,6 @@ Just put them here to organize them later.
 
 - [Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191)
 
+- [Scientific Research](https://drjoedispenza.com/pages/scientific-research)
+
 ---

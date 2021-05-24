@@ -1,11 +1,11 @@
 ---
 layout: default
 parent: Links
-title: Resources
-nav_order: 2
+title: Websites
+nav_order: 8
 ---
 
-#  Resources
+# Websites
 {: .no_toc }
 
 Links of interesting or useful websites, channels, podcasts, or any other thing.
@@ -24,6 +24,7 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 
 - [Michail Rybakov](https://rybakov.com/) - *Media Artist & Artistic Researcher*
 - [Farnam Street](https://fs.blog/) - *Learn Faster, Think Better, and Make Smart Decisions*
+- [The Word Detective](http://www.word-detective.com/) - *Words and Languages in a Humorous Vein on the Web*
 
 # Channels
 
