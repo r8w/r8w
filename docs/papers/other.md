@@ -28,6 +28,8 @@ nav_order: 1
 
 - [Music training and child development: A review of recent findings from a longitudinal study](https://sci-hub.tw/10.1111/nyas.13606)
 - [Avoiding fights on social media: Strategies youthleverage to navigate conflict in a digital era](https://sci-hub.tw/10.1002/jcop.22363)
+- [Chronic traumatic encephalopathy is not a real disease](https://academic.oup.com/acn/article/33/5/644/5087832)
+- [A Suggestion for a New Interpretation of Dreams: Dreaming Is the Inverse of Anxious Mind-Wandering](https://psyarxiv.com/k6trz/)
 
 # Bullshit
 
@@ -40,3 +42,7 @@ nav_order: 1
 # Covid 19
 
 - [How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online](https://arxiv.org/pdf/2101.07993.pdf) - *MIT*
+
+# Poverty
+
+- [Poverty Impedes Cognitive Function](https://sci-hub.do/10.1126/science.1238041) - *Anandi Mani Sendhil Mullainathan, Eldar Shafir, Jiaying Zhao*
