@@ -50,11 +50,15 @@ Rest of the sites are used only for the purpose of summary and DOI.
 
 ---
 
-## Movies/TV Shows
+## Streaming
 
 - [M4U Free](https://m4ufree.fun/)
 - [Solar Movies](https://solarmovie123.net/)
 - [Goto Tub](https://gototub.com/)
+- [HDO](https://w10.hdonline.eu/tv-series/)
+- [Yes Movies](https://yesmovies.host/)
+- [Go Watch Series](https://gowatchseries.co/)
+- [Kiss-Cartoon](https://kiss-cartoon.io/)
 
 ---
 
@@ -69,3 +73,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 - [Discudemy](https://www.discudemy.com/)
 
 ---
+
+## Random
+
+- [Kast](https://kast.gg/)

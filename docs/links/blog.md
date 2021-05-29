@@ -31,6 +31,7 @@ Interesting Blog Posts Archive.
 ## Mindset
 
 - [Open Tabs Are Cognitive Spaces](https://rybakov.com/blog/open_tabs_are_cognitive_spaces/)
+- [Ideas Are Just A Multiplier Of Execution](https://sive.rs/multiply)
 
 ## Learning
 
