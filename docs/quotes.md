@@ -32,4 +32,6 @@ A small archive for some of my favorite quotes.
 
 - I usually like the quotes that <a href="https://instagram.com/_nitch">@_nitch</a> puts on Instagram.
 
+- Rest of the quotes can be found [here](https://r8w.github.io/notes/2021/05/31/quotes.html).
+
 ---
