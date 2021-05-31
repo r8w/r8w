@@ -18,9 +18,9 @@ Ideas and implementation go on the same lane. What's being done to hold the pill
 
 Sometimes, a failed execution is a failed execution, not a bad idea, but it doesn't mean ideas can't be terrible. Talking about what holds more value when they both depend on each other is like moving in a circle. To find the conclusion is a pure waste of time.
 
-*What's the goal of this section?*
+- What's the goal of this section?
 
-Well, let's see...
+Write down the ideas, good or bad, it doesn't matter.
 
 ---
 
