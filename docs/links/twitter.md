@@ -63,12 +63,19 @@ Garbage and Gold of Wormhole
 
 ---
 
+# Work
+
+- [The Hiring Process is Ultra Competitive](https://twitter.com/SahilBloom/status/1399375061111382022?s=08)
+- [Beginners and Junior Dev - Problems](https://twitter.com/giltayar/status/1398846127882002432?s=08)
+- [On Startup Hype vs Reality](https://twitter.com/GergelyOrosz/status/1398730233369464836?s=08)
+
+---
+
 # General
 
 - [Steve Ballmer's Microsoft Stack Ranking](https://twitter.com/TrungTPhan/status/1394654146599522306?s=08)
 
 ---
-
 
 # Random
 

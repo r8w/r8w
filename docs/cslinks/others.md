@@ -24,6 +24,10 @@ Don't let this section become another archive of links. Read everything.
 
 ---
 
+# Tweets
+
+---
+
 # Videos
 
 ---
@@ -40,3 +44,10 @@ Don't let this section become another archive of links. Read everything.
 - [Moocify Courses](https://www.mooc.fi/#courses)
 - [Stanford Free Courses](https://online.stanford.edu/search-catalog?type=course&free_or_paid[free]=free&page=1)
 - [CBT Nuggets - Free Courses](https://www.cbtnuggets.com/free-it-training)
+
+---
+
+# Cool Repositories
+
+- [edex ui](https://github.com/GitSquared/edex-ui) - *A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.*
+- [OSSU Computer Science](https://github.com/ossu/computer-science) - *A 100% free Computer Science curriculum.*

@@ -206,6 +206,14 @@ This section only contains resources related to the different Computer Science T
 
 ---
 
+# JavaScript
+
+## Twitter
+
+- [Array Methods Visualization](https://twitter.com/rauschma/status/1398668839177568259?s=08)
+
+---
+
 # GitHub Repos
 
 - [OSSU - Computer Science](https://github.com/ossu/computer-science)

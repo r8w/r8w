@@ -39,6 +39,12 @@ Contents from The Front Page of the Internet.
 - [This House Believes Israel is a Rouge State - The Cambridge Union](https://www.youtube.com/watch?v=jjkivkkZYNo)
 - [The Birth of Israel](https://topdocumentaryfilms.com/birth-of-israel/)
 
+## Psychology
+
+### Cases
+
+- [Aileen Wuornos Goes Insane](https://www.youtube.com/watch?v=yFBcjII3QAE)
+
 ---
 
 # Topics
