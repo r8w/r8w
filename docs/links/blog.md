@@ -70,6 +70,10 @@ Interesting Blog Posts Archive.
 - [Neolithic Europe's Remote Heart](https://www.archaeology.org/issues/61-1301/features/327-scotland-orkney-neolithic-brodgar)
 - [Mathematics of the Pharaohs: The Rhind Papyrus and Ancient Egyptian Math](https://www.ancient-origins.net/artifacts-ancient-writings/rhind-papyrus-0013004)
 
+## Native Americans
+
+- [A rare photo collection of Native American life in the early 1900s, 1904-1924](https://rarehistoricalphotos.com/native-american-life-photos-edward-curtis-1904-1924/)
+
 ---
 
 # English
@@ -92,6 +96,7 @@ Interesting Blog Posts Archive.
 - [Franz Kafka: Manuscripts, drawings and personal letters go online](https://www.bbc.com/news/in-pictures-57267874.amp)
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html)
 	- [YouTube Playlist](https://www.youtube.com/playlist?list=PLgRI7D_FXEnrCM8T1czHfJsvbQd4V1jRc)
+- [On Syphilis & the Nature of Nietzsche's Madness](https://www.amacad.org/publication/syphilis-nature-nietzsches-madness)
 
 ---
 

@@ -33,3 +33,7 @@ Contents from The Front Page of the Internet.
 - History of Black/Africans in Japan - [Comment](https://www.reddit.com/r/AskHistorians/comments/flgpph/history_of_blackafricans_in_japan/)
 
 ---
+
+# Discussion
+
+- [Nietzsche's Insanity](https://www.reddit.com/r/Nietzsche/comments/9w8dbt/nietzsches_insanity/)
