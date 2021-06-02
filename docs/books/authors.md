@@ -10,7 +10,7 @@ nav_order: 7
 
 Some good writers and their books.
 
-- This section also contains the list of books suggested by friends. Find them [here](#suggestions).
+- This section also contains the list of books suggested by friends. Find them here - [here](#suggestions).
 
 ---
 
@@ -243,54 +243,54 @@ Collection of books which are suggested by others.
 ## From Instagram
 
 - __Vijay__
-    - [Roll of the Dice](https://www.goodreads.com/book/show/18684615-ajaya) *by* Anand Neelakantan
-    - [Rise of Kali - Duryodhana's Mahabharata](https://www.goodreads.com/book/show/25536076-rise-of-kali) *by* Anand Neelakantan
+    - Roll of the Dice - Anand Neelakantan >> [`open`](https://www.goodreads.com/book/show/18684615-ajaya)
+    - Rise of Kali - Duryodhana's Mahabharata  - Anand Neelakantan >>[`open`](https://www.goodreads.com/book/show/25536076-rise-of-kali)
 
 - __Harneet__
-    - [The God of Small Things](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things) *by* Arundhati Roy
+    - The God of Small Things - Arundhati Roy >> [`open`](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
 - __Animesh__
-    - [Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis) *by* Franz Kafka
+    - Metamorphosis - Franz Kafka >> [`open`](https://www.goodreads.com/book/show/485894.The_Metamorphosis)
 
 - __Apoorv__
-    - [The Immortals of Meluha](https://www.goodreads.com/book/show/7913305-the-immortals-of-meluha) *by* Amish Tripathi
+    - The Immortals of Meluha  - Amish Tripathi >> [`open`](https://www.goodreads.com/book/show/7913305-the-immortals-of-meluha)
 
 - __Mrigank__
-    - [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude) *by* Gabriel García Márquez
+    - One Hundred Years of Solitude - Gabriel García Márquez >> [`open`](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)
 
 - __Vardhan__
-    - [The God of Small Things](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things) *by* Arundhati Roy
-    - [A Man Called Ove](https://www.goodreads.com/book/show/18774964-a-man-called-ove) *by* Fredrik Backman
+    - The God of Small Things - Arundhati Roy >> [`open`](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
+    - A Man Called Ove  - Fredrik Backman >> [`open`](https://www.goodreads.com/book/show/18774964-a-man-called-ove)
 
 - __Hari Priya__
-    - [The Hate U Give](https://www.goodreads.com/book/show/32075671-the-hate-u-give) *by* Angie Thomas
+    - The Hate U Give  - Angie Thomas >> [`open`](https://www.goodreads.com/book/show/32075671-the-hate-u-give)
 
 - __Shahina__
-    - [Outliers](https://www.goodreads.com/book/show/3228917-outliers) *by* Malcolm Gladwell
+    - Outliers - Malcolm Gladwell >> [`open`](https://www.goodreads.com/book/show/3228917-outliers)
 
 - __Shruti__
-    - [The Argumentative Indian](https://www.goodreads.com/book/show/10310.The_Argumentative_Indian) *by* Amartya Sen
-    - [The Discovery of India](https://www.goodreads.com/book/show/154126.The_Discovery_of_India) *by* Jawaharlal Nehru
-    - [The Rise and Fall of Communism](https://www.goodreads.com/book/show/6004393-the-rise-and-fall-of-communism) *by* Archie Brown
+    - The Argumentative Indian  - Amartya Sen >>  [`open`](https://www.goodreads.com/book/show/10310.The_Argumentative_Indian)
+    - The Discovery of India - Jawaharlal Nehru >> [`open`](https://www.goodreads.com/book/show/154126.The_Discovery_of_India)
+    - The Rise and Fall of Communism - Archie Brown >> [`open`](https://www.goodreads.com/book/show/6004393-the-rise-and-fall-of-communism)
 
 - __Pranjal__
-    - [Mossad: The Greatest Missions of the Israeli Secret Service](https://www.goodreads.com/book/show/13623874-mossad) *by* Michael Bar-Zohar and Nissim Mishal
+    - Mossad: The Greatest Missions of the Israeli Secret Service - Michael Bar-Zohar and Nissim Mishal >> [`open`](https://www.goodreads.com/book/show/13623874-mossad)
 
 - __Siddharth__
-    - [The Monk Who Sold His Ferrari](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari) *by* Robin Sharma
+    - The Monk Who Sold His Ferrari  - Robin Sharma >> [`open`](https://www.goodreads.com/book/show/43877.The_Monk_Who_Sold_His_Ferrari)
 
 - __Erica__
-    - [I Know A Secret](https://www.goodreads.com/book/show/33153725-i-know-a-secret) *by* Tess Gerritsen
+    - I Know A Secret - Tess Gerristen >> [`open`](https://www.goodreads.com/book/show/33153725-i-know-a-secret)
 
 - __Vimlendu__
-    - [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief) *by* Markus Zusak
+    - The Book Thief - Markus Zusak >> [`open`](https://www.goodreads.com/book/show/19063.The_Book_Thief)
 
 
 A few anonymous recommendations, as some friends asked me not to share their name.
 
-- [Art of Seduction](https://www.goodreads.com/book/show/20995.The_Art_of_Seduction) *by* Robert Greene
-- [Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) *by* Sun Tzu
-- [Sense and Sensibility](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility) *by* Jane Austen
-- [The Prince](https://www.goodreads.com/book/show/28862.The_Prince) *by* Niccolò Machiavelli
-- [American Psycho](https://www.goodreads.com/book/show/28676.American_Psycho) *by* Bret Easton Ellis
+- Art of Seduction - Robert Greene >> [`open`](https://www.goodreads.com/book/show/20995.The_Art_of_Seduction)
+- Art of War - Sun Tzu >> [`open`](https://www.goodreads.com/book/show/10534.The_Art_of_War)
+- Sense and Sensibility - Jane Austen >> [`open`](https://www.goodreads.com/book/show/14935.Sense_and_Sensibility)
+- The Prince - Niccolò Machiavelli >> [`open`](https://www.goodreads.com/book/show/28862.The_Prince)
+- American Psycho  - Bret Easton Ellis >> [`open`](https://www.goodreads.com/book/show/28676.American_Psycho)
 

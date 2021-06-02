@@ -22,9 +22,9 @@ Dump, but probably not a garbage bin.
 
 # General
 
-- [Homage To Catalonia](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia) - *George Orwerll*
-- [The Second World War](https://www.goodreads.com/book/show/13528287-the-second-world-war) - *Antony Beevor*
-- [Time to Think: Listening to Ignite the Human Mind ](https://www.amazon.in/Time-Think-Listening-Ignite-Human-ebook/dp/B005OVTZJC) - *Nancy Kline*
-- [50 Philosophy Classics](https://www.amazon.in/50-Philosophy-Classics/dp/1473655420/) - *Tom Butler-Bowdon*
-- [This Book Has Issues: Adventures in Popular Psychology](https://www.amazon.in/This-Book-Has-Issues-Adventures/dp/0826479782) - *Christian Jarrett and Joannah Ginsburg*
-- [Positioning: The Idea For Your Mind](https://twitter.com/patrick_oshag/status/1398610524187807744)
+- Homage To Catalonia - *George Orwerll* >> [`open`](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
+- The Second World War  - *Antony Beevor* >> [`open`](https://www.goodreads.com/book/show/13528287-the-second-world-war)
+- Time to Think: Listening to Ignite the Human Mind  - *Nancy Kline* >> [`open`](https://www.amazon.in/Time-Think-Listening-Ignite-Human-ebook/dp/B005OVTZJC)
+- 50 Philosophy Classics  - *Tom Butler-Bowdon* >> [`open`](https://www.amazon.in/50-Philosophy-Classics/dp/1473655420/)
+- This Book Has Issues: Adventures in Popular Psychology]  - *Christian Jarrett and Joannah Ginsburg* >> [`open`](https://www.amazon.in/This-Book-Has-Issues-Adventures/dp/0826479782)
+- Positioning: The Idea For Your Mind - *Al Rise* >> [`open`](https://twitter.com/patrick_oshag/status/1398610524187807744)
