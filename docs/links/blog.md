@@ -22,31 +22,30 @@ Interesting Blog Posts Archive.
 
 ---
 
-# Everything Brain
+# Humans and Life
 
-## Self Improvement
+## Self Improvement and Leadership
 
 - [Difference Between Amateurs and Professionals](https://fs.blog/2017/08/amateurs-professionals/)
 - [How to Think - The Skill You've Never Been Taught](https://fs.blog/2015/08/how-to-think/)
-
-## Leadership
-
 - [Solitude and Leadership](https://fs.blog/great-talks/solitude-and-leadership/)
 
-## Depression
+## Psychological Disorders
 
 - [What happens to our brain when we get depressed?](https://thewalrus.ca/what-happens-to-our-brains-when-we-get-depressed/)
 
-## Random
+## Expanded Psychology
 
 - [Stanford Prison Experiment Is Based On Lies](https://www.vox.com/science-and-health/2018/6/14/17464516/stanford-prison-experiment-audio)
 - [John B. Watson (1878–1958) Popularizing Behaviorism](https://education.stateuniversity.com/pages/2543/Watson-John-B-1878-1958.html)
 - [Ideas Are Just A Multiplier Of Execution](https://sive.rs/multiply)
 - [Open Tabs Are Cognitive Spaces](https://rybakov.com/blog/open_tabs_are_cognitive_spaces/)
-
-## About
-
 - [Educational Psychology](https://education.stateuniversity.com/pages/1938/Educational-Psychology.html)
+
+## Other Topics
+
+- [Life Expectancy](https://ourworldindata.org/life-expectancy)
+- [Cigarette Company Developed Tobacco With Stronger Nicotine](https://www.nytimes.com/1994/06/22/us/cigarette-company-developed-tobacco-with-stronger-nicotine-head-fda-tells.html)
 
 ---
 
@@ -59,6 +58,19 @@ Interesting Blog Posts Archive.
 ## Climate
 
 - [2021 Is Shaping Up To Be Quite Chilly Compared To Recent Years](https://www.discovermagazine.com/environment/2021-is-shaping-up-to-be-chilly-compared-to-recent-years)
+
+## Ayurveda
+
+- [Ayurveda: Hoax or Science?](https://openthemagazine.com/features/living/ayurveda-hoax-or-science/) - *Priyanka Pulla*
+	- Very detailed, well written, and informative article.
+
+---
+
+# Controversial
+
+## Homeopathy
+
+- [Homeopathy Explained – Gentle Healing or Reckless Fraud?](https://www.youtube.com/watch?v=8HslUzw35mc)
 
 ---
 
@@ -73,6 +85,10 @@ Interesting Blog Posts Archive.
 ## Native Americans
 
 - [A rare photo collection of Native American life in the early 1900s, 1904-1924](https://rarehistoricalphotos.com/native-american-life-photos-edward-curtis-1904-1924/)
+
+## Europe
+
+- [When London was the smoking capital of the world](https://www.telegraph.co.uk/travel/destinations/europe/united-kingdom/england/london/articles/The-surprising-history-of-Londons-lost-tobacco-houses/)
 
 ---
 
@@ -100,7 +116,7 @@ Interesting Blog Posts Archive.
 
 ---
 
-# Others
+# More
 
 - [How Maxwell’s Demon Continues to Startle Scientists](https://www.quantamagazine.org/how-maxwells-demon-continues-to-startle-scientists-20210422/)
 
