@@ -18,35 +18,35 @@ nav_order: 5
 
 __Level 0__
 
-- [Watch & Code](https://watchandcode.com/) - *Gordon Zhu*
-- [JavaScript: Understanding The Weird Parts](https://www.udemy.com/course/understand-javascript/) - *Anthony Alicea*
-- [Getting Started with JavaScript](https://frontendmasters.com/courses/getting-started-javascript-v2/) - *Kyle Simpson*
-- [JavaScript from Fundamentals to Functional](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) - *Bianca Gandolfo*
+- Watch & Code -- *Gordon Zhu* >> [`open`](https://watchandcode.com/)
+- JavaScript: Understanding The Weird Parts -- *Anthony Alicea* >> [`open`](https://www.udemy.com/course/understand-javascript/)
+- Getting Started with JavaScript -- *Kyle Simpson* >> [`open`](https://frontendmasters.com/courses/getting-started-javascript-v2/)
+- JavaScript from Fundamentals to Functional -- *Bianca Gandolfo* >> [`open`](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
 
 
 __Level 1__
 
-- [JavaScript: Data Structures & Algorithms Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) - *Colt Steele*
-- [JavaScript: The Hard Parts v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/) - *Will Sentance*
-- [Deep JavaScript Foundations v3](https://frontendmasters.com/courses/deep-javascript-v3/) - *Kyle Simpson*
-- [JavaScript: The Recent Parts](https://frontendmasters.com/courses/js-recent-parts/) - *Kyle Simpson*
+- JavaScript: Data Structures & Algorithms Masterclass -- *Colt Steele* >> [`open`](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- JavaScript: The Hard Parts v2 -- *Will Sentance* >> [`open`](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- Deep JavaScript Foundations v3 -- *Kyle Simpson* >> [`open`](https://frontendmasters.com/courses/deep-javascript-v3/)
+- JavaScript: The Recent Parts -- *Kyle Simpson* >> [`open`](https://frontendmasters.com/courses/js-recent-parts/)
 
 __Level 2__
 
-- [JavaScript: The New Hard Parts](https://frontendmasters.com/courses/javascript-new-hard-parts/) - *Will Sentance*
-- [Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/) - *Kyle Simpson*
-- [JavaScript Performance](https://frontendmasters.com/courses/web-performance/) - *Steve Kinney*
+- JavaScript: The New Hard Parts -- *Will Sentance* >> [`open`](https://frontendmasters.com/courses/javascript-new-hard-parts/) - *Will Sentance*
+- Rethinking Asynchronous JavaScript -- *Kyle Simpson* >> [`open`](https://frontendmasters.com/courses/rethinking-async-js/) - *Kyle Simpson*
+- JavaScript Performance -- *Steve Kinney* >> [`open`](https://frontendmasters.com/courses/web-performance/) - *Steve Kinney*
 
 __Level 3__
 
-- [A Practical Guide to Algorithms in JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
-- [Introduction to Data Structures for Interviews](https://frontendmasters.com/courses/data-structures-interviews/)
+- A Practical Guide to Algorithms in JavaScript -- *Bianca Gandolfo* >> [`open`](https://frontendmasters.com/courses/practical-algorithms/)
+- Introduction to Data Structures for Interviews -- *Bianca Gandolfo* >> [`open`](https://frontendmasters.com/courses/data-structures-interviews/)
 
 
 __Level 4__
 
-- [Frontend Masters FullStack](https://frontendmasters.com/learn/fullstack/)
-- [Frontend Masters Design](https://frontendmasters.com/learn/designers-code/)
+- Frontend Masters FullStack -- *Multiple Authors* >> [`open`](https://frontendmasters.com/learn/fullstack/)
+- Frontend Masters Design -- *Multiple Authors* >> [`open`](https://frontendmasters.com/learn/designers-code/)
 
 ---
 
@@ -56,7 +56,7 @@ __Level 4__
 
 # Books
 
-- [JavaScript Info](https://javascript.info)
+- JavaScript Info >> [`open`](https://javascript.info)
 - Eloquent JavaScript
 - The Principals of Object Oriented JavaScript
 - You Don't Know JS
@@ -71,8 +71,8 @@ __Level 4__
 - Understanding ECMAScript 6
 - Effective JavaScript
 - Exploring ES6
-- [DOM Enlightenment ](http://domenlightenment.com/)
-- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf)
+- DOM Enlightenment  >> [`open`](http://domenlightenment.com/)
+- JavaScript Enlightenment >> [`open`](http://www.javascriptenlightenment.com/JavaScript_Enlightenment.pdf)
 
 ---
 
@@ -82,8 +82,8 @@ __Level 4__
 
 # Coding Challenges
 
-- [Exercism](https://exercism.io)
-- [Edabit](https://edabit.com/challenges)
+- Exercism >> [`open`](https://exercism.io)
+- Edabit >> [`open`](https://edabit.com/challenges)
 
 ---
 
