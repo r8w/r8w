@@ -16,16 +16,16 @@ nav_order: 999
 
 ## Blog Posts
 
-- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-- [Math For Programmers](http://wiki.c2.com/?MathForProgrammers..here)
-- [Coding Math - What You Should Know](https://magoosh.com/data-science/coding-math-what-you-should-know/)
+- Category Theory for Programmers: The Preface >> [`open`](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- Math For Programmers >> [`open`](http://wiki.c2.com/?MathForProgrammers..here)
+- Coding Math - What You Should Know >> [`open`](https://magoosh.com/data-science/coding-math-what-you-should-know/)
 
 ## Books
-- [WikiBooks - Mathematics](https://en.wikibooks.org/wiki/Subject:Mathematics)
-- [Nrich - Recommended Books](https://nrich.maths.org/books)
+- WikiBooks - Mathematics >> [`open`](https://en.wikibooks.org/wiki/Subject:Mathematics)
+- Nrich - Recommended Books >> [`open`](https://nrich.maths.org/books)
 
 ## Websites
-- [Math ∩ Programming](https://jeremykun.com/main-content/)
+- Math ∩ Programming >> [`open`](https://jeremykun.com/main-content/)
 
 ## Lists
-- [Hackernoon - Mathematics Courses](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
+- Hackernoon - Mathematics Courses >> [`open`](https://hackernoon.com/be-a-better-programmer-with-these-40-mathematics-courses-d8ca48a2f8a2)
