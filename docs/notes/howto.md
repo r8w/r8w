@@ -23,7 +23,7 @@ Everyday questions and answers!
 
 # Git
 
- - [How to show only modified file using git?](https://stackoverflow.com/questions/10018533/is-it-possible-to-git-status-only-modified-files)
+ - How to show only modified file using git? >> [`open`](https://stackoverflow.com/questions/10018533/is-it-possible-to-git-status-only-modified-files)
 
  ```sh
  $ git status -uno -sb
@@ -31,7 +31,7 @@ Everyday questions and answers!
 
 ---
 
-- [Reverting to specific commit in git and push it.](https://stackoverflow.com/questions/3639115/reverting-to-a-specific-commit-based-on-commit-id-with-git)
+- Reverting to specific commit in git and push it. >> [`open`](https://stackoverflow.com/questions/3639115/reverting-to-a-specific-commit-based-on-commit-id-with-git)
 
 ```sh
 $ git reset SHA
@@ -40,7 +40,7 @@ $ git push -u origin master --force
 ```
 ---
 
-- __Temporarily ignore changed or new files without altering `.gitignore`__ >> [`open`](https://gist.github.com/sloanlance/0f0cb5e9819e11d698a26a623bc649f4)
+- Temporarily ignore changed or new files without altering `.gitignore` >> [`open`](https://gist.github.com/sloanlance/0f0cb5e9819e11d698a26a623bc649f4)
 
 If the file is a changed repository file:
 
