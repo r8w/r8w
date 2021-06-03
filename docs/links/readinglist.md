@@ -25,16 +25,16 @@ Things left unread or unwatched due to unavailability of time.
 
 # Blogs
 
-- [Poor In Tech](http://megelison.com/poor-in-tech)
-- [How Do You Make or Maintain Friends? Put in the Time](https://www.psychologytoday.com/us/blog/brain-waves/201803/how-do-you-make-or-maintain-friends-put-in-the-time)
+- Poor In Tech >> [`open`](http://megelison.com/poor-in-tech)
+- How Do You Make or Maintain Friends? Put in the Time >> [`open`](https://www.psychologytoday.com/us/blog/brain-waves/201803/how-do-you-make-or-maintain-friends-put-in-the-time)
 
 ---
 
 # Papers
 
-- [Is "genocide" such a good idea?](https://sci-hub.do/10.1111/j.1468-4446.2011.01356.x)
-- [Forced Entrepreneurs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
-- [A Study of Attention-Seeking Behavior in Children](https://ttu-ir.tdl.org/bitstream/handle/2346/17096/31295001929941.pdf?sequence=1)
-- [Attention Seeking: A Perspective From Chaos Theory](http://www.nmellor.com/articles/AttentionSeeking-APerspectiveFromChaosTheory.pdf)
+- Is "genocide" such a good idea? >> [`open`](https://sci-hub.do/10.1111/j.1468-4446.2011.01356.x)
+- Forced Entrepreneurs >> [`open`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
+- A Study of Attention-Seeking Behavior in Children >> [`open`](https://ttu-ir.tdl.org/bitstream/handle/2346/17096/31295001929941.pdf?sequence=1)
+- Attention Seeking: A Perspective From Chaos Theory >> [`open`](http://www.nmellor.com/articles/AttentionSeeking-APerspectiveFromChaosTheory.pdf)
 
 ---

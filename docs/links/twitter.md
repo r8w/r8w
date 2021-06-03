@@ -21,28 +21,28 @@ Garbage and Gold of Wormhole
 
 # Advice
 
-- [How to read - Blank Sheet Method / Farnam Stree](https://twitter.com/farnamstreet/status/1347173210748551176)
-- [Overcome procrastination while writing / Julian Shapiro](https://twitter.com/Julian/status/1390744754065977348?s=20)
+- How to read - Blank Sheet Method -- *Farnam Street* >> [`open`](https://twitter.com/farnamstreet/status/1347173210748551176)
+- Overcome procrastination while writing -- *Julian Shapiro* >> [`open`](https://twitter.com/Julian/status/1390744754065977348?s=20)
 
 ---
 
 # Interesting
 
-- [The Bat Bomb](https://twitter.com/RealTimeWWII/status/1393683489514565638)
-- [Civilization is much older than we thought](https://twitter.com/SamoBurja/status/1394338354590846982?s=08) - *Samo Burja*
-- [The Feature of Criminal Mind](https://twitter.com/robkhenderson/status/1393442484668309504?s=08)
+- The Bat Bomb >> [`open`](https://twitter.com/RealTimeWWII/status/1393683489514565638)
+- Civilization is much older than we thought -- *Samo Burja* >> [`open`](https://twitter.com/SamoBurja/status/1394338354590846982?s=08)
+- The Feature of Criminal Mind >> [`open`](https://twitter.com/robkhenderson/status/1393442484668309504?s=08)
 
 ---
 
 # Politics
 
-- [Handing Power to Politicians](https://twitter.com/ThomasSowell/status/1394651978513281030?s=08) - *Thomas Sowell*
+- Handing Power to Politicians -- *Thomas Sowell* >> [`open`](https://twitter.com/ThomasSowell/status/1394651978513281030?s=08)
 
 ---
 
 # Opinion
 
-- [Paul Krugman on Bitcon and other things](https://twitter.com/paulkrugman/status/1395541758197567490?s=08)
+- Paul Krugman on Bitcon and other things >> [`open`](https://twitter.com/paulkrugman/status/1395541758197567490?s=08)
 
 ---
 
@@ -53,37 +53,37 @@ Garbage and Gold of Wormhole
 
 # STEM
 
-- [Rotation of Earth using circular tube filled with water](https://twitter.com/fermatslibrary/status/1394659048197435398?s=08)
+- Rotation of Earth using circular tube filled with water >> [`open`](https://twitter.com/fermatslibrary/status/1394659048197435398?s=08)
 
 ---
 
 # Art
 
-- [The Strand magazine, 1909](https://twitter.com/yesterdaysprint/status/1395558952713166848?s=20)
+- The Strand magazine, 1909 >> [`open`](https://twitter.com/yesterdaysprint/status/1395558952713166848?s=20)
 
 ---
 
 # Work
 
-- [The Hiring Process is Ultra Competitive](https://twitter.com/SahilBloom/status/1399375061111382022?s=08)
-- [Beginners and Junior Dev - Problems](https://twitter.com/giltayar/status/1398846127882002432?s=08)
-- [On Startup Hype vs Reality](https://twitter.com/GergelyOrosz/status/1398730233369464836?s=08)
+- The Hiring Process is Ultra Competitive >> [`open`](https://twitter.com/SahilBloom/status/1399375061111382022?s=08)
+- Beginners and Junior Dev - Problems >> [`open`](https://twitter.com/giltayar/status/1398846127882002432?s=08)
+- On Startup Hype vs Reality >> [`open`](https://twitter.com/GergelyOrosz/status/1398730233369464836?s=08)
 
 ---
 
-# General
+# Controversies
 
-- [Steve Ballmer's Microsoft Stack Ranking](https://twitter.com/TrungTPhan/status/1394654146599522306?s=08)
+- Steve Ballmer's Microsoft Stack Ranking >> [`open`](https://twitter.com/TrungTPhan/status/1394654146599522306?s=08)
 
 ---
 
 # Random
 
-- [Best Educational Resources for 4Y/O](https://twitter.com/awilkinson/status/1392219056246124545)
-- [Balaj on Solona -  high-performance blockchain](https://twitter.com/balajis/status/1394782976978800643)
+- Best Educational Resources for 4Y/O >> [`open`](https://twitter.com/awilkinson/status/1392219056246124545)
+- Balaj on Solona -  high-performance blockchain >> [`open`](https://twitter.com/balajis/status/1394782976978800643)
 
 ---
 
 # Garbage
 
-- [TikTok stars are oppressively mediocre](https://twitter.com/rebexxxxa/status/1394646669808046085?s=08)
+- TikTok stars are oppressively mediocre >> [`open`](https://twitter.com/rebexxxxa/status/1394646669808046085?s=08)

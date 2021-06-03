@@ -22,9 +22,9 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 
 # Websites
 
-- [Michail Rybakov](https://rybakov.com/) - *Media Artist & Artistic Researcher*
-- [Farnam Street](https://fs.blog/) - *Learn Faster, Think Better, and Make Smart Decisions*
-- [The Word Detective](http://www.word-detective.com/) - *Words and Languages in a Humorous Vein on the Web*
+- Michail Rybakov -- *Media Artist & Artistic Researcher* >> [`open`](https://rybakov.com/)
+- Farnam Street -- *Learn Faster, Think Better, and Make Smart Decisions* >> [`open`](https://fs.blog/)
+- The Word Detective -- *Words and Languages in a Humorous Vein on the Web* >> [`open`](http://www.word-detective.com/)
 
 # Channels
 
@@ -32,7 +32,7 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 
 # Documentaries
 
-- [Most Watched Frontline Documentaries - 2020](https://www.pbs.org/wgbh/frontline/article/watch-10-most-streamed-frontline-2020-documentaries/)
+- Most Watched Frontline Documentaries - 2020 >> [`open`](https://www.pbs.org/wgbh/frontline/article/watch-10-most-streamed-frontline-2020-documentaries/)
 
 # Topics
 

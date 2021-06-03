@@ -22,8 +22,8 @@ Contents from The Front Page of the Internet.
 
 # Life
 
-- [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
-- [This Is Water](https://fs.blog/2012/04/david-foster-wallace-this-is-water/) - *Speech by David Foster Wallace*
+- How To Speak -- *Patrick Winston* >> [`open`](https://www.youtube.com/watch?v=Unzc731iCUY)
+- This Is Water -- *Speech by David Foster Wallace* >> [`open`](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 
 ---
 
@@ -33,17 +33,17 @@ Contents from The Front Page of the Internet.
 
 ### Israel and Palestine
 
-- [The Conflict between Israel and Palestine - Crash Course](https://www.youtube.com/watch?v=1wo2TLlMhiw)
-- [The Israel-Palestine Conflict - A Brief, Simple History - VOX](https://www.youtube.com/watch?v=iRYZjOuUnlU)
-- [Rick Steves' The Holy Land: Israelis and Palestinians Today](https://www.youtube.com/watch?v=wg1unr6eNpQ)
-- [This House Believes Israel is a Rouge State - The Cambridge Union](https://www.youtube.com/watch?v=jjkivkkZYNo)
-- [The Birth of Israel](https://topdocumentaryfilms.com/birth-of-israel/)
+- The Conflict between Israel and Palestine -- *Crash Course* >> [`open`](https://www.youtube.com/watch?v=1wo2TLlMhiw)
+- The Israel-Palestine Conflict - A Brief, Simple History -- *VOX* >> [`open`](https://www.youtube.com/watch?v=iRYZjOuUnlU)
+- Rick Steves' The Holy Land: Israelis and Palestinians Today >> [`open`](https://www.youtube.com/watch?v=wg1unr6eNpQ)
+- This House Believes Israel is a Rouge State - The Cambridge Union >> [`open`](https://www.youtube.com/watch?v=jjkivkkZYNo)
+- The Birth of Israel >> [`open`](https://topdocumentaryfilms.com/birth-of-israel/)
 
 ## Psychology
 
 ### Cases
 
-- [Aileen Wuornos Goes Insane](https://www.youtube.com/watch?v=yFBcjII3QAE)
+- Aileen Wuornos Goes Insane >> [`open`](https://www.youtube.com/watch?v=yFBcjII3QAE)
 
 ---
 
@@ -51,23 +51,20 @@ Contents from The Front Page of the Internet.
 
 ## Bitcon
 
-- [Bitcoin: The Future, or World's Greatest Scam](https://youtu.be/4ByO8ym-iF8) - *James Jani*
+- Bitcoin: The Future, or World's Greatest Scam -- *James Jani* >> [`open`](https://youtu.be/4ByO8ym-iF8)
 
 ## Poverty
 
-- [Poverty isn't a lack of character; it's a lack of cash](https://youtu.be/ydKcaIE6O1k) - *Rutger Bregman*
+- Poverty isn't a lack of character; it's a lack of cash -- *Rutger Bregman* >> [`open`](https://youtu.be/ydKcaIE6O1k)
 
 ---
 
 # Interesting
 
-- [This Is Math's Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+- This Is Math's Fatal Flaw >> [`open`](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 
 ---
 
 # Others
-
-- [Michelle's Testimonial](https://www.youtube.com/watch?v=fusZv7nZXHc)
-- [Olivia's Testimonial](https://www.youtube.com/watch?v=VycU5BCb5Po)
 
 ---
