@@ -40,7 +40,7 @@ $ git push -u origin master --force
 ```
 ---
 
-- [Temporarily ignore changed or new files without altering `.gitignore`](https://gist.github.com/sloanlance/0f0cb5e9819e11d698a26a623bc649f4)
+- __Temporarily ignore changed or new files without altering `.gitignore`__ >> [`open`](https://gist.github.com/sloanlance/0f0cb5e9819e11d698a26a623bc649f4)
 
 If the file is a changed repository file:
 
