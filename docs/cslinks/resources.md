@@ -81,9 +81,9 @@ This section only contains resources related to the different Computer Science T
 - [Your GO-To-Guide - YourBasics](https://yourbasic.org/golang/)
 - [Learn Web Programming by Examples](https://gowebexamples.com/)
 - [Go Web Programming](https://www.manning.com/books/go-web-programming) - *Manning*
-- [Learn How To Code - Google's Go Programing Language](https://www.udemy.com/course/learn-how-to-code/) - *Udemy*
+- Learn How To Code - Google's Go Programing Language -- *Udemy* >> [`open`](https://www.udemy.com/course/learn-how-to-code/)
 - [Think GO](https://github.com/glycerine/thinkgo)
-- [Let's Go - Learn to Build Professional Web Applications with Go](https://lets-go.alexedwards.net/)
+- Let's Go - Learn to Build Professional Web Applications with Go >> [`open`](https://lets-go.alexedwards.net/)
 - [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - *YouTube Playlist*
 - [Go for Everyone](https://www.calhoun.io/)
 
@@ -104,7 +104,7 @@ This section only contains resources related to the different Computer Science T
 
 ## Courses
 
-- [UC Berkeley - CS186 : Introduction to Database Systems](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) - *Joe Hellerstein*
+- UC Berkeley - CS186 : Introduction to Database Systems - *Joe Hellerstein* >> [`open`](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [Khan Academy - SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Database MOOC](https://cs.stanford.edu/people/widom/DB-mooc.html) - *Stanford*
 - [Databases - Relational and SQL](https://www.edx.org/course/databases-5-sql) - *Stanford*
@@ -202,7 +202,7 @@ This section only contains resources related to the different Computer Science T
 
 # Distributed Systems
 
-- [Distributed systems theory for the distributed systems engineer](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
+- Distributed systems theory for the distributed systems engineer >> [`open`](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 
 ---
 
