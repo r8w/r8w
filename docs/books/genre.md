@@ -121,3 +121,39 @@ This section deals with the books related to the different topics like Religion,
 - Letter to a Christian Nation -- *Sam Harris*
 - Under the Banner of Heaven -- *Jon Krakauer*
 
+# Psychology
+
+- This Book Has Issues: Adventures in Popular Psychology -- *Christian Jarrett and Joannah Ginsburg*
+- Time to Think: Listening to Ignite the Human Mind -- *Nancy Kline*
+- 50 Philosophy Classics: Your shortcut to the most important ideas on being, truth, and meaning -- *Tom Butler-Bowdon*
+- Behave: The Biology of Humans at Our Best and Worst -- *Robert M. Sapolsky*
+- Blink -- *Malcolm Gladwell*
+- Personality - WHAT MAKES YOU THE WAY YOU ARE -- *Daniel Nettle*
+- Thinking Fast and Slow -- *Daniel Kahneman*
+- Incognito - The Secret Lives of the Brain -- *David Eagleman*
+- Influence - The Psychology of Persuasion -- *Robert B. Cialdini*
+- The Scattering -- *Kimberly McCreight*
+- Leviathan -- *Thomas Hobbes*
+- Nudge - Improving Decisions About Health, Wealth, and Happiness -- *Richard H. Thaller & Cass S. Sunstein*
+- Patient H.M -- *Luke Dittrich*
+- Predictably Irrational - The Hidden Forces That Shape Our Decisions -- *Dan Ariely*
+- Sex at Dawn - The Prehistoric Origins of Modern Sexuality -- *Christopher Ryan & Cacilda Jetha*
+- The Courage To Be Disliked -- *Ichiro Kishimi & Fumitake Koga*
+- The Gift Of Fear -- *Gavin De Becker*
+- The Invisible Gorilla -- *Christopher Chabris*
+- The Man Who Mistook His Wife For A Hat -- *Oliver Sacks*
+- The Neuroscientist Who Lost Her Mind -- *Barbra K. Lipska*
+- The Paradox Of Choice - Why More Is Less -- *Barry Shwartz*
+- The Science of Evil - On Empathy And The Origins of Cruelty -- *Simon Baron-Cohen*
+- The Social Animal -- *David Brooks*
+- The Tell - The Little Clues That Reveal Big Truths About Who We Are -- *Matthew Hertentstein*
+- The Tipping Point - How Little Things Can Make A Big Difference -- *Malcolm Gladwell*
+- The Trouble With Testosterone - And Other Essays On The Biology Of The Human Being -- *Robert M. Sapolsky*
+- The Upside of Stress - Why Stress Is Good For You, And To Get Good At It -- *Kelly McGonigal*
+- The Language Instinct - How The Mind Creates Language -- *Steven Pinker*
+- The Undoing Project - A Friendship that Changed Our Minds -- *Michael Lewis*
+- Why People Die By Suicide -- *Thomas Joiner*
+- Phantoms in the Brain -- *VS Ramachandran*
+- Why Zebras Don't Get Ulcer -- *Robert M. Sapolsky*
+- You Are Not So Smart -- *David McRaney*
+- You Are Now Less Dumb -- *David McRaney*
