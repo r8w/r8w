@@ -8,7 +8,7 @@ nav_order: 1
 # News
 {: .no_toc }
 
-This section's purpose to collect the news that matters. The scope is limited to "causes", not controversies unless the information has some relation to the cause.
+This section's purpose to collect the news that reflects the true face of our society.
 
 I do not intend to collect junk, but if that happens, I need to make sure they are organized junk and in one place.
 
@@ -22,3 +22,8 @@ I do not intend to collect junk, but if that happens, I need to make sure they a
 
 
 ---
+
+# The Corrupts
+
+- Ramdev's Other Face : The Shady Property Dealer. How BJP govt in Haryana helped him buy up vast lands in eco-sensitive Aravalli hills through shell companies >> [`open`](https://twitter.com/nit_set/status/1397003715790311424?s=08)
+
