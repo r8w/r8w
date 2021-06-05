@@ -17,4 +17,10 @@ Just put them here to organize them later.
 
 - Scientific Research >> [`open`](https://drjoedispenza.com/pages/scientific-research)
 
+- Shiniez Deviantart >> [`open`](https://www.deviantart.com/shiniez/gallery/43392512/chapters-in-pdf)
+
+- Informative BDSM Resources >> [`open`](https://soj.org/resources/suggested-reading/)
+
+- Conquer Me: Girl-To-Girl Wisdom About Fulfilling Your Submissive Desires >> [`open`](https://www.goodreads.com/book/show/9113676-conquer-me)
+
 ---

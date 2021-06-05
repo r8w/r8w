@@ -23,10 +23,13 @@ Things left unwatched due to unavailability of time.
 
 ---
 
+- Raoul Pal's Introduction to the Exponential Age
+
 # Interviews
 
 - Julian Assange's The World Tomorrow >> [`open`](https://www.youtube.com/watch?v=GDLXPpooA18)
 - The Mike Wallace Interview: Aldous Huxley (1958-05-18) >> [`open`](https://www.youtube.com/watch?v=1ePNGa0m3XA)
+- Raoul Pal's Introduction to the Exponential Age >> [`open`](https://www.youtube.com/watch?v=0tJrla31t8I)
 
 ---
 

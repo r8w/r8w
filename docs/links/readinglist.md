@@ -36,5 +36,6 @@ Things left unread or unwatched due to unavailability of time.
 - Forced Entrepreneurs >> [`open`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637)
 - A Study of Attention-Seeking Behavior in Children >> [`open`](https://ttu-ir.tdl.org/bitstream/handle/2346/17096/31295001929941.pdf?sequence=1)
 - Attention Seeking: A Perspective From Chaos Theory >> [`open`](http://www.nmellor.com/articles/AttentionSeeking-APerspectiveFromChaosTheory.pdf)
+- Effects of Automated Messages on Internet Users Attempting to Access “Barely Legal” Pornography >> [`open`](https://journals.sagepub.com/doi/abs/10.1177/10790632211013809?journalCode=saxb&)
 
 ---
