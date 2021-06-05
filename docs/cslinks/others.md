@@ -26,6 +26,9 @@ Don't let this section become another archive of links. Read everything.
 
 # Tweets
 
+- If you want to become a Web 3.0 Developer >> [`open`](https://twitter.com/oliverjumpertz/status/1396394220299169793?s=08)
+- The Cost of Cloud, A Trillion Dollar Paradox >> [`open`](https://twitter.com/martin_casado/status/1397989124682903554?s=20)
+
 ---
 
 # Videos

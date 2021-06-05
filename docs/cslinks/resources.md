@@ -43,6 +43,7 @@ This section only contains resources related to the different Computer Science T
 # React
 
 - React Book - Beginner / GitHub >> [`open`](https://softchris.github.io/books/react/)
+- 50 Projects For React & the Static Web >> [`open](`https://attachments.convertkitcdnn2.com/322298/7b95d1a8-367d-4320-8c72-8f6d635351c7/50.Projects.for.React.and.the.Static.Web.Colby.Fayock.1.0.pdf)
 
 ---
 
