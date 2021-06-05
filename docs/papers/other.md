@@ -47,9 +47,18 @@ nav_order: 1
 
 - Poverty Impedes Cognitive Function -- *Anandi Mani Sendhil Mullainathan, Eldar Shafir, Jiaying Zhao* >> [`open`](https://sci-hub.do/10.1126/science.1238041)
 
-# People
+# Sexual Practices and Kink
 
-## Nietzsche
+- Bondage-Discipline, Dominance-Submission and Sadomasochism (BDSM) From an Integrative Biopsychosocial Perspective: A Systematic Review >> [`open`](https://sci-hub.do/10.1016/j.esxm.2019.02.002)
+- Dilemmas of a subculture: An analysis of BDSM blogs about Fifty Shades of Grey >> [`open`](https://www.academia.edu/40961847/Dilemmas_of_a_subculture_An_analysis_of_BDSM_blogs_about_Fifty_Shades_of_Grey)
+- Sex, Play, and Social Power >> [`open`](https://www.academia.edu/41254173/Chapter_5_SEX_PLAY_AND_SOCIAL_POWER_)
+- Fetish as an Influence in Re-Defining Gender Identities >> [`open`](https://www.academia.edu/40525586/Fetish_as_an_Influence_in_Re_Defining_Gender_Identities)
+- Affirmation, compartmentalization, and isolation: Narratives of identity sentiment among kinky people >> [`open`](https://www.academia.edu/43024198/Affirmation_compartmentalization_and_isolation_Narratives_of_identity_sentiment_among_kinky_people)
+- Kinky identity and practice in relation to the law >> [`open`](https://www.academia.edu/43047679/Kinky_identity_and_practice_in_relation_to_the_law)
+- Catherine Opie: American Photographer, American Pervert >> [`open`](https://www.academia.edu/28632294/Catherine_Opie_American_Photographer_American_Pervert)
+- BDSM, becoming and the flows of desire >> [`open`](https://www.tandfonline.com/doi/full/10.1080/13691058.2018.1485969)
+
+# Nietzsche
 
 - The neurological illness of Friedrich Nietzsche >> [`open`](https://pubmed.ncbi.nlm.nih.gov/18575181/)
 	- Friedrich Nietzsche and his illness >> [`open`](https://pubmed.ncbi.nlm.nih.gov/23586545/)

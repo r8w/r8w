@@ -32,3 +32,9 @@ Try to write a brief summary when done reading the paper in the separate *Notes*
 # Operating Systems
 
 - The Linux Operating System -- It's a little historical as it was written a few years later after the initial development of Linux. Author described Linux as - *An operating system that runs on IBM PC-compatible machines with Intel-386/486/Pentium or equivalent processors.* >> [`open`](https://sci-hub.tw/10.1109/2.402081)
+
+---
+
+# Blockchain
+
+- Transforming Business Using Digital Innovations: The Application of AI, Blockchain, Cloud and Data Analytics >> [`open`](http://eprints.lincoln.ac.uk/id/eprint/40607/3/ANOR%20PAPER%20-%20FINAL%20VERSION.pdf)
