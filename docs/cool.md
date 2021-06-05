@@ -77,6 +77,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 ## Data
 
 - [Our World in Data](https://ourworldindata.org/)
+- [Levels FYI](https://www.levels.fyi/)
 
 ---
 
