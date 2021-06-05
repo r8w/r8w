@@ -23,6 +23,14 @@ Everyday questions and answers!
 
 # Git
 
+- Create an empty git commit -
+
+```sh
+$ git commit --allow-empty
+```
+
+---
+
  - How to show only modified file using git? >> [`open`](https://stackoverflow.com/questions/10018533/is-it-possible-to-git-status-only-modified-files)
 
  ```sh
