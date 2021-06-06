@@ -25,6 +25,8 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 - Michail Rybakov -- *Media Artist & Artistic Researcher* >> [`open`](https://rybakov.com/)
 - Farnam Street -- *Learn Faster, Think Better, and Make Smart Decisions* >> [`open`](https://fs.blog/)
 - The Word Detective -- *Words and Languages in a Humorous Vein on the Web* >> [`open`](http://www.word-detective.com/)
+- Human Nature Projects -- *Be Part of the Solution* >> [`open`](https://humannatureprojects.org/)
+- The Mindful World -- *Journal of Engaged Living* >> [`open`](https://www.themindfulword.org/)
 
 # Channels
 

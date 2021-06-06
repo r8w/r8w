@@ -41,6 +41,7 @@ Interesting Blog Posts Archive.
 - John B. Watson (1878–1958) Popularizing Behaviorism >> [`open`](https://education.stateuniversity.com/pages/2543/Watson-John-B-1878-1958.html)
 - Ideas Are Just A Multiplier Of Execution >> [`open`](https://sive.rs/multiply)
 - Educational Psychology >> [`open`](https://education.stateuniversity.com/pages/1938/Educational-Psychology.html)
+- Subconscious Mind Power Explained >> [`open`](https://www.briantracy.com/blog/personal-success/understanding-your-subconscious-mind/)
 
 ## More and more
 
