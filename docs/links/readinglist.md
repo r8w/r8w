@@ -37,5 +37,7 @@ Things left unread or unwatched due to unavailability of time.
 - A Study of Attention-Seeking Behavior in Children >> [`open`](https://ttu-ir.tdl.org/bitstream/handle/2346/17096/31295001929941.pdf?sequence=1)
 - Attention Seeking: A Perspective From Chaos Theory >> [`open`](http://www.nmellor.com/articles/AttentionSeeking-APerspectiveFromChaosTheory.pdf)
 - Effects of Automated Messages on Internet Users Attempting to Access “Barely Legal” Pornography >> [`open`](https://journals.sagepub.com/doi/abs/10.1177/10790632211013809?journalCode=saxb&)
+- Science, Human Nature, and a New Paradigm for Ethics Education >> [`open`](https://link.springer.com/article/10.1007/s11948-012-9373-8)
+- Justice for Jerks: Human Nature, Selfishness, and Noncompliance >> [`open`](https://www.academia.edu/24592192/_Justice_for_Jerks_Human_Nature_Selfishness_and_Noncompliance_Social_Theory_and_Practice_)
 
 ---

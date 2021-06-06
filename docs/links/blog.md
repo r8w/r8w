@@ -42,6 +42,7 @@ Interesting Blog Posts Archive.
 - Ideas Are Just A Multiplier Of Execution >> [`open`](https://sive.rs/multiply)
 - Educational Psychology >> [`open`](https://education.stateuniversity.com/pages/1938/Educational-Psychology.html)
 - Subconscious Mind Power Explained >> [`open`](https://www.briantracy.com/blog/personal-success/understanding-your-subconscious-mind/)
+- How Your State of Mind Affects Your Performance >> [`open`](https://hbr.org/2014/12/how-your-state-of-mind-affects-your-performance)
 
 ## More and more
 
@@ -171,5 +172,8 @@ Interesting Blog Posts Archive.
 - Why Is Fashion Talking About Regenerative Farming? >> [`open`](https://www.nytimes.com/2021/04/20/style/fashion-regenerative-farming.html)
 - The Rising Geopolitical Threat – Economic Damage by Cyber Attack >> [`open`](https://dougantin.com/economic-damage-by-cyber-attack-is-the-digital-age-attack-vector/)
 - The Long Night of the Soul >> [`open`](https://www.theringer.com/2021/5/20/22444532/long-night-of-the-soul)
+- The Absurdity of Peer Review >> [`open`](https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661)
+- Your Internet Data is Rotting >> [`open`](https://theconversation.com/your-internet-data-is-rotting-115891)
+- The Web Is Decaying >> [`open`](https://arweave.medium.com/link-rot-the-web-is-decaying-cc7d1c5ad48b)
 
 ---
