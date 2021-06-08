@@ -61,10 +61,11 @@ Interesting Blog Posts Archive.
 - Preventing respiratory syncytial virus (RSV) disease in children >> [`open`](https://science.sciencemag.org/content/372/6543/686)
 - Reproductive History & Cancer Risk >> [`open`](https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/reproductive-history-fact-sheet)
 
-## Climate
+## Global Warming
 
 - 2021 Is Shaping Up To Be Quite Chilly Compared To Recent Years >> [`open`](https://www.discovermagazine.com/environment/2021-is-shaping-up-to-be-chilly-compared-to-recent-years)
 - The world's glaciers are melting faster, and that is bad news for billions >> [`open`](https://theplanet.substack.com/p/the-worlds-glaciers-are-melting-faster)
+- The Best Data Viz and Infographics on Climate Change Facts >> [`open`](https://visme.co/blog/climate-change-facts/)
 
 ## Brain
 

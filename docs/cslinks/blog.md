@@ -19,6 +19,7 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 {:toc}
 
 ---
+
 # C Language
 
 - A Tutorial on Pointer and Array in C >> [`open`](https://pdos.csail.mit.edu/6.828/2012/readings/pointers.pdf)
@@ -29,26 +30,37 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 - Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) >> [`open`](https://gamesfromwithin.com/data-oriented-design)
 - What every programmer should know about memory? >> [`open`](https://lwn.net/Articles/250967/)
 
+---
+
 # Security
 
 - Authentication and Authorization >> [`open`](https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e)
+
+---
 
 # Databases
 
 - How Does a Relational Database Works >> [`open`](http://coding-geek.com/how-databases-work/)
 - SQL Tutorial For Data Analysis >> [`open`](https://mode.com/sql-tutorial/introduction-to-sql/)
 
+---
+
 # Browsers
 
 - Four part drawsplainer on how browsers work >> [`open`](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
+---
 
 # Compilers
 
 - Compiler Design Tutorial >> [`open`](http://dev.tutorialspoint.com/compiler_design/index.htm)
 - Building LLVM in 90 Seconds using Amazon Lambda >> [`open`](https://blog.nelhage.com/post/building-llvm-in-90s/)
 
-# Unicode
+---
 
-- What's the difference between UTF-8 and UTF-8 without BOM? >> [`open`](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)
+# DNS
+
+- How & Why To Clear Your DNS Cache >> [`open`](https://www.ionos.com/digitalguide/server/configuration/flush-dns/)
+- DNS Caching and How It Makes Your Internet Better >> [`open`](https://www.lifewire.com/what-is-a-dns-cache-817514)
 
 ---

@@ -37,3 +37,5 @@ Contents from The Front Page of the Internet.
 # Discussion
 
 - Nietzsche's Insanity >> [`open`](https://www.reddit.com/r/Nietzsche/comments/9w8dbt/nietzsches_insanity/)
+
+- I'm a Global Warming Skeptic, and I invite you to change my mind. >> [`open`](https://www.reddit.com/r/science/comments/b20b8/im_a_global_warming_skeptic_and_i_invite_you_to/)

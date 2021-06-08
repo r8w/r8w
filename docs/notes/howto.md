@@ -83,3 +83,14 @@ __Further__
 
 ---
 
+# Ubuntu
+
+- How to flush DNS Cache in Ubuntu 16.04 >> [`open`](https://linuxhint.com/flush_dns_cache_ubuntu/) -- [`open`](https://help.dreamhost.com/hc/en-us/articles/214981288-Flushing-your-DNS-cache-in-Mac-OS-X-and-Linux)
+
+```sh
+sudo systemd-resolve --statistics
+sudo systemd-resolve --flush-caches
+sudo systemctl restart systemd-resolved
+# or
+sudo systemctl restart nscd
+```

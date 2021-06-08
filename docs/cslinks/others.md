@@ -41,16 +41,15 @@ Don't let this section become another archive of links. Read everything.
 
 # Education
 
-- [Saylor](https://learn.saylor.org/index.php?) - Wide variety of subjects with courses!
-- [Today I Learned in Code](https://www.tilcode.com/)
-- [OSU CS Explorer](https://osu-cs-course-explorer.com/)
-- [Moocify Courses](https://www.mooc.fi/#courses)
-- [Stanford Free Courses](https://online.stanford.edu/search-catalog?type=course&free_or_paid[free]=free&page=1)
-- [CBT Nuggets - Free Courses](https://www.cbtnuggets.com/free-it-training)
+- [Saylor](https://learn.saylor.org/index.php?) -- Wide variety of subjects with courses!
+- [TILC](https://www.tilcode.com/) -- Today I Learned… in Code.
+- [OSU CS Explorer](https://osu-cs-course-explorer.com/) -- OSU CS Course Explorer.
+- [Moocify Courses](https://www.mooc.fi/#courses) - *University of Helsinki* -- High quality, open and free online courses for everyone.
+- [Stanford Courses](https://online.stanford.edu/search-catalog?type=course&free_or_paid[free]=free&page=1) -- Stanford Course Catalogue.
+- [CBT Nuggets - Free Courses](https://www.cbtnuggets.com/free-it-training) -- Free IT Training.
 
 ---
 
-# Cool Repositories
+# Stack Overflow Questions
 
-- [edex ui](https://github.com/GitSquared/edex-ui) - *A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.*
-- [OSSU Computer Science](https://github.com/ossu/computer-science) - *A 100% free Computer Science curriculum.*
+- What's the difference between UTF-8 and UTF-8 without BOM? >> [`open`](https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-without-bom)

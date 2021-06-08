@@ -25,3 +25,4 @@ Different sorts of articles from Wikipedia.
 - Stigler's Law of Eponymy >> [`open`](https://en.wikipedia.org/wiki/Stigler%27s_law_of_eponymy)
 - Religious Behavior in Animals >> [`open`](https://en.wikipedia.org/wiki/Religious_behavior_in_animals)
 - Wojtek (Bear) >> [`open`](https://en.m.wikipedia.org/wiki/Wojtek_(bear))
+- Burley Tobacco >> [`open`](https://en.wikipedia.org/wiki/Burley_(tobacco))
