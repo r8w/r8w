@@ -58,9 +58,21 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 
 ---
 
-# DNS
+# Computer Networks
 
+- Garlic Routing >> [`open`](https://geti2p.net/en/docs/how/garlic-routing)
+- YouTube -- How TOR Works >> [`open`](https://www.youtube.com/watch?v=QRYzre4bf7I)
+- YouTube -- OSI Model Explained >> [`open`](https://www.youtube.com/watch?v=vv4y_uOneC0)
+
+## DNS
+
+- What is DNS? -- Cloudflare >> [`open`](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 - How & Why To Clear Your DNS Cache >> [`open`](https://www.ionos.com/digitalguide/server/configuration/flush-dns/)
 - DNS Caching and How It Makes Your Internet Better >> [`open`](https://www.lifewire.com/what-is-a-dns-cache-817514)
+- How DNS Works >> [`open`](https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml)
+- An Introduction to DNS Terminology, Components, and Concepts >> [`open`](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+- DNS Guide Beginners >> [`open`](http://www.steves-internet-guide.com/dns-guide-beginners/)
+- DNS Records - Everything You Need To Know >> [`open`](https://blog.nexcess.net/dns-records-everything-you-need-to-know/)
+- YouTube -- DNS Explained >> [`open`](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
 ---

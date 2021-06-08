@@ -84,9 +84,10 @@ Garbage and Gold of Wormhole
 
 ---
 
-# Controversies
+# Controversial
 
 - Steve Ballmer's Microsoft Stack Ranking >> [`open`](https://twitter.com/TrungTPhan/status/1394654146599522306?s=08)
+- The Lancet letter of Feb 18, 2020, sent a message to scientists the world over: Investigate a lab leak, and you will be tarred as conspiracy theorist. >> [`open`](https://twitter.com/alexandrosM/status/1401813071635501056)
 
 ---
 
