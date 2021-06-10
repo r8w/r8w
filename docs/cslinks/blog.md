@@ -58,6 +58,14 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 
 ---
 
+# Distributed Systems
+
+- What is a Distributed Systems Engineer? >> [`open`](https://ably.com/blog/what-is-a-distributed-systems-engineer)
+- How we efficiently implemented consistent hashing >> [`opne`](https://ably.com/blog/implementing-efficient-consistent-hashing)
+- A Plain English Introduction to CAP Theorem >> [`opne`](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+
+---
+
 # Computer Networks
 
 - Garlic Routing >> [`open`](https://geti2p.net/en/docs/how/garlic-routing)

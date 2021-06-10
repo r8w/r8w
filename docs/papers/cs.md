@@ -38,3 +38,11 @@ Try to write a brief summary when done reading the paper in the separate *Notes*
 # Blockchain
 
 - Transforming Business Using Digital Innovations: The Application of AI, Blockchain, Cloud and Data Analytics >> [`open`](http://eprints.lincoln.ac.uk/id/eprint/40607/3/ANOR%20PAPER%20-%20FINAL%20VERSION.pdf)
+
+---
+
+# Distributed Systems
+
+- Software Engineering and Middleware: A Roadmap >> [`open`](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.9452&rep=rep1&type=pdf)
+
+---

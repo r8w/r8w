@@ -22,6 +22,8 @@ Don't let this section become another archive of links. Read everything.
 
 # Blogs
 
+- Cloudflare Resource Hub >> [`open`](https://www.cloudflare.com/resource-hub)
+
 ---
 
 # Tweets
