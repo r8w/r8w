@@ -145,6 +145,12 @@ Interesting Blog Posts Archive.
 
 ---
 
+# Tech
+
+- Developers Can't Fix Bad Management >> [`open`](https://iism.org/article/developers-can-t-fix-bad-management-57)
+
+---
+
 # People
 
 - How Alan Turing Invented The Computer Age >> [`open`](https://blogs.scientificamerican.com/guest-blog/how-alan-turing-invented-the-computer-age/)
@@ -152,6 +158,7 @@ Interesting Blog Posts Archive.
 - The Feynman Lectures on Physics Audio Collection >> [`open`](https://www.feynmanlectures.caltech.edu/flptapes.html) -- [`YouTube`](https://www.youtube.com/playlist?list=PLgRI7D_FXEnrCM8T1czHfJsvbQd4V1jRc)
 - On Syphilis & the Nature of Nietzsche's Madness >> [`open`](https://www.amacad.org/publication/syphilis-nature-nietzsches-madness)
 - This German Engineer Created a Hybrid of a Train and a Zeppelin >> [`open`](https://interestingengineering.com/this-german-engineer-created-a-hybrid-of-a-train-and-a-zeppelin)
+- The Drawing That Earned Sir Roger Penrose a Nobel Prize >> [`opne`](https://pioneerworks.org/broadcast/picture-this-roger-penrose)
 
 ---
 

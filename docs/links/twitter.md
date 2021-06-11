@@ -24,6 +24,9 @@ Garbage and Gold of Wormhole
 - How to read - Blank Sheet Method -- *Farnam Street* >> [`open`](https://twitter.com/farnamstreet/status/1347173210748551176)
 - Overcome procrastination while writing -- *Julian Shapiro* >> [`open`](https://twitter.com/Julian/status/1390744754065977348?s=20)
 - How do you quickly grown an online audience -- *Julian Shapiro* >> [`open`](https://twitter.com/Julian/status/1396901044429496329)
+- Who you surround yourself is who you become -- *Alex Liberman* >> [`open`](https://twitter.com/businessbarista/status/1403038127988609026?s=08)
+- How to build a great life -- *Kevin Dahlstrom* >> [`open`](https://twitter.com/Camp4/status/1402689150353129472?s=08)
+- How to generate way more ideas -- *Julian Shapiro* >> [`opne`](https://twitter.com/Julian/status/1402356373648601089?s=08)
 
 ---
 
@@ -33,6 +36,7 @@ Garbage and Gold of Wormhole
 - Civilization is much older than we thought -- *Samo Burja* >> [`open`](https://twitter.com/SamoBurja/status/1394338354590846982?s=08)
 - The Feature of Criminal Mind >> [`open`](https://twitter.com/robkhenderson/status/1393442484668309504?s=08)
 - The Design of ISIS Flag >> [`open`](https://twitter.com/a_el_shamsy/status/1395874364436910084?s=08)
+- Twelve Levels of Friendship in Arabic >> [`open`]9https://twitter.com/TaariqIsmail/status/1402681643714985984?s=08)
 
 ---
 
@@ -96,6 +100,8 @@ Garbage and Gold of Wormhole
 - Best Educational Resources for 4Y/O >> [`open`](https://twitter.com/awilkinson/status/1392219056246124545)
 - Balaj on Solona -  high-performance blockchain >> [`open`](https://twitter.com/balajis/status/1394782976978800643)
 - More Philosophy Podcasts >> [`open`](https://twitter.com/philosophybites/status/1396147129769512963)
+- Dense Network of Interurban in US >> [`open`](https://twitter.com/grescoe/status/1402280270930272266)
+- Five Valuable Mental Models >> [`opne`](https://twitter.com/sumitgrrg/status/1401516334555426817?s=08)
 
 ---
 

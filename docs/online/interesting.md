@@ -8,7 +8,7 @@ nav_order: 998
 # Interesting Courses
 {: .no_toc}
 
-List of courses that seem interesting. Not a subject-centric section.
+List of courses that seem interesting. Not a subject-centeric section.
 
 ---
 
@@ -23,3 +23,7 @@ List of courses that seem interesting. Not a subject-centric section.
 ## JavaScript
 
 - [Watch and Code](https://watchandcode.com/)
+
+## Stocks
+
+- Investing in Stocks - The Complete Course -- *Steve Ballinger* >> [`open`](https://www.udemy.com/course/investing-in-stocks/)
