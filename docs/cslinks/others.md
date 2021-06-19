@@ -23,6 +23,7 @@ Don't let this section become another archive of links. Read everything.
 # Blogs
 
 - Cloudflare Resource Hub >> [`open`](https://www.cloudflare.com/resource-hub)
+- My Software Development Roadmap >> [`open`](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08)
 
 ---
 
@@ -41,7 +42,7 @@ Don't let this section become another archive of links. Read everything.
 
 ---
 
-# Education
+# Resources
 
 - [Saylor](https://learn.saylor.org/index.php?) -- Wide variety of subjects with courses!
 - [TILC](https://www.tilcode.com/) -- Today I Learned… in Code.
@@ -49,7 +50,7 @@ Don't let this section become another archive of links. Read everything.
 - [Moocify Courses](https://www.mooc.fi/#courses) - *University of Helsinki* -- High quality, open and free online courses for everyone.
 - [Stanford Courses](https://online.stanford.edu/search-catalog?type=course&free_or_paid[free]=free&page=1) -- Stanford Course Catalogue.
 - [CBT Nuggets - Free Courses](https://www.cbtnuggets.com/free-it-training) -- Free IT Training.
-
+- [Rithm School Courses](https://www.rithmschool.com/courses#advanced-javascript) -- From Beginner to Advance Web Related Courses.
 ---
 
 # Stack Overflow Questions

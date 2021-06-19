@@ -71,6 +71,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 ## Courses
 
 - [Discudemy](https://www.discudemy.com/)
+- [The Giant Report](https://thegiantreport.com/)
 
 ---
 

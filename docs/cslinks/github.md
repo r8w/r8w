@@ -17,3 +17,4 @@ Cool GitHub Repositories that are worth checking!
 - [edex ui](https://github.com/GitSquared/edex-ui) -- A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [OSSU Computer Science](https://github.com/ossu/computer-science) -- A 100% free Computer Science curriculum.
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) -- A curated list to learn about distributed systems.
+- [p1xt Guides](https://github.com/P1xt/p1xt-guides) -- Programming Curricula

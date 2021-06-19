@@ -28,6 +28,7 @@ Links of interesting or useful websites, channels, podcasts, or any other thing.
 - Sparring Mind -- *Best Articles From Archive* >> [`open`](https://www.sparringmind.com/articles/)
 - Information Is Beautiful >> [`open`](https://informationisbeautiful.net/)
 - Investopedia >> [`open`](https://www.investopedia.com/investing-4427685)
+- Smart Quote for Smart People >> [`open`](https://smartquotesforsmartpeople.com/)
 
 # Channels
 

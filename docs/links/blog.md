@@ -183,5 +183,6 @@ Interesting Blog Posts Archive.
 - The Absurdity of Peer Review >> [`open`](https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661)
 - Your Internet Data is Rotting >> [`open`](https://theconversation.com/your-internet-data-is-rotting-115891)
 - The Web Is Decaying >> [`open`](https://arweave.medium.com/link-rot-the-web-is-decaying-cc7d1c5ad48b)
+- What Purpose do Mosquitoes Serve? >> [`open`](https://blog.nwf.org/2020/09/what-purpose-do-mosquitoes-serve/)
 
 ---

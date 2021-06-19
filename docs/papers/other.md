@@ -30,6 +30,8 @@ nav_order: 1
 - Avoiding fights on social media: Strategies youthleverage to navigate conflict in a digital era >> [`open`](https://sci-hub.tw/10.1002/jcop.22363)
 - Chronic traumatic encephalopathy is not a real disease >> [`open`](https://academic.oup.com/acn/article/33/5/644/5087832)
 - A Suggestion for a New Interpretation of Dreams: Dreaming Is the Inverse of Anxious Mind-Wandering >> [`open`](https://psyarxiv.com/k6trz/)
+- Distributed Neural System for Emotional Intelligence Revealed by Lesion Mapping >> [`open`](https://sci-hub.do/10.1093/scan/nss124)
+- The Role of Intelligence Quotient and Emotional Intelligence in Cognitive Control Processes >> [`open`](https://sci-hub.do/10.3389/fpsyg.2015.01853)
 
 # What The Fuck?
 
