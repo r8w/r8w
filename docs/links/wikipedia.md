@@ -26,3 +26,4 @@ Different sorts of articles from Wikipedia.
 - Religious Behavior in Animals >> [`open`](https://en.wikipedia.org/wiki/Religious_behavior_in_animals)
 - Wojtek (Bear) >> [`open`](https://en.m.wikipedia.org/wiki/Wojtek_(bear))
 - Burley Tobacco >> [`open`](https://en.wikipedia.org/wiki/Burley_(tobacco))
+- List of Academic Databases and Search Engines >> [`open`](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)

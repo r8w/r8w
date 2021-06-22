@@ -28,10 +28,11 @@ Contents from The Front Page of the Internet.
 
 # Comments
 
-- What were the mechanisms by which the state of Israel was created and how, if at all, did those responsible plan to deal with those already living on the land. How did the creation of the state look on the ground? Were those responsible surprised conflict erupted? -- [`comment`](https://www.reddit.com/r/AskHistorians/comments/23w18h/what_were_the_mechanisms_by_which_the_state_of/ch1kz8e/)
+- What were the mechanisms by which the state of Israel was created and how, if at all, did those responsible plan to deal with those already living on the land. How did the creation of the state look on the ground? Were those responsible surprised conflict erupted? -- [`open`](https://www.reddit.com/r/AskHistorians/comments/23w18h/what_were_the_mechanisms_by_which_the_state_of/ch1kz8e/)
 
-- History of Black/Africans in Japan -- [`comment`](https://www.reddit.com/r/AskHistorians/comments/flgpph/history_of_blackafricans_in_japan/)
+- History of Black/Africans in Japan -- [`open`](https://www.reddit.com/r/AskHistorians/comments/flgpph/history_of_blackafricans_in_japan/)
 
+- What is the best way to find research papers? -- [`open`](https://www.reddit.com/r/scientificresearch/comments/3ujsz8/what_is_the_best_way_to_find_research_papers/cxfq4sd?utm_source=share&utm_medium=web2x&context=3)
 ---
 
 # Discussion

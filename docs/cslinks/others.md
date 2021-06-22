@@ -24,6 +24,7 @@ Don't let this section become another archive of links. Read everything.
 
 - Cloudflare Resource Hub >> [`open`](https://www.cloudflare.com/resource-hub)
 - My Software Development Roadmap >> [`open`](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08)
+- The Clean Code Blog >> [`open`](https://blog.cleancoder.com/)
 
 ---
 
