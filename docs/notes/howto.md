@@ -103,3 +103,5 @@ sudo systemctl restart nscd
 ```sh
 $ youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" <url to playlist>
 ```
+
+- Add `playlist--start <index>` to start downloading from specific index.
