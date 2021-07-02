@@ -94,3 +94,12 @@ sudo systemctl restart systemd-resolved
 # or
 sudo systemctl restart nscd
 ```
+---
+
+# YouTube
+
+- How to download a playlist as mp3? >> [`open`](https://askubuntu.com/questions/564567/how-to-download-playlist-to-mp3-format-with-youtube-dl)
+
+```sh
+$ youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" <url to playlist>
+```
