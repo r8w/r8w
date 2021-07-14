@@ -30,6 +30,10 @@ Contents from The Front Page of the Internet.
 
 # Subjects
 
+## Economics
+
+- How The Economic Machine Works by Ray Dalio >> [`open`](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
 ## History
 
 ### Israel and Palestine Conflict

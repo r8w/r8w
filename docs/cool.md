@@ -39,6 +39,11 @@ Rest of the sites are used only for the purpose of summary and DOI.
 ## Books
 
 - [LibGen](https://lib-gen.is)
+- [LibriVox](https://librivox.org/)
+- [The Online Books Page](https://onlinebooks.library.upenn.edu/)
+- [FeedBooks](http://www.feedbooks.com/)
+- [Many Books](https://manybooks.net/)
+- [For Kids](http://en.childrenslibrary.org/)
 
 ---
 
@@ -72,6 +77,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 
 - [Discudemy](https://www.discudemy.com/)
 - [The Giant Report](https://thegiantreport.com/)
+- [The Great Courses](https://www.thegreatcourses.com/)
 
 ---
 

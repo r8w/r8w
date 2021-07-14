@@ -26,6 +26,8 @@ Try to write a brief summary when done reading the paper in the separate *Notes*
 - Writing good software engineering research papers >> [`open`](https://dl.acm.org/doi/abs/10.5555/776816.776925)
 - Dehumanizing Computer Science >> [`open`](https://sci-hub.tw/10.1002/9780470125779.ch3)
 - Mobile Computing: Principles, Devices and Operating Systems >> [`open`](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.9731&rep=rep1&type=pdf)
+- A Plea for Lean Software >> [	open](https://cr.yp.to/bib/1995/wirth.pdf)
+- The Emperor's Old Clothes >> [`open`](https://web.archive.org/web/20201222144225/https://zoo.cs.yale.edu/classes/cs422/2011/bib/hoare81emperor.pdf)
 
 ---
 

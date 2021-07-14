@@ -22,6 +22,8 @@ Don't let this section become another archive of links. Read everything.
 
 # Blogs
 
+- Coding Habits for Data Scientists >> [`opne`](https://www.thoughtworks.com/en-us/insights/blog/coding-habits-data-scientists)
+
 # Videos
 
 # Papers
