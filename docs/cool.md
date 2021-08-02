@@ -44,6 +44,13 @@ Rest of the sites are used only for the purpose of summary and DOI.
 - [FeedBooks](http://www.feedbooks.com/)
 - [Many Books](https://manybooks.net/)
 - [For Kids](http://en.childrenslibrary.org/)
+- [Standard Ebooks](https://standardebooks.org/)
+- [Mobilism](https://forum.mobilism.me/)
+- [Archive of Our Own](https://archiveofourown.org/)
+- [Ebooks Daily](https://ebookdaily.com/)
+- [Free Book Spot](http://www.freebookspot.club/default.aspx)
+- [Avax Home](https://www.avaxhome.co/)
+- [Audio Bay](http://audiobookbay.nl/)
 
 ---
 
@@ -92,3 +99,5 @@ Rest of the sites are used only for the purpose of summary and DOI.
 
 - [Kast](https://kast.gg/)
 - [Sporacle](https://www.sporcle.com/)
+- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
+

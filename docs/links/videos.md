@@ -30,6 +30,10 @@ Contents from The Front Page of the Internet.
 
 # Subjects
 
+## Mathematics
+
+- The Riemann Hypothesis, Explained >> [`open`](https://www.youtube.com/watch?v=zlm1aajH6gY)
+
 ## Economics
 
 - How The Economic Machine Works by Ray Dalio >> [`open`](https://www.youtube.com/watch?v=PHe0bXAIuk0)
