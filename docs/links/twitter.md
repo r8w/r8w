@@ -78,6 +78,7 @@ Garbage and Gold of Wormhole
 - Story of Vimeo >> [`open`](https://twitter.com/ankithharathi/status/1397369781335076864?s=08)
 - Talking About Failure -- *Justin Kan* >> [`open`](https://twitter.com/justinkan/status/1397730747398557696?s=08)
 - Freelancing Web Development Pricing Tips >> [`open`](https://twitter.com/study_web_dev/status/1400426689931485185?s=08)
+- I think I figured out what works and doesn't in a resume. >> [`open`](https://twitter.com/svpino/status/1405812679885918216)
 
 ---
 
@@ -85,6 +86,7 @@ Garbage and Gold of Wormhole
 
 - Story of Satoshi Nakamoto >> [`open`](https://twitter.com/mohitmamoria/status/1397631874630041600)
 - Gambler who turned $700,000 to $300 Million >> [`open`](https://twitter.com/JoePompliano/status/1400245761854652417)
+- In my experience the best founders develop a fighter mentality. >> [`open`](https://twitter.com/DanRose999/status/1403799514641731592)
 
 ---
 

@@ -48,6 +48,7 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 # Browsers
 
 - Four part drawsplainer on how browsers work >> [`open`](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+- Web Browser Engineering >> [`open`](https://browser.engineering/)
 
 ---
 
