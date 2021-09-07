@@ -112,6 +112,11 @@ Interesting Blog Posts Archive.
 ## India
 
 -  India wasn't the first place Sanskrit was recorded – it was Syria >> [`open`](https://scroll.in/article/737715/fact-check-india-wasnt-the-first-place-sanskrit-was-recorded-it-was-syria)
+- Can enlightenment still be found on the banks of the Ganges? >> [`open`](https://aeon.co/essays/can-enlightenment-still-be-found-on-the-banks-of-the-ganges)
+
+## Others
+
+- The Real Reason That Men in Classical Portrayals Were Given Small Manhoods >> [`open`](https://www.ancient-origins.net/history-ancient-traditions/small-manhoods-008127)
 
 ---
 
