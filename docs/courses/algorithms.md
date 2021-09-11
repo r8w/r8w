@@ -21,6 +21,7 @@ nav_order: 2
 __Level 0__
 
 - JavaScript - Data Structures & Algorithms -- *KodingKevin* >> [`open`](https://www.youtube.com/watch?v=LuXCJxY7nPE&list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3)
+- Algorithms -- *Abdul Bari* >> [`open`](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 __Level 1__
 
@@ -61,6 +62,7 @@ __Level 3__
 <!-- TBD -->
 <!-- {: .label .label-green} -->
 
+- Data Structures and Algorithms in Python >> [`open`](https://classroom.udacity.com/courses/ud513)
 - Frontend Masters -- A Practical Guide to Algorithms in JavaScript >> [`open`](https://frontendmasters.com/courses/practical-algorithms/)
 - Frontend Masters -- Data Structures and Algorithms in JavaScript >> [`open`](https://frontendmasters.com/courses/data-structures-algorithms/)
 - YouTube - Algorithms and Data Structures -- *Gayle Laakmann McDowell* >> [`open`](https://www.youtube.com/watch?v=njTh_OwMljA&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8)

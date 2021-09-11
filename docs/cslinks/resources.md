@@ -220,5 +220,6 @@ This section only contains resources related to the different Computer Science T
 - OSSU - Computer Science >> [`open`](https://github.com/ossu/computer-science)
 - The GNU C Programming Tutorial >> [`open`](http://crasseux.com/books/ctutorial/)
 - Free Video Courses >> [`open`](https://github.com/Developer-Y/cs-video-courses)
+- Free Programming Books >> [`open`](https://github.com/EbookFoundation/free-programming-books)
 
 ---
