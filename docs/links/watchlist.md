@@ -50,6 +50,7 @@ Things left unwatched due to unavailability of time.
 - The Killing Zone >> [`open`](https://topdocumentaryfilms.com/dispatches-the-killing-zone/)
 - Young Israelis Fight for Social Justice - [`Part 1`](https://www.youtube.com/watch?v=GKzdVCYXx-Y), [`Part 2`](https://www.youtube.com/watch?v=lbCEwmCwvxk), and [`Part 3`](https://www.youtube.com/watch?v=rKgeyYr6RQY)
 - John Pilger - Palestine Is Still The Issue >> [`open`](https://www.youtube.com/watch?v=AYF0td7Ykus)
+- The Enduring Mystery of Jack The Ripper >> [`open`](https://www.youtube.com/watch?v=lADBHDg-JtA)
 
 ---
 
@@ -65,5 +66,12 @@ Things left unwatched due to unavailability of time.
 ---
 
 # Clips
+
+- Albert Camus - How To Find Meaning In Life (Philosophy of Absurdism) >> [`open`](https://www.youtube.com/watch?v=TkhLRaQ3k0U)
+- Worst Punishment in Human History >> [`open`](https://www.youtube.com/watch?v=c1DVNpxfXa8)
+- Carl Jung - What Are Archetypes? >> [`open`](https://www.youtube.com/watch?v=wywUQc-4Opk)
+- How To Study More Effectively >> [`open`](https://www.youtube.com/watch?v=MlJdMr3O5J4)
+- 7 Things I Wish I Knew At 20 >> [`open`](https://www.youtube.com/watch?v=lUqIPo4DDHE)
+- How To Be More Productive >> [`open`](https://www.youtube.com/watch?v=lbtte7iTS9g)
 
 ---

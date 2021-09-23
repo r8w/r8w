@@ -25,6 +25,14 @@ Contents from The Front Page of the Internet.
 - How To Speak -- *Patrick Winston* >> [`open`](https://www.youtube.com/watch?v=Unzc731iCUY)
 - This Is Water -- *Speech by David Foster Wallace* >> [`open`](https://fs.blog/2012/04/david-foster-wallace-this-is-water/)
 - Is Success Luck or Hard Work? -- *Veritasium* >> [`open`](https://www.youtube.com/watch?v=3LopI4YeC4I)
+- How To Be More Disciplined >> [`open`](https://www.youtube.com/watch?v=cPn3UOt1lxw)
+- How Falling Behind Can Get You Ahead >> [`open`](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
+
+---
+
+# Philosophy
+
+- Nietzsche - Follow No One, Trust Yourself >> [`open`](https://www.youtube.com/watch?v=e-k7b8Zmh70)
 
 ---
 
