@@ -85,3 +85,7 @@ Computer Science related Blog Posts. For others, check [Blog Post Archive](../..
 - YouTube -- DNS Explained >> [`open`](https://www.youtube.com/watch?v=JkEYOt08-rU)
 
 ---
+
+# Linux
+
+- How to setup a clean UTF-8 environment in Linux >> [`open`](https://perlgeek.de/en/article/set-up-a-clean-utf8-environment)

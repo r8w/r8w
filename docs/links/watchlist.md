@@ -33,6 +33,14 @@ Things left unwatched due to unavailability of time.
 
 ---
 
+# Podcasts
+
+- Does Great Art Require Suffering? David Choe on The Rich Roll Podcast >> [`open`](https://www.youtube.com/watch?v=CvHFWwVZKoI)
+- How To Build Awesome Habits: James Clear >> [`open`](https://www.youtube.com/watch?v=s9uDVVWN_ZE)
+- ADHD & How Anyone Can Improve Their Focus  >> [`open`](https://www.youtube.com/watch?v=hFL6qRIJZ_Y)
+
+---
+
 # Debates
 
 - Blame Liberals For The Rise Of Populism >> [`open`](https://www.youtube.com/watch?v=J2sOCD1Q3oI)

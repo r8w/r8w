@@ -33,6 +33,10 @@ nav_order: 1
 - Distributed Neural System for Emotional Intelligence Revealed by Lesion Mapping >> [`open`](https://sci-hub.do/10.1093/scan/nss124)
 - The Role of Intelligence Quotient and Emotional Intelligence in Cognitive Control Processes >> [`open`](https://sci-hub.do/10.3389/fpsyg.2015.01853)
 
+# Neuroscience
+
+- Time dilates after spontaneous blinking >> [`open`](https://www.cell.com/current-biology/pdf/S0960-9822(16)30332-3.pdf)
+
 # What The Fuck?
 
 - Construction of Gender Identities And The Paradox of Subversion in ‘Rick And Morty’ >> [`open`](http://www.journalcra.com/sites/default/files/issue-pdf/31365.pdf)

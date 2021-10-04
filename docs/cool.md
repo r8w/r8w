@@ -59,6 +59,7 @@ Rest of the sites are used only for the purpose of summary and DOI.
 - [Unpaywall](https://unpaywall.org/)
 - [ExcaliDraw](https://excalidraw.com/)
 - [Can't Unsee](https://cantunsee.space/)
+- [Email Me This](https://www.emailthis.me/)
 
 ---
 
@@ -100,4 +101,5 @@ Rest of the sites are used only for the purpose of summary and DOI.
 - [Kast](https://kast.gg/)
 - [Sporacle](https://www.sporcle.com/)
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
+- [Refind](https://refind.com/)
 
