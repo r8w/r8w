@@ -8,7 +8,7 @@ nav_order: 3
 # Technical Topics
 {: .no_toc }
 
-This section deals with all the books related to the different technical topics across web.
+An archive of books related to the different technical topics bonded to the web.
 
 ---
 
@@ -18,7 +18,7 @@ This section deals with all the books related to the different technical topics 
 1. TOC
 {:toc}
 
-# Websockets
+# WebSockets
 
 - WebSocket Essentials -- *Varun Chopra*
 - 	Lightweight Django: Using REST, WebSockets, and Backbone -- *Julia Elman, Mark Lavin*

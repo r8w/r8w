@@ -29,6 +29,6 @@ A valid explanation for the existence of this wiki can be found [here](https://r
 
 ---
 
-<p align="center">Even when I'm dead, this page will exist.</p>
+*Hopefully, this place will continue to exist for a long time...*
 
 ---

@@ -8,9 +8,7 @@ nav_order: 1
 # Computer Science Engineering Books
 {: .no_toc }
 
-I'm not aware of all the subjects they teach in B.Tech, but I know some. There are times when I think of picking a decent book to learn more about the subject, and it happens all the time. In this section, I added the books which serve the purpose.
-
-Saves time from the infinite search.
+Computer Science Engineering related books. Confined to foundational subjects on which CSE stands.
 
 ---
 

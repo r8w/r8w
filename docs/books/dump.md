@@ -29,7 +29,7 @@ Dump, but probably not a garbage bin.
 - This Book Has Issues: Adventures in Popular Psychology -- *Christian Jarrett and Joannah Ginsburg* >> [`open`](https://www.amazon.in/This-Book-Has-Issues-Adventures/dp/0826479782)
 - Positioning: The Idea For Your Mind -- *Al Rise* >> [`open`](https://twitter.com/patrick_oshag/status/1398610524187807744)
 
-# Sexual Practices
+# No Idea
 
 - Hell on Wheels >> [`open`](https://www.amazon.com/Hell-Wheels-Raven-Kaldera/dp/098287944X/ref=sr_1_25?s=books&ie=UTF8&qid=1524194735&sr=1-25&keywords=raven+kaldera+books)
 - Dark Moon Rising: Pagan BDSM and the Ordeal Path >> [`open`](https://www.amazon.in/Dark-Moon-Rising-Pagan-Ordeal-ebook/dp/B08L1DHYZM)

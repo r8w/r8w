@@ -8,7 +8,7 @@ nav_order: 4
 # Year of Books
 {: .no_toc }
 
-Inspired from Aaron Swart's [Year of Books](http://www.aaronsw.com/weblog/books2011).
+Inspired by Aaron Swartz's [Year of Books](http://www.aaronsw.com/weblog/books2011).
 
 ---
 
@@ -61,7 +61,7 @@ List of books that I've read so far. Most of the books were read during the bad 
 
 This year has been good if I talk about books. I've been extremely curious about various sorts of topics that I've interest in, and this curiosity made me read a lot of good books.
 
-Read more ~ [A Year of Books - 2020](https://rishi.ml/2020/year-of-books/)
+*Read more* ~ [A Year of Books - 2020](https://rishi.ml/2020/year-of-books/)
 
 __History__
 - The Last Jew of Treblinka ― *Chil Rajchman*
@@ -144,13 +144,75 @@ __Psychology__
 
 # 2021
 
-Read More ~ [Paperbacks](https://rishi.ml/2020/paperbacks/)
+*Read More* ~ [A Year of Books - 2021](https://rishi.ml/2022/year-of-books/)
 
-- Crime and Punishment ― *Fyodor Dostoyevsky*
-- The Brothers Karamazov ― *Fyodor Dostoyevsky*
-- The Idiot ― *Fyodor Dostoyevsky*
-- War and Peace ― *Leo Tolstoy*
-- Thus Spoke Zarathustra ― *Friedrich Nietzsche*
-- Beyond Good & Evil - *Friedrich Nietzsche*
-- The Politics - *Aristotle*
-- The First and Last Freedom ― *Jiddu Krishnamurti*
+__Psychology__
+
+- [Behave](https://www.goodreads.com/book/show/31170723-behave) -- *Robert Sapolsky*
+- [Sex at Dawn](https://www.goodreads.com/book/show/7640261-sex-at-dawn) -- *Christopher Ryan & Cacilda Jetha*
+- [The Man Who Mistook His Wife for a Hat and Other Clinical Tales](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales) -- *Oliver Sacks*
+- [You Are Not So Smart](https://www.goodreads.com/book/show/11709037-you-are-not-so-smart) -- *David McRaney*
+- [Prometheus Rising](https://www.goodreads.com/book/show/28597.Prometheus_Rising) -- *Robert Anton Wilson*
+- [The Self Illusion: Why There is No 'You' Inside Your Head](https://www.goodreads.com/book/show/13384559-the-self-illusion) -- *Bruce M. Hood*
+
+__Economics__
+
+- [Good Economics for Hard Times](https://www.goodreads.com/book/show/51014619-good-economics-for-hard-times) -- *Abhijit V. Banerjee & Esther Duflo*
+
+__History__
+
+- [The Rape of Nanking](https://www.goodreads.com/book/show/95784.The_Rape_of_Nanking) -- *Iris Chang*
+- [The Road to Wigan Pier](https://www.goodreads.com/book/show/30553.The_Road_to_Wigan_Pier) -- *George Orwell*
+- [ Unbroken: A World War II Story of Survival, Resilience and Redemption](https://www.goodreads.com/book/show/8664353-unbroken) --  *Laura Hillenbrand*
+
+__Philosophy__
+
+- [The First and Last Freedom](https://www.goodreads.com/book/show/64710.The_First_and_Last_Freedom) -- *Jiddu Krishnamurti*
+- [The Politics of Aristotle](https://www.goodreads.com/book/show/982463.The_Politics_of_Aristotle) -- *Aristotle*
+
+__Science__ -- *Non Fiction*
+
+- [What If? Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions)  -- *Randal Monroe*
+- ["Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character](https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman) -- *Richard P. Feynman*
+
+__Religion__
+
+- [The Missionary Position: Mother Teresa in Theory and Practice](https://www.goodreads.com/book/show/43372.The_Missionary_Position) -- *Christopher Hitchens*
+
+__Humor__
+
+- [Me Talk Pretty One Day](https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day) -- *David Sedaris*
+
+__Poetry__
+
+- [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet) -- *Khalil Gibran*
+
+__Linguistics__
+
+- [Our Magnificent Bastard Tongue](https://www.goodreads.com/book/show/3143472-our-magnificent-bastard-tongue) -- *John McWhorter*
+
+
+__Science Fiction__
+
+- [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep) -- *Philip K. Dick*
+- [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) -- *Ursula K. Le Guin*
+
+__Classics__
+
+- [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot) -- *Fyodor Dostoevsky*
+- [The Castle](https://www.goodreads.com/book/show/333538.The_Castle) -- *Franz Kafka*
+
+<br>
+
+# 2022
+
+*Read More* ~ [A Year of Books - 2022](#)
+
+__Science / Health__
+
+- [The Emperor of All Maladies - *A Biography of Cancer*](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) -- *Siddhartha Mukherjee*
+
+__Psychology__
+
+- [Love's Executioner and Other Tales of Psychotherapy](https://www.goodreads.com/book/show/21027.Love_s_Executioner_and_Other_Tales_of_Psychotherapy) -- *Irvin D. Yalom*
+- [The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook ](https://www.goodreads.com/book/show/129909.The_Boy_Who_Was_Raised_as_a_Dog?ac=1&from_search=true&qid=i8tN6IMeo0&rank=1) -- *Bruce D. Perry & Maia Szalavitz*

@@ -1,15 +1,15 @@
 ---
 layout: default
-title: To Read
+title: Reading List
 parent: Books
 nav_order: 5
 ---
 
-# Books to Read
+# Reading List
 
-There are lots of books that I'd like to read. This a few list of a few books that I can think of at the moment.
+Usual reading list. Too many names.
 
-- Rest are in [Dump](../../../docs/books/dump/#general)
+- Some are in [Dump](../../../docs/books/dump/#general)
 
 ---
 

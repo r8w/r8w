@@ -18,6 +18,12 @@ Interesting Podcasts
 - Dr. Matthew Walker: The Science & Practice of Perfecting Your Sleep  >> [`open`](https://www.youtube.com/watch?v=gbQFSMayJxk)
 - How To Build Awesome Habits: James Clear >> [`open`](https://www.youtube.com/watch?v=s9uDVVWN_ZE)
 - How To Focus and Change Your Brain >> [`open`](https://www.youtube.com/watch?v=LG53Vxum0as)
+- Andrew Huberman: Neuroscience of Optimal Performance -- *Lex Fridman Podcast* >> [`open`](https://www.youtube.com/watch?v=Ktj050DxG7Q)
+- The Science of Emotions & Relationship -- *Huberman* >> [`open`](https://www.youtube.com/watch?v=hcuMLQVAgEg)
+
+### Spotify
+
+- Andrew Humberman - Joe Rogan >> [`open`](https://open.spotify.com/episode/1HnJSVAxlfZVREkojSJ39c)
 
 ### Other Places
 

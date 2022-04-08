@@ -30,6 +30,12 @@ Contents from The Front Page of the Internet.
 
 ---
 
+# Health
+
+- Why Exercise Is So Underrated? >> [`open`](https://www.youtube.com/watch?v=DsVzKCk066g)
+
+---
+
 # Philosophy
 
 - Nietzsche - Follow No One, Trust Yourself >> [`open`](https://www.youtube.com/watch?v=e-k7b8Zmh70)
