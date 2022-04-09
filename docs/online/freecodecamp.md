@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Interesting
-parent: Online Courses
-nav_order: 998
+title: FreeCodeCamp
+parent: Certification
+grand_parent: Online Courses
+nav_order: 3
 ---
 
-# Interesting Courses
+# FreeCodeCamp
 {: .no_toc}
 
 List of courses that seem interesting. Not a subject-centeric section.

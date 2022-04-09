@@ -1,8 +1,10 @@
 ---
 layout: default
 title: CS50 Web
-parent: Online Courses
 nav_order: 1
+nav_exclude: true
+parent: Certification
+grand_parent: Online Courses
 ---
 
 # CS50's Web Programming with Python and JavaScript
