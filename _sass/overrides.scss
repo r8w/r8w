@@ -10,8 +10,8 @@
 .side-bar,
 .page-header,
 .js-page-header {
-	font-family: 'Acme', sans-serif;
-	font-size: 16px;
+    font-family: 'Acme', sans-serif;
+    font-size: 16px;
 }
 
 //.side-bar a, .js-page-header a {
@@ -30,54 +30,79 @@ h6,
 a,
 .btn,
 footer {
-	font-family: 'Acme', sans-serif;
+    font-family: 'Acme', sans-serif;
 }
 
 p,
 li,
 ol,
 dl {
-	font-family: 'Alegreya', serif;
-	font-size: 17px;
+    font-family: 'Alegreya', serif;
+    font-size: 17px;
 }
 
 table {
-	font-family: 'Alegreya', serif;
-	font-size: 18px;
+    font-family: 'Alegreya', serif;
+    font-size: 18px;
 }
 
 .fs-6 {
-	font-family: 'Acme', sans-serif;
-	font-size: 20px !important;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px !important;
 }
 
 code {
-	font-family: 'Fira Code', monospace;
-	font-size: 12px;
+    font-family: 'Fira Code', monospace;
+    font-size: 12px;
 }
 
 .fimage {
-	width: 70%
+    width: 70%
 }
 
 .img-blog {
-	display: block;
-	margin-left: auto;
-	margin-right: auto
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 
 .img-description {
-	text-align: center;
-	font-weight: bolder;
-	font-style: italic;
-	margin-bottom: 20px;;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    margin-bottom: 20px;
+    ;
 }
 
 details {
-	font-family: 'Alegreya', sans-serif;
+    font-family: 'Alegreya', sans-serif;
 }
 
 summary {
-	font-family: 'Inconsolata';
+    font-family: 'Inconsolata';
+}
+
+// scrollbar style @ firefox
+
+* {
+    scrollbar-color: #7253ed #ffacff;
+    scrollbar-width: thin;
+}
+
+// scrollbar style @ chrome
+
+/* width */
+::-webkit-scrollbar {
+    width: 4.5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #7253ed;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffacff;
 }
