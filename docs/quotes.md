@@ -6,12 +6,13 @@ nav_order: 999
 
 # Quotes
 
-A small archive for some of my favorite quotes.
-{: .fs-6 .fw-300 }
+A small archive of some of my favourite quotes.
+
+<!-- {: .fs-6 .fw-300 } -->
 
 ---
 
-- I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don’t like excluding people. I’m a perfectionist, but I won’t let that get in the way of publication. Except for education and entertainment, I’m not going to waste my time on things that won’t have an impact. I try to be friends with everyone, but I hate it when you don’t take me seriously. I don’t hold grudges, it’s not productive, but I learn from my experience. I want to make the world a better place. __*― Aaron Swartz*__
+- I think deeply about things and want others to do likewise. I work for ideas and learn from people. I don't like excluding people. I'm a perfectionist, but I won't let that get in the way of publication. Except for education and entertainment, I'm not going to waste my time on things that won't have an impact. I try to be friends with everyone, but I hate it when you don't take me seriously. I don't hold grudges, it's not productive, but I learn from my experience. I want to make the world a better place. __*― Aaron Swartz*__
 
 - People think of education as something they can finish. __*― Isaac Asimov*__
 
@@ -29,9 +30,7 @@ A small archive for some of my favorite quotes.
 ---
 
 - For more, feel free to visit my photography account [@iama_rishi](https://instagram.com/iama_rishi).
-
-- I usually like the quotes that <a href="https://instagram.com/_nitch">@_nitch</a> puts on Instagram.
-
+- I usually like the quotes that <a href="https://instagram.com/__nitch">@nitch</a> puts on Instagram.
 - Rest of the quotes can be found [here](https://r8w.github.io/notes/2021/05/31/quotes.html).
 
 ---
