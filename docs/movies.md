@@ -6,7 +6,7 @@ nav_order: 997
 
 # Movies & TV Shows
 
-Watch good movies. Keep the track.
+Watch good movies and shows. That's it.
 
 ## For Movies..
 
@@ -14,9 +14,9 @@ I'm not a movie buff, and I've watched a handful of movies in my life. Some I wa
 
 I can't watch anything that I stumble upon, and I don't, but once in a while, I feel like I should try to see what cinema has to offer. Only a handful of time I've been disappointed.
 
-I don't have a Netflix account, but I'm thankful to Taavishi for sharing her password. Sometimes, I watch movies with her using Teleparty. It's the only time I log into her account. These days, I need motivation and company to watch a movie. She's a fine human being and a good sport.
+I don't have a Netflix account, but I'm thankful to Tavishi for sharing her password. Sometimes, I watch movies with her using Teleparty. It's the only time I log into her account. These days, I need motivation and company to watch a movie. She's a fine human being and a good sport.
 
-Below is a list of movies that I've watched and liked. I know I might miss a lot of them, but it doesn’t matter. If I get to remember the names, I’ll add them to the list. I'm using __ICheckMovies__ to keep the track.
+Below is a list of movies that I've watched and liked. I know I might miss a lot of them, but it doesn't matter. If I get to remember the names, I’ll add them to the list. I'm using __ICheckMovies__ to keep the track.
 
 
 <!-- - List of Movies - [TrackT](https://trakt.tv/users/codedotjs) -->
