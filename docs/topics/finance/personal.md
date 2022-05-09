@@ -1,0 +1,38 @@
+---
+layout: default
+title: Personal Finance
+nav_order: 1
+parent: Finance
+grand_parent: Topics
+---
+
+# Personal Finance
+{: .no_toc }
+
+*“A Penny Saved is a Penny Earned”*
+
+__*--- Benjamin Franklin*__
+
+---
+
+God, I'm genuinely an illiterate when it comes to personal financing. I know how to manage money, and I'm good with it, but I've got nil idea about the terms people use to describe countless aspects which revolve around personal financing. I want to be aware enough to be not fooled by someone who is broke but knows everything about personal finance.
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+# Blogs & Articles
+
+---
+
+# Videos
+
+---
+
+# Podcasts
