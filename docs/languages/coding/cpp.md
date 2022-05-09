@@ -1,7 +1,8 @@
 ---
 layout: default
 title: C++
-parent: Languages
+grand_parent: Languages
+parent: Coding
 nav_order: 3
 ---
 

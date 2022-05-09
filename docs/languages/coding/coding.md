@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Languages
-nav_order: 4
+title: Coding
+parent: Languages
+nav_order: 1
 has_children: true
-permalink: /docs/languages
+permalink: /docs/languages/coding/1
 ---
 
-# Programming Languages
+# Languages
 
 Notes, Resources, Links, Courses.
 {: .fs-6 .fw-300 }

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Golang
-parent: Languages
+grand_parent: Languages
+parent: Coding
 nav_order: 4
 ---
 

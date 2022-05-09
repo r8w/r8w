@@ -1,7 +1,8 @@
 ---
 layout: default
 title: CLang
-parent: Languages
+grand_parent: Languages
+parent: Coding
 nav_order: 2
 ---
 
@@ -42,3 +43,5 @@ __Part 3__
 # Notes
 
 # Links
+
+- Make Your Own 64-bit Operating System Kernel - *YouTube* -- [`open`](https://www.youtube.com/watch?v=FkrpUaGThTQ&list=PLZQftyCk7_SeZRitx5MjBKzTtvk0pHMtp)
