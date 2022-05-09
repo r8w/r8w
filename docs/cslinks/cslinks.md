@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: default
 title: CS Links
-nav_order: 6
+nav_order: 8
 has_children: true
 permalink: /docs/cslinks
 ---
-
+ -->
 # Links
 
 Managing bookmarks is the hardest thing ever, or maybe it's hard because I'm bad at managing stuff. Raindrop was the last attempt to keep everything related to URLs at one place, and it's going well.

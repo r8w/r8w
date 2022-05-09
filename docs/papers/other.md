@@ -2,7 +2,7 @@
 layout: default
 title: Other Topics
 parent: Papers
-nav_order: 1
+nav_order: 2
 ---
 
 # Papers and Journals
@@ -20,9 +20,13 @@ nav_order: 1
 
 - India in 21st Century >> [`open`](https://sci-hub.tw/10.2307/2623830)
 
+---
+
 # Geography
 
 - The Biomass Distribution on Earth >> [`open`](https://www.pnas.org/content/pnas/115/25/6506.full.pdf)
+
+---
 
 # Psychology
 
@@ -33,27 +37,37 @@ nav_order: 1
 - Distributed Neural System for Emotional Intelligence Revealed by Lesion Mapping >> [`open`](https://sci-hub.do/10.1093/scan/nss124)
 - The Role of Intelligence Quotient and Emotional Intelligence in Cognitive Control Processes >> [`open`](https://sci-hub.do/10.3389/fpsyg.2015.01853)
 
+---
+
 # Neuroscience
 
 - Time dilates after spontaneous blinking >> [`open`](https://www.cell.com/current-biology/pdf/S0960-9822(16)30332-3.pdf)
 
-# What The Fuck?
+---
 
-- Construction of Gender Identities And The Paradox of Subversion in ‘Rick And Morty’ >> [`open`](http://www.journalcra.com/sites/default/files/issue-pdf/31365.pdf)
 
 # Philosophy
 
 - Misquoting Camus >> [`open`](https://www.academia.edu/19617157/The_noble_art_of_misquoting_Camus_from_its_origins_to_the_Internet_era)
+- The neurological illness of Friedrich Nietzsche >> [`open`](https://pubmed.ncbi.nlm.nih.gov/18575181/)
+	- Friedrich Nietzsche and his illness >> [`open`](https://pubmed.ncbi.nlm.nih.gov/23586545/)
+	- Friedrich Nietzsche's mental illness--general paralysis of the insane vs. frontotemporal dementia. >> [`open`](https://pubmed.ncbi.nlm.nih.gov/17087793/)
+
+---
 
 # Covid 19
 
 - How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online -- *MIT* >> [`open`](https://arxiv.org/pdf/2101.07993.pdf)
 
+---
+
 # Poverty
 
 - Poverty Impedes Cognitive Function -- *Anandi Mani Sendhil Mullainathan, Eldar Shafir, Jiaying Zhao* >> [`open`](https://sci-hub.do/10.1126/science.1238041)
 
-# Sexual Practices and Kink
+---
+
+# Sexual Practices & Kink
 
 - Bondage-Discipline, Dominance-Submission and Sadomasochism (BDSM) From an Integrative Biopsychosocial Perspective: A Systematic Review >> [`open`](https://sci-hub.do/10.1016/j.esxm.2019.02.002)
 - Dilemmas of a subculture: An analysis of BDSM blogs about Fifty Shades of Grey >> [`open`](https://www.academia.edu/40961847/Dilemmas_of_a_subculture_An_analysis_of_BDSM_blogs_about_Fifty_Shades_of_Grey)
@@ -64,8 +78,8 @@ nav_order: 1
 - Catherine Opie: American Photographer, American Pervert >> [`open`](https://www.academia.edu/28632294/Catherine_Opie_American_Photographer_American_Pervert)
 - BDSM, becoming and the flows of desire >> [`open`](https://www.tandfonline.com/doi/full/10.1080/13691058.2018.1485969)
 
-# Nietzsche
+---
 
-- The neurological illness of Friedrich Nietzsche >> [`open`](https://pubmed.ncbi.nlm.nih.gov/18575181/)
-	- Friedrich Nietzsche and his illness >> [`open`](https://pubmed.ncbi.nlm.nih.gov/23586545/)
-	- Friedrich Nietzsche's mental illness--general paralysis of the insane vs. frontotemporal dementia. >> [`open`](https://pubmed.ncbi.nlm.nih.gov/17087793/)
+# Garbage
+
+- Construction of Gender Identities And The Paradox of Subversion in ‘Rick And Morty’ >> [`open`](http://www.journalcra.com/sites/default/files/issue-pdf/31365.pdf)

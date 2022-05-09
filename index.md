@@ -19,7 +19,8 @@ __*Creating Awesomeness? I don't know. I'm thrilled. I'm a bit exhausted.*__
 
 I have a [home page](https://rishi.ml).
 
-Notes are dumped at [r8w](https://r8w.github.io/notes/).
+- notes are dumped at [r8w @ learning curve](https://r8w.github.io/curve).
+- non-cs notes are dumped at [r8w @ general](https://r8w.github.io/notes/).
 
 ---
 
@@ -30,5 +31,3 @@ A valid explanation for the existence of this wiki can be found [here](https://r
 ---
 
 *Hopefully, this place will continue to exist for a long time...*
-
----
