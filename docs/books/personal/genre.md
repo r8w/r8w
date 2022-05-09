@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Genre
-parent: Books
-nav_order: 5
+grand_parent: Books
+parent: Personal
+nav_order: 4
 ---
 
 # Genre
 {: .no_toc }
 
-This section deals with the books related to the different topics like Religion, History, War, Science etc.
+__*This section deals with the books related to the different topics like Religion, History, War, Science etc.*__
 
 ---
 
@@ -17,6 +18,8 @@ This section deals with the books related to the different topics like Religion,
 
 1. TOC
 {:toc}
+
+---
 
 # Art
 
@@ -27,6 +30,8 @@ This section deals with the books related to the different topics like Religion,
 - The Diary of Frida Kahlo: An Intimate Self-Portrait -- *Frida Kahlo*
 - Big Magic: Creative Living Beyond Fear -- *Elizabeth Gilbert*
 - Musicophilia: Tales of Music and the Brain -- *Oliver Shacks*
+
+---
 
 # History
 
@@ -55,10 +60,14 @@ This section deals with the books related to the different topics like Religion,
 - The Unwanted: America, Auschwitz, and a Village Caught in Between -- *Michael Dobbs*
 - Year Zero: A History of 1945 -- *Ian Buruma*
 
+---
+
 # Travel
 
 - Into Thin Air: A Personal Account of the Mount Everest Disaster -- *Jon Krakauer*
 - Into the Wild -- *Jon Krakauer*
+
+---
 
 # Politics
 
@@ -67,6 +76,8 @@ This section deals with the books related to the different topics like Religion,
 - The Shock Doctrine: The Rise of Disaster Capitalism -- *Naomi Klein*
 - Nothing to Envy: Ordinary Lives in North Korea -- *Barbara Demick*
 - The Communist Manifesto -- *Karl Marx*
+
+---
 
 # Biography
 
@@ -90,6 +101,8 @@ This section deals with the books related to the different topics like Religion,
 - Gandhi Before India -- *Ramachandra Guha*
 - Titan: The Life of John. D. Rockefeller Sr. -- *Ron Chernow*
 
+---
+
 # Autobiography
 
 - Autobiography of a Yogi -- *Paramahansa Yogananda*
@@ -104,6 +117,7 @@ This section deals with the books related to the different topics like Religion,
 - Mein Kampf -- *Adolf Hitler*
 - Infidel -- *Ayaan Hirsi Ali*
 
+---
 
 # Religion
 
@@ -120,6 +134,8 @@ This section deals with the books related to the different topics like Religion,
 - Troublemaker: Surviving Hollywood and Scientology -- *Leah Remini*
 - Letter to a Christian Nation -- *Sam Harris*
 - Under the Banner of Heaven -- *Jon Krakauer*
+
+---
 
 # Psychology
 

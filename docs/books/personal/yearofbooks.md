@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Year Of Books
-parent: Books
-nav_order: 4
+grand_parent: Books
+parent: Personal
+nav_order: 1
 ---
 
 # Year of Books
 {: .no_toc }
 
-Inspired by Aaron Swartz's [Year of Books](http://www.aaronsw.com/weblog/books2011).
+__*Inspired by Aaron Swartz's [Year of Books](http://www.aaronsw.com/weblog/books2011).*__
 
 ---
 
@@ -55,7 +56,7 @@ List of books that I've read so far. Most of the books were read during the bad 
 - The Great Shark Hunt ~ Strange Tales From A Strange Time ― *Hunter S. Thompson*
 - Ulysses ― *James Joyce*
 
-<br>
+---
 
 # 2020
 
@@ -140,7 +141,7 @@ __Psychology__
 - Predictably Irrational: The Hidden Forces That Shape Our Decisions ―  *Dan Ariely*
 - The Science of Evil: On Empathy and the Origins of Cruelty ― *Simon Baron-Cohen*
 
-<br>
+---
 
 # 2021
 
@@ -202,7 +203,7 @@ __Classics__
 - [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot) -- *Fyodor Dostoevsky*
 - [The Castle](https://www.goodreads.com/book/show/333538.The_Castle) -- *Franz Kafka*
 
-<br>
+---
 
 # 2022
 

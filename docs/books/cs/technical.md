@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Technical Topics
-parent: Books
+grand_parent: Books
+parent: Computer Science
 nav_order: 3
 ---
 
 # Technical Topics
 {: .no_toc }
 
-An archive of books related to the different technical topics bonded to the web.
+__*An archive of books related to the different technical topics bonded to the web.*__
 
 ---
 
@@ -18,10 +19,14 @@ An archive of books related to the different technical topics bonded to the web.
 1. TOC
 {:toc}
 
+---
+
 # WebSockets
 
 - WebSocket Essentials -- *Varun Chopra*
 - 	Lightweight Django: Using REST, WebSockets, and Backbone -- *Julia Elman, Mark Lavin*
+
+---
 
 # Nginx
 
@@ -29,10 +34,14 @@ An archive of books related to the different technical topics bonded to the web.
 - Complete NGINX Cookbook -- *Derek DeJonghe*
 - Nginx Cookbook -- *Tim Butler*
 
+---
+
 # Apache
 
 - Linux Apache Web Server Administration -- *Charles Aulds*
 - Apache Cookbook -- *Rich Bowne, Ken Coar*
+
+---
 
 # Unit Testing
 
@@ -40,20 +49,28 @@ An archive of books related to the different technical topics bonded to the web.
 - xUnit Test Patterns: Refactoring Test Code -- *Gerard Meszaros*
 - Test-Driven Development By Example -- *Kent Beck*
 
+---
+
 # MySQL
 
 - High performance MySQL -- *Baron Schwartz, Peter Zaitsev, Vadim Tkachenko*
 - MySQL Cookbook -- *Paul DuBois*
 - Learning MySQL -- *Seyed M.M. Tahaghoghi, Hugh E. Williams*
 
+---
+
 # MongoDB
 
 - MongoDB: The Definitive Guide -- *Kristina Chodorow*
+
+---
 
 # WebAssembly
 
 - WebAssembly in Action -- *Gerard Gallant*
 - Programming WebAssembly with Rust -- *Kevin Hoffman*
+
+---
 
 # CI/CD
 
@@ -61,11 +78,15 @@ An archive of books related to the different technical topics bonded to the web.
 - Continuous Delivery, Integration, and Deployment with DevOps -- *Sricharan Vadapalli*
 - Hands on Continuous Integration and Delivery -- *Jean-Marcel Belmont*
 
+---
+
 # GraphQL
 
 - The Road to GraphQL -- *Robin Wieruch*
 - Learning GraphQL -- *Eve Porcello and Alex Banks*
 - Craft GraphQL APIs -- *Bruce Williams, Ben Wilson*
+
+---
 
 # React
 
@@ -73,13 +94,19 @@ An archive of books related to the different technical topics bonded to the web.
 - Pro React 16 -- *Adam Freeman*
 - Fullstack React: The Complete Guide to ReactJS and Friends -- *Accomazzo Anthony*
 
+---
+
 # TypeScript
 
 - Pro TypeScript -- *Steven Fenton*
 
+---
+
 # gRPC
 
 - gRPC: Up and Running -- *Kasun Indrasiri, Danesh Kuruppu*
+
+---
 
 # Kubernetes
 
@@ -87,14 +114,20 @@ An archive of books related to the different technical topics bonded to the web.
 - Cloud Native DevOps with Kubernetes -- *John Arundel, Justin Domingus*
 - Kubernetes in Action -- *Marko Luksa*
 
+---
+
 # Docker
 
 - Docker Dive Deep -- *Nigel Poulton*
 - The Docker Book -- *James Turnbull*
 
+---
+
 # Ansible
 
 - Ansible for DevOps -- *Jeff Geerling*
+
+---
 
 # Git
 
@@ -103,25 +136,37 @@ An archive of books related to the different technical topics bonded to the web.
 - Version Control with Git -- *Jon Loeliger, Matthew McCullough*
 - Git Notes for Professionals -- *GoalKicker*
 
+---
+
 # Prometheus
 
 - Prometheus: Up & Running -- *Brian Brazil*
+
+---
 
 # Kafka
 
 - Kafka: The Definitive Guide -- *Neha Narkhede, Gwen Shapira, Todd Palino*
 
+---
+
 # Elasticserach
 
 - Elasticsearch: The Definitive Guide -- *Clinton Gormley, Zachary Tong*
+
+---
 
 # Terraform
 
 - Terraform: Up & Running -- *Yevgeniy Brikman*
 
+---
+
 # SSH
 
 - SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys -- *Michael W. Lucas*
+
+---
 
 # Build
 
@@ -141,6 +186,8 @@ How
 - Database Internals: A Deep Dive into How Distributed Data Systems Work -- *Alex Petrov*
 - How Linux works : What Every Superuser Should Know -- *Brian Ward*
 
+---
+
 # Software Engineering
 
 - Clean Architecture - Robert C. Martin
@@ -153,6 +200,8 @@ How
 - The Pragmatic Programmer -- *David Thomas, Andrew Hunt*
 - The Software Craftsman -- *Sandro Mancuso*
 - Working Effective with Legacy Code -- *Robert C. Martin*
+
+---
 
 # Interview
 

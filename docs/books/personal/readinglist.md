@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Reading List
-parent: Books
-nav_order: 5
+grand_parent: Books
+parent: Personal
+nav_order: 2
 ---
 
 # Reading List
 
-Usual reading list. Too many names.
+__*Usual reading list. Too many names.*__
 
 - Some are in [Dump](../../../docs/books/dump/#general)
 
@@ -26,6 +27,7 @@ Usual reading list. Too many names.
 - Why We Sleep -- *Matthew Walker*
 - Stuff Matters: Exploring the Marvelous Materials That Share Our Man-Made World -- *Mark Miodowink*
 
+---
 
 ## 2020
 

@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Programming Languages
-parent: Books
+grand_parent: Books
+parent: Computer Science
 nav_order: 2
 ---
 
 # Programming Languages
 {: .no_toc }
 
-Good books related to different sorts of Programming Languages.
+__*Good books related to different sorts of Programming Languages.*__
 
 ---
 
@@ -28,6 +29,8 @@ Good books related to different sorts of Programming Languages.
 - Beginning C -- *Ivor Horton*
 - C Primer Plus -- *Stephen Prata*
 
+---
+
 # C++
 
 - Effective Modern C++ -- *Scott Meyers*
@@ -35,6 +38,8 @@ Good books related to different sorts of Programming Languages.
 - Beginning C++ Through Game Programming -- *Michael Dawson*
 - The C++ Programming Language -- *Bjarne Stroustrap*
 - Programming Principles and Practice Using C++ -- *Bjarne Stroustrap*
+
+---
 
 # Go
 
@@ -45,6 +50,8 @@ Good books related to different sorts of Programming Languages.
 - Programming in Go -- *Mark Summerfield*
 - Go Web Programming -- *Sau Sheong Chang*
 - Concurrency in Go -- *Katherine Cox-Buday*
+
+---
 
 # JavaScript
 
@@ -71,6 +78,8 @@ Good books related to different sorts of Programming Languages.
 - JavaScript Allogne -- *Reg Braithwaite*
 - Rediscovering JavaScript -- *Venkat Subramaniam*
 
+---
+
 # Python
 
 - Fluent Python -- *Luciano Ramalho*
@@ -86,11 +95,14 @@ Good books related to different sorts of Programming Languages.
 - Starting Out with Python -- *Tony Gaddis*
 - Learn Python 3: The Hard Way -- *Zed A. Shaw*
 
+---
+
 # Rust
 
 - The Rust Programming Language -- *Steve Klabnik and Carol Nichols*
 - Programming Rust: Fast, Safe Systems Development -- *Jim Blandy, Jason Orendorff*
 
+---
 
 # Shell Scripting
 

@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Computer Science
-parent: Books
+title: Engineering
+grand_parent: Books
+parent: Computer Science
 nav_order: 1
 ---
 
 # Computer Science Engineering Books
 {: .no_toc }
 
-Computer Science Engineering related books. Confined to foundational subjects on which CSE stands.
+*__Computer Science Engineering related books. Confined to foundational subjects on which CSE stands.__*
 
 ---
 
@@ -31,6 +32,8 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Algorithms -- *S. Dasgupta*
 - Algorithms - Notes for Professionals -- *GoalKicker*
 
+---
+
 # Compilers
 
 - Essensitals of Programming Language -- *Daniel P. Friedman, Mitchell Wand*
@@ -40,6 +43,8 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Crafting A Compiler -- *Rischer, Cytron, LeBLANC*
 - Modern Compiler Implementation in C -- *Andrew W. Appel*
 
+---
+
 # Computer Architecture
 
 - Computer System's: A Programmer's Perspective
@@ -48,6 +53,8 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Computer Organization: A Quantative Approach -- *Patterson, Hennessy*
 - Structured Computer Organization -- *Tanenbaum*
 
+---
+
 # Database
 
 - Fundamentals of Database System -- *Elmasari, Navathe*
@@ -55,11 +62,14 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Database system Concepts, Language & Architecture -- *Paolo Atzeni, Stefano Ceri*
 - Database Management -- *Thomas Cannolly, Carolyn Begg*
 
+---
 
 # Data Structures
 
 - Data Structures Using C -- *Reema Thareja*
 - Notes on Data Structures and Programming Techniques -- *James Aspnes*
+
+---
 
 # Mathematics
 
@@ -72,6 +82,8 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Discrete Mathematics for Computer Scientists -- *Stein, Drysdale, Bogart*
 - Proofs and Fundamentals -- *Ethan D. Bloch*
 
+---
+
 # Networks
 
 - Computer Networking: A Top Down Approach -- *Kurose, Ross*
@@ -82,6 +94,7 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Network Warrior -- *Gary A. Donahue*
 - Internet Routing Architectures -- *Sam Halabi, Danny McPherson*
 
+---
 
 # Operating Systems
 
@@ -91,10 +104,14 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Understanding Operating Systems -- *Ann McIver McHoes, Ida M. Flynn*
 - Think OS -- *Allen B. Downey*
 
+---
+
 # Programming
 
 - How to Design Programs -- *Felleisen, Findler, Flatt, Krishnamurthi*
 - Structure and Interpretation of Program -- *Gerald Jay Sussman, Hal Abelson*
+
+---
 
 # Security
 
@@ -106,6 +123,8 @@ Computer Science Engineering related books. Confined to foundational subjects on
 - Serious Cryptography -- *Jean-Philippe Aumasson*
 - The Web Application Hacker's Handbook -- *Dafydd Stuttard, Marcus Pinto*
 - Security Engineering -- *Ross Anderson*
+
+---
 
 # Topics
 
@@ -120,6 +139,8 @@ I think these sub-sections are sufficient. At present, I don't care about the bo
 - Distributed Systems -- *Marteen, Tanenbaum*
 - Designing Distributed Systems -- *Brendan Burns*
 
+---
+
 ## Linux
 
 - Linux Pocket Guide -- *Daniel J. Barrett*
@@ -131,13 +152,17 @@ I think these sub-sections are sufficient. At present, I don't care about the bo
 - Advacned Programming in Unix Environment -- *W.Richard Stevens, Stephen A. Rago*
 - Sed & Awk -- *Dale Dougberty, Arnold Robbins*
 
+---
 
 ## p2p
 
 - Handbook of Perr-To-Peer Networking -- *Shen, Yu, Buford, Akon*
 - Peer to Peer: Harnessing the Power of Disruptive Technologies -- *Andy Oram*
 
+---
+
 ## Regular Expressions
 
 - Mastering Regular Expressions -- *Jeffrey E. F. Friedl*
 - Regular Expressions Pocket Reference -- *Tony Stubblebine*
+

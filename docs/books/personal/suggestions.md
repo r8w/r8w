@@ -1,14 +1,15 @@
 ---
 layout: default
 title: Suggestions
-parent: Books
-nav_order: 7
+grand_parent: Books
+parent: Personal
+nav_order: 3
 ---
 
 # Suggestions
 {: .no_toc }
 
-Suggested by -- Friends, Social Media, People (in general).
+*__Suggested by -- Friends, Social Media, People.__*
 
 ---
 
@@ -64,6 +65,7 @@ Suggested by -- Friends, Social Media, People (in general).
 - __Vimlendu__
     - The Book Thief -- *Markus Zusak* >> [`open`](https://www.goodreads.com/book/show/19063.The_Book_Thief)
 
+---
 
 # Anonymous
 
@@ -75,8 +77,12 @@ A few anonymous recommendations.
 - The Prince -- *Niccolò Machiavelli* >> [`open`](https://www.goodreads.com/book/show/28862.The_Prince)
 - American Psycho  -- *Bret Easton Ellis* >> [`open`](https://www.goodreads.com/book/show/28676.American_Psycho)
 
+---
+
 
 # Twitter
+
+---
 
 # Unknown
 

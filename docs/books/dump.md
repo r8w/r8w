@@ -8,7 +8,7 @@ nav_order: 8
 # Dump
 {: .no_toc }
 
-Dump, but probably not a garbage bin.
+__*Another Archive*__
 
 ---
 
