@@ -22,4 +22,3 @@ nav_order: 5
 ## Tutorial
 
 - How to Build Your Own Spotify Wrapped with Python, Spotipy and Glide Apps >> [`open`](https://jman4190.medium.com/build-your-own-spotify-wrapped-with-python-spotify-and-glide-apps-493dc7da20b)
-
