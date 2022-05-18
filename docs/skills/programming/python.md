@@ -24,6 +24,7 @@ nav_order: 5
 ## Beginner
 
 - 100 Days of Code -- [`open`](https://sapient.udemy.com/course/100-days-of-code)
+- Python: Zero To Mastery -- [`open`](https://sapient.udemy.com/course/complete-python-developer-zero-to-mastery/)
 <!-- - Python Mega Course -- [`open`](https://sapient.udemy.com/course/the-python-mega-course/) -->
 
 ## Intermediate & Advance
