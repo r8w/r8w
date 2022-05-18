@@ -3,7 +3,7 @@ layout: default
 title: Algorithms
 parent: DS & Algorithms
 grand_parent: bookmark.cs
-nav_order: 2
+nav_order: 1
 ---
 
 # Algorithms
@@ -18,3 +18,8 @@ nav_order: 2
 {:toc}
 
 ---
+
+## Visualizations
+
+- Sorting Algorithms Animations -- [`open`](https://www.toptal.com/developers/sorting-algorithms)
+- Algorithms and Data Structures Visualizations -- [`open`](https://visualgo.net/en)
