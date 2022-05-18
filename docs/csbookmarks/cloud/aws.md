@@ -18,3 +18,7 @@ nav_order: 1
 {:toc}
 
 ---
+
+## Guide
+
+- Serverless Stack Guide >> [`open`](https://serverless-stack.com/guide.html)
