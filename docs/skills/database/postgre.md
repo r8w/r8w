@@ -18,3 +18,7 @@ nav_order: 2
 {:toc}
 
 ---
+
+# Tutorial
+
+- PostgresSQL Tutorial -- Learn Postgres from Scratch >> [`open`](https://www.postgresqltutorial.com/)

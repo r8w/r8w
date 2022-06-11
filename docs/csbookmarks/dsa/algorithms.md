@@ -23,3 +23,9 @@ nav_order: 1
 
 - Sorting Algorithms Animations -- [`open`](https://www.toptal.com/developers/sorting-algorithms)
 - Algorithms and Data Structures Visualizations -- [`open`](https://visualgo.net/en)
+
+---
+
+## Practice
+
+- Binary Search -- [`open`](https://binarysearch.com/problems);
