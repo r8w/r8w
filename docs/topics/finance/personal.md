@@ -29,6 +29,8 @@ God, I'm genuinely an illiterate when it comes to personal financing. I know how
 
 # Blogs & Articles
 
+- 8 Financial Tips for Young Adults >> [`open`](https://www.investopedia.com/articles/younginvestors/08/eight-tips.asp)
+
 ---
 
 # Videos
@@ -36,3 +38,9 @@ God, I'm genuinely an illiterate when it comes to personal financing. I know how
 ---
 
 # Podcasts
+
+---
+
+# Resources
+
+- The 7 Best Finance Books for Teens in 2022 >> [`open`](https://www.investopedia.com/best-finance-books-for-teens-5095590)

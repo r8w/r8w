@@ -26,7 +26,7 @@ nav_order: 993
 ## Jobs/Internships
 
 - Zero to Offer -- [`open`](https://pittcs.wiki/zero-to-offer/)
-
+- Software Engineering Interviews -- [`open`](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 
 ---
 
