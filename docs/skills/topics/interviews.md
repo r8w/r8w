@@ -27,6 +27,8 @@ permalink: /docs/skills/interviews/
 - My Preparation Journey for Google Interviews -- [`open`](https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9)
 - Google Software Engineer Interview -- [`open`](https://igotanoffer.com/blogs/tech/google-software-engineer-interview)
 - Cracking the Google coding interview: The definitive prep guide -- [`open`](https://www.educative.io/blog/google-coding-interview)
+- Everything You Need to Crack the Google Coding Interview -- [`open`](https://www.carrus.io/blog/crack-the-google-coding-interview)
+- The 5 Proven Benefits of Mock Interviews -- [`open`](https://www.carrus.io/blog/interview-prep)
 
 ---
 
@@ -34,6 +36,7 @@ permalink: /docs/skills/interviews/
 
 - Tech Interview Handbook -- [`open`](https://www.techinterviewhandbook.org/)
 - Interview Prep - *Google Tech Dev Guide* -- [`open`](https://techdevguide.withgoogle.com/paths/interview/)
+- Preparation Material - *APM Interviews* -- [`open`](https://careers.google.com/stories/apm-preparation-materials/)
 
 ---
 
