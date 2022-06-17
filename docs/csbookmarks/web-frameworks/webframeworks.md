@@ -4,7 +4,7 @@ title: Web Frameworks
 parent: bookmark.cs
 nav_order: 3
 has_children: true
-permalink: /docs/skills/frameworks
+permalink: /docs/bookmark/frameworks
 ---
 
 # Web Frameworks

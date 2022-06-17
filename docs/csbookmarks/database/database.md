@@ -4,7 +4,7 @@ title: Database
 parent: bookmark.cs
 nav_order: 2
 has_children: true
-permalink: /docs/skills/database
+permalink: /docs/bookmark/database
 ---
 
 # Database

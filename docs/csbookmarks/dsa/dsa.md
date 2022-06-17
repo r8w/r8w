@@ -4,7 +4,7 @@ title: DS & Algorithms
 parent: bookmark.cs
 has_children: true
 nav_order: 11
-permalink: /docs/skills/dsa
+permalink: /docs/bookmark/dsa
 ---
 
 # Data Structures & Algorithms

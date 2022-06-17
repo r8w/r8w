@@ -4,7 +4,7 @@ title: Tools
 parent: bookmark.cs
 nav_order: 5
 has_children: true
-permalink: /docs/skills/tools
+permalink: /docs/bookmark/tools
 ---
 
 # Tools

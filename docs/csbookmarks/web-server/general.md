@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Cloud
+title: General
 parent: bookmark.cs
-nav_order: 3
 has_children: true
-permalink: /docs/bookmark/cloud
+nav_order: 8
+permalink: /docs/bookmark/general
 ---
 
-# Cloud Platforms
+# General
 {: .no_toc}
