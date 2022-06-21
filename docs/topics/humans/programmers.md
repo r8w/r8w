@@ -25,3 +25,7 @@ grand_parent: Topics
 ## Interviews
 
 - VCF East 2019 -- Brian Kernighan interviews Ken Thompson >> [`open`](https://www.youtube.com/watch?v=EY6q5dv_B-o)
+
+---
+
+## Podcast
