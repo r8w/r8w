@@ -29,3 +29,9 @@ nav_order: 1
 ## Practice
 
 - Binary Search -- [`open`](https://binarysearch.com/problems);
+
+---
+
+## Wikipedia
+
+- Cuckoo Hashing -- [`open`](https://en.wikipedia.org/wiki/Cuckoo_hashing)

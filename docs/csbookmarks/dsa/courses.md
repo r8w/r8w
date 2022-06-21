@@ -3,7 +3,7 @@ layout: default
 title: Courses
 parent: DS & Algorithms
 grand_parent: bookmark.cs
-nav_order: 2
+nav_order: 3
 ---
 
 # Courses
