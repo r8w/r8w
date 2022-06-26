@@ -25,13 +25,9 @@ grand_parent: Topics
 
 # Outbreaks
 
+- San Francisco plague of 1900–1904 -- [`open`](https://en.wikipedia.org/wiki/San_Francisco_plague_of_1900%E2%80%931904)
+
 
 ---
 
-# Infectious Diseases
 
----
-
-# Non-infectious Diseases
-
----
