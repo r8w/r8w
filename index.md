@@ -19,8 +19,7 @@ __*Creating Awesomeness? I don't know. I'm thrilled. I'm a bit exhausted.*__
 
 I have a [home page](https://rishi.ml).
 
-- notes are dumped at [r8w @ learning curve](https://r8w.github.io/curve).
-- non-cs notes are dumped at [r8w @ general](https://r8w.github.io/notes/).
+- notes are dumped at [r8w @ notes](https://r8w.github.io/notes).
 
 ---
 
