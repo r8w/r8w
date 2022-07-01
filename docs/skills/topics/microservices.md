@@ -18,5 +18,3 @@ nav_order: 6
 {:toc}
 
 ---
-
-- Microservices with Node.js and React - *Udemy* --- [`open`](https://sapient.udemy.com/course/microservices-with-node-js-and-react/)
