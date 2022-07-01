@@ -10,7 +10,7 @@ nav_order: 2
 
 __*Usual reading list. Too many names.*__
 
-- Some are in [Dump](../../../docs/books/dump/#general)
+- Some are in [Dump](../../../books/dump/#general)
 
 ---
 
@@ -39,3 +39,26 @@ __*Usual reading list. Too many names.*__
 - The Castle -- *Franz Kafka*
 - War and Peace -- *Leo Tolstoy*
 - Discipline and Punish: The Birth of the Prison -- *Michel Foucault*
+
+---
+
+## 2021
+
+- No Books!
+
+---
+
+## 2022
+
+- The Making of a Manager -- *Julie Zhuo* -- [`open`](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
+- The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter -- *Michael D. Watkins* -- [`open`](https://www.goodreads.com/book/show/15824358-the-first-90-days)
+
+
+
+
+
+
+
+
+
+
