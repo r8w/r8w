@@ -19,12 +19,36 @@ nav_order: 6
 
 ---
 
-- ORMs
-- ACID
-- Transactions
-- N+1 Problems
-- Database Normalization
-- Indexes and how they work
-- Data Replication
-- Sharding Strategies
-- CAP Theorem
+## ORMs
+
+---
+
+## ACID
+
+---
+
+## Transactions
+
+---
+
+## N+1 Problems
+
+---
+
+## Database Normalization
+
+---
+
+## Indexes and how they work
+
+---
+
+## Data Replication
+
+---
+
+## Sharding Strategies
+
+---
+
+## CAP Theorem
