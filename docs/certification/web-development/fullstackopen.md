@@ -25,13 +25,58 @@ nav_order: 4
 
 ---
 
-# [Responsive Web Design]
-
-## Projects
-
-## Resources
-
-## Certificate
+## Part 0 -- Fundamentals of Web Applications
 
 ---
+
+## Part 1 -- Introduction to React
+
+---
+
+## Part 2 -- Communication with web server
+
+---
+
+## Part 3 -- Programming a server with NodeJS and Express
+
+---
+
+## Part 4 -- Testing Express servers, user administration
+
+---
+
+## Part 5 -- Testing React Applications
+
+---
+
+## Part 6 -- State management with Redux
+
+---
+
+## Part 7 -- React router, custom hooks, styling apps with CSS and Webpack
+
+---
+
+## Part 8 -- GraphQL
+
+---
+
+## Part 9 -- TypeScript
+
+---
+
+## Part 10 -- React Native
+
+---
+
+## Part 11 -- CI/CD
+
+---
+
+## Part 12 -- Containers
+
+---
+
+## Part 13 -- Using relational databases
+
 
