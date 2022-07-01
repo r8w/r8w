@@ -13,7 +13,7 @@ nav_order: 3
 
 - Course - [EDX CS50](https://freecodecamp.org)
 - Submissions - [Projects - GitHub](https://github.com/CodeDotJS/freakodecamp)
-- Tracker - [Notion Board](https://www.notion.so/36ab3b09db4d4497974e95964901ddb0?v=93889486e7724a0786df98bbd8f522ee)
+- Tracker - [Notion Board](https://notion.so)
 
 ---
 

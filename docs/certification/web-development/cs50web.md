@@ -15,7 +15,7 @@ nav_order: 2
 - Syllabus - [CS50 Official](https://cs50.harvard.edu/web/2020/)
 - Submission - [Projects - GitHub](https://github.com/me50/CodeDotJS)
 - Progress - [CS50 Me](https://cs50.me/cs50x)
-- Tracker - [Notion Board](https://www.notion.so/77c3e77695ca480d936614c757dd8fd6?v=2c6bd102262a40b9b6c3574d64828d76)
+- Tracker - [Notion Board](https://notion.so)
 
 ---
 
