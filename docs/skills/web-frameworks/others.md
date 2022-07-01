@@ -18,7 +18,3 @@ nav_order: 5
 {:toc}
 
 ---
-
-# Express
-
-- Just Express - *Udemy* -- [`open`](https://sapient.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/)
