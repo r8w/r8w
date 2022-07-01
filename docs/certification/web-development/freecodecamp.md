@@ -25,7 +25,7 @@ nav_order: 3
 
 ---
 
-# [Responsive Web Design]
+# Responsive Web Design
 
 ## Projects
 
