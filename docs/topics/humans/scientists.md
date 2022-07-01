@@ -34,7 +34,7 @@ __*Interesting Scientists*__
 
 # Physicists
 
-- J. Robert Oppenheimer: "I am become Death, the destroyer of worlds." -- [`https://www.youtube.com/watch?v=lb13ynu3Iac`]
+- J. Robert Oppenheimer: "I am become Death, the destroyer of worlds." -- [`open`](https://www.youtube.com/watch?v=lb13ynu3Iac)
 
 ---
 

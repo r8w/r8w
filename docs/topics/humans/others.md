@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Others
-nav_order: 11
+nav_order: 999
 parent: Humans
 grand_parent: Topics
 ---

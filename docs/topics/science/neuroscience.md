@@ -27,7 +27,7 @@ __*Science should be question driven, not methodology driven.*__
 
 # Blog & Articles
 
-- Empty-Stomach Intelligence -- [`open`] (https://www.nytimes.com/2006/12/10/magazine/10section1C.t-1.html)
+- Empty-Stomach Intelligence -- [`open`](https://www.nytimes.com/2006/12/10/magazine/10section1C.t-1.html)
 
 ---
 
