@@ -10,7 +10,7 @@ nav_order: 2
 
 __*Usual reading list. Too many names.*__
 
-- Some are in [Dump](../../../../books/dump/#general)
+- Some are in <a href="{{site.baseurl}}/docs/books/dump">Dump</a>
 
 ---
 
