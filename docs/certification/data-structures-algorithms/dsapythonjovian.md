@@ -25,13 +25,36 @@ nav_order: 1
 
 ---
 
-# [Responsive Web Design]
+## Lesson 1 - Binary Search, Linked Lists and Complexity
 
-## Projects
-
-## Resources
-
-## Certificate
+### Assignment 1 - Binary Search Practice
 
 ---
+
+## Lesson 2 - Binary Search Trees, Traversals and Recursion
+
+### Assignment 2 - Hash Tables and Python Dictionaries
+
+---
+
+## Lesson 3 - Sorting Algorithms and Divide & Conquer
+
+### Assignment 3 - Divide and Conquer Practice
+
+---
+
+## Lesson 4 - Recursion and Dynamic Programming
+
+---
+
+## Lesson 5 - Graph Algorithms (BFS, DFS & Shortest Paths)
+
+---
+
+## Project - Step-by-Step Solution to a Programming Problem
+
+---
+
+## Lesson 6 - Python Interview Questions, Tips & Advice
+
 
