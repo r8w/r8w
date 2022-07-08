@@ -2,12 +2,12 @@
 layout: default
 parent: Topics
 has_children: true
-title: Countries
+title: Continents
 nav_order: 7
-permalink: /docs/topics/countries
+permalink: /docs/topics/continents
 ---
 
-# Countries
+# Continents
 {: .no_toc }
 
 __*Bits & Pieces of Pangaea*__
