@@ -38,3 +38,11 @@ __*What's up Asia?*__
 {: .no_toc}
 
 - The Nepalese Honey That Makes People Hallucinate -- [`open`](https://www.youtube.com/watch?v=wDOvmhqvIA8)
+
+---
+
+# Pakistan
+
+## Food
+
+- RARE Pakistani Village Food! The Mountain People of Hunza -- [`open`](https://www.youtube.com/watch?v=5279n4i15ho)

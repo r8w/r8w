@@ -17,7 +17,7 @@ __*Creating Awesomeness? I don't know. I'm thrilled. I'm a bit exhausted.*__
 
 ### Introduction
 
-I have a [home page](https://rishi.ml).
+I have a [home page](https://ir8x.me).
 
 - notes are dumped at [r8w @ notes](https://r8w.github.io/notes).
 
