@@ -22,6 +22,9 @@ nav_order: 3
 
 # From Instagram
 
+- __Abhishek__
+    - Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great -- Joshua Medcalf >> [`open`](https://www.goodreads.com/en/book/show/28405277)
+
 - __Vijay__
     - Roll of the Dice -- *Anand Neelakantan* >> [`open`](https://www.goodreads.com/book/show/18684615-ajaya)
     - Rise of Kali - Duryodhana's Mahabharata  -- *Anand Neelakantan* >>[`open`](https://www.goodreads.com/book/show/25536076-rise-of-kali)

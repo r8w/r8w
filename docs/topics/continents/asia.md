@@ -44,5 +44,6 @@ __*What's up Asia?*__
 # Pakistan
 
 ## Food
+{: .no_toc}
 
 - RARE Pakistani Village Food! The Mountain People of Hunza -- [`open`](https://www.youtube.com/watch?v=5279n4i15ho)
