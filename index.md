@@ -23,7 +23,7 @@ __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrille
 
 ---
 
-### Introduction
+## Introduction
 
 Hi, I’m Rishi, and this is my wiki. I go by basically two names on the internet - __[`@CodeDotJS`](https://github.com/CodeDotJS)__, and this year I added __[`@r8x`](https://ir8x.me)__ to the list. Anyways, I think the names are not that consequential, *especially* in my case.
 
@@ -37,7 +37,7 @@ For me, life is all about doing things that matter despite getting pulled back b
 
 ---
 
-### Reason @ Wiki
+## Reason @ Wiki
 
 The reason for building this wiki is simple - I wanted to have a place where I consciously dump anything and everything. Bookmarking works, but as far as I remember, it never worked for me.
 
@@ -52,9 +52,13 @@ I've realized that this wiki is a place where I can exist without any filters, a
 
 ---
 
-### Wind-up
+## Structure
 
-<center><img width="40%" src="https://coloringonly.com/images/imgcolor/Walking-Stickman-coloring-page.jpg"></center>
+---
+
+## Wind-up
+
+<center><img width="60%" src="https://coloringonly.com/images/imgcolor/Walking-Stickman-coloring-page.jpg"></center>
 
 *Hopefully, this place will continue to exist for a long time!*
 {: .text-center}
