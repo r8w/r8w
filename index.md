@@ -54,6 +54,9 @@ I've realized that this wiki is a place where I can exist without any filters, a
 
 ### Wind-up
 
+<center><img width="40%" src="https://coloringonly.com/images/imgcolor/Walking-Stickman-coloring-page.jpg"></center>
+
 *Hopefully, this place will continue to exist for a long time!*
+{: .text-center}
 
 
