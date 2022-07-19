@@ -36,7 +36,7 @@ Garbage and Gold of Wormhole
 - Civilization is much older than we thought -- *Samo Burja* >> [`open`](https://twitter.com/SamoBurja/status/1394338354590846982?s=08)
 - The Feature of Criminal Mind >> [`open`](https://twitter.com/robkhenderson/status/1393442484668309504?s=08)
 - The Design of ISIS Flag >> [`open`](https://twitter.com/a_el_shamsy/status/1395874364436910084?s=08)
-- Twelve Levels of Friendship in Arabic >> [`open`]9https://twitter.com/TaariqIsmail/status/1402681643714985984?s=08)
+- Twelve Levels of Friendship in Arabic >> [`open`](https://twitter.com/TaariqIsmail/status/1402681643714985984?s=08)
 
 ---
 
