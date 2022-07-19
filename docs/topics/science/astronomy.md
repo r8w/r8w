@@ -32,7 +32,7 @@ grand_parent: Topics
 # James Webb
 
 - Seeing The Universe Like We've Never Seen It Before --- [`open`](https://www.youtube.com/watch?v=3jT_Zui1Am8)
-
+- Special Webb Update: The Webb's First Four (actually 7) Images Explained --- [`open`](https://www.youtube.com/watch?v=Lf4EDcjMtmw)
 
 ---
 
