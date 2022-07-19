@@ -20,16 +20,15 @@ __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrille
 
 ---
 
-- *Credit for the artwork goes to [Aude](https://www.instagram.com/aude_boulord/) who is a dear friend, a phenomenal human being, and a dexterous artist.*
-{: .fs-1 .fw-500}
+<!-- - *Credit for the artwork goes to [Aude](https://www.instagram.com/aude_boulord/) who is a dear friend, a phenomenal human being, and a dexterous artist.*
+{: .fs-1 .fw-500} -->
 
 <!-- ![Life](https://dl3.pushbulletusercontent.com/ky9Dnjat0S1NlygivFrEIcxZdfqBHqwG/158850776_441327147191923_8790429279939182606_n.jpg)
 
 *This picture was taken by my friend in 2015.* -->
 
-{: .fs-4 .text-center .fw-500 }
+<!-- {: .fs-4 .text-center .fw-500 } -->
 
----
 
 ## Introduction
 

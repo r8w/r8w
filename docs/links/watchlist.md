@@ -59,6 +59,8 @@ Things left unwatched due to unavailability of time.
 - Young Israelis Fight for Social Justice - [`Part 1`](https://www.youtube.com/watch?v=GKzdVCYXx-Y), [`Part 2`](https://www.youtube.com/watch?v=lbCEwmCwvxk), and [`Part 3`](https://www.youtube.com/watch?v=rKgeyYr6RQY)
 - John Pilger - Palestine Is Still The Issue >> [`open`](https://www.youtube.com/watch?v=AYF0td7Ykus)
 - The Enduring Mystery of Jack The Ripper >> [`open`](https://www.youtube.com/watch?v=lADBHDg-JtA)
+- Hunting Hitler
+- Wild Wild Country
 
 ---
 
@@ -70,6 +72,7 @@ Things left unwatched due to unavailability of time.
 
 # Movies
 
+- The list is long and I don't even remember where's my watchlist at the moment.
 
 ---
 
