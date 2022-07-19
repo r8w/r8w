@@ -12,7 +12,7 @@ permalink: /
 __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrilled. I'm a bit exhausted.*__
 
 
-[Wiki @ Study](http://example.com/){: .btn .mr-2 } [Wiki @ Personal](http://example.com/){: .btn .btn .mr-2 }
+[Wiki @ Study](https://r8w.github.io/notes){: .btn .mr-2 } [Wiki @ Personal](https://r8w.github.io/personal){: .btn .btn .mr-2 }
 
 {: .fs-6 .fw-300  }
 
@@ -54,11 +54,27 @@ I've realized that this wiki is a place where I can exist without any filters, a
 
 ## Structure
 
+Somehow this wiki got divided into three parts, and I don't mind. I'll describe the use of each section so that even I don't forget what the absolute hell is going on.
+
+### This Wiki
+
+This wiki deals with the specifics, and the horizon is delimited. Everything is topic based, which makes me stick to the meticulous learning of a particular case or subject.
+
+To deal with the distraction that comes along when I'm studying, I decided to shape this wiki accordingly so that I can only focus on what I'm exploring at that particular time. There are some changes that I need to make, but it's an ongoing process, and I wonder if it will ever stop. I'm not worried about it. Although, worry is a decisive choice of word. I'm optimistic regarding how I've set this wiki up.
+
+### Study Wiki  ---  Learning Curve
+
+Described on the homepage of [note @ wiki](https://r8w.github.io/notes)
+
+### Personal Wiki  ---  Life's Slope
+
+Described on the homepage of [life @ wiki](https://r8w.github.io/personal)
+
 ---
 
 ## Wind-up
 
-<center><img width="60%" src="https://coloringonly.com/images/imgcolor/Walking-Stickman-coloring-page.jpg"></center>
+<center><img width="60%" src="media/stickman.jpg"></center>
 
 *Hopefully, this place will continue to exist for a long time!*
 {: .text-center}
