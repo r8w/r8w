@@ -12,7 +12,7 @@ permalink: /
 __*I plan to create awesomeness. I don't know where I'm heading, but I'm thrilled. I'm a bit exhausted.*__
 
 
-[Wiki @ Study](https://r8w.github.io/notes){: .btn .mr-2 } [Wiki @ Personal](https://r8w.github.io/personal){: .btn .btn .mr-2 }
+[Wiki @ Study](https://r8w.github.io/notes){: .btn .mr-2 } [Wiki @ Personal](https://r8w.github.io/mind){: .btn .btn .mr-2 }
 
 ---
 
@@ -81,7 +81,7 @@ Described on the homepage of [note @ wiki](https://r8w.github.io/notes)
 
 ### >> Personal Wiki  ---  Life's Slope
 
-Described on the homepage of [life @ wiki](https://r8w.github.io/personal)
+Described on the homepage of [life @ wiki](https://r8w.github.io/mind)
 
 ---
 
