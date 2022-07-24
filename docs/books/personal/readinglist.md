@@ -52,7 +52,7 @@ __*Usual reading list. Too many names.*__
 
 - The Making of a Manager -- *Julie Zhuo* -- [`open`](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 - The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter -- *Michael D. Watkins* -- [`open`](https://www.goodreads.com/book/show/15824358-the-first-90-days)
-
+- Your Brain Is a Time Machine: The Neuroscience and Physics of Time -- *Dean Buonomano* -- [`open`](https://www.goodreads.com/en/book/show/35187183)
 
 
 
